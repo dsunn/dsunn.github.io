@@ -9,81 +9,64 @@ http://121.18.168.149/cache.ott.ystenlive.itv.cmvideo.cn:80/000000001000/4612233
 http://39.134.39.39/PLTV/88888888/224/3221226189/index.m3u8
 #http://39.135.248.150/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221225970/3.m3u8
 #EXTINF:-1 tvg-id="1984" tvg-name="上视新闻频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shangshixinwen.png" group-title="上海",上视新闻综合
-http://39.135.253.53/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221225973/3.m3u8
-#http://183.207.255.190/live/program/live/xwzhhd/4000000/mnf.m3u8
+http://183.207.255.190/live/program/live/xwzhhd/4000000/mnf.m3u8
 #http://39.134.39.39/PLTV/88888888/224/3221225651/index.m3u8
 #http://39.135.248.150/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221225973/3.m3u8
 #EXTINF:-1 tvg-id="1984" tvg-name="上视新闻频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shangshixinwen.png" group-title="上海",上视新闻综合
-http://39.135.253.53/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226135/1.m3u8
-#http://112.25.48.68/live/program/live/xwzhhd/4000000/mnf.m3u8
+http://112.25.48.68/live/program/live/xwzhhd/4000000/mnf.m3u8
 http://39.135.248.150/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226135/3.m3u8
 #EXTINF:-1 tvg-id="1991" tvg-name="上视外语频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaiwaiyu.png" group-title="上海",上视外语频道
-http://39.135.253.53/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226136/1.m3u8
-#http://183.207.255.190/live/program/live/wypdhd/4000000/mnf.m3u8
-#http://39.135.248.150/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226136/3.m3u8
+http://183.207.255.190/live/program/live/wypdhd/4000000/mnf.m3u8
+@http://39.135.248.150/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226136/3.m3u8
 #EXTINF:-1 tvg-id="1985" tvg-name="第一财经" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/diyicaijing.png" group-title="上海",第一财经
-http://39.135.253.53/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226138/1.m3u8
-#http://183.207.255.190/live/program/live/dycjhd/4000000/mnf.m3u8
+http://183.207.255.190/live/program/live/dycjhd/4000000/mnf.m3u8
 #http://39.135.248.150/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226138/3.m3u8
 #EXTINF:-1 tvg-id="1989" tvg-name="上海都市频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidushi.jpg" group-title="上海",上海都市频道
-http://39.135.253.53/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226141/1.m3u8
-#http://183.207.255.190/live/program/live/ylpdhd/4000000/mnf.m3u8
+http://183.207.255.190/live/program/live/ylpdhd/4000000/mnf.m3u8
 #http://39.135.248.150/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226141/3.m3u8
 #EXTINF:-1 tvg-id="62" tvg-name="哈哈炫动" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xuandong.png" group-title="上海",哈哈炫动
 http://183.207.255.190/live/program/live/hhxdhd/4000000/mnf.m3u8
 #http://39.135.248.150/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226139/3.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="上海",动漫秀场
-http://39.135.253.53/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226145/1.m3u8
-#http://183.207.255.190/live/program/live/dmxchd/4000000/mnf.m3u8
+http://183.207.255.190/live/program/live/dmxchd/4000000/mnf.m3u8
 #http://39.135.248.150/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221225977/3.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="上海",都市剧场
-http://39.135.253.53/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226141/1.m3u8
-#http://183.207.255.190/live/program/live/dsjchd/4000000/mnf.m3u8
+http://183.207.255.190/live/program/live/dsjchd/4000000/mnf.m3u8
 #http://39.135.248.150/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226143/3.m3u8
 #EXTINF:-1 tvg-id="1977" tvg-name="欢笑剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.png" group-title="上海",欢笑剧场
-http://39.135.253.53/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226144/1.m3u8
-#http://183.207.255.190/live/program/live/hxjchd/4000000/mnf.m3u8
+http://183.207.255.190/live/program/live/hxjchd/4000000/mnf.m3u8
 #http://39.135.248.150/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226144/3.m3u8
 #EXTINF:-1 tvg-id="1977" tvg-name="欢笑剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.png" group-title="上海",欢笑剧场4K12M
 http://39.134.39.39/PLTV/88888888/224/3221226318/index.m3u8
 #EXTINF:-1 tvg-id="1988" tvg-name="上海纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="上海",上海纪实人文高清2K
-http://39.135.253.53/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226137/1.m3u8
-#rtmp://58.200.131.2:1935/livetv/docuchina
+rtmp://58.200.131.2:1935/livetv/docuchina
 #http://39.135.248.150/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226137/3.m3u8
 #EXTINF:-1 tvg-id="1988" tvg-name="上海纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="上海",上海纪实人文7.5M1080
 http://183.207.255.190/live/program/live/jspdhd/4000000/mnf.m3u8
 #http://39.134.39.39/PLTV/88888888/224/3221226313/index.m3u8
 #EXTINF:-1 tvg-id="1981" tvg-name="生活时尚" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shenghuoshishang.png" group-title="上海",上海生活时尚高清2K
-http://39.135.253.53/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226140/1.m3u8
-#http://183.207.255.190/live/program/live/shsshd/4000000/mnf.m3u8
+http://183.207.255.190/live/program/live/shsshd/4000000/mnf.m3u8
 #http://39.135.248.150/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226140/3.m3u8
 #EXTINF:-1 tvg-id="1976" tvg-name="全纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/quanjishi.png" group-title="上海",全纪实高清2K
-http://39.135.253.53/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226180/1.m3u8
-#http://183.207.255.190/live/program/live/qjshd/4000000/mnf.m3u8
+http://183.207.255.190/live/program/live/qjshd/4000000/mnf.m3u8
 #http://39.135.248.150/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226180/3.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="上海",法治天地
-http://39.135.253.53/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226142/1.m3u8
-#http://183.207.255.190/live/program/live/fztd/1300000/mnf.m3u8
+http://183.207.255.190/live/program/live/fztd/1300000/mnf.m3u8
 #http://39.135.248.150/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226142/3.m3u8
 #EXTINF:-1 tvg-id="1983" tvg-name="游戏风云" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youxifengyun.png" group-title="上海",游戏风云2K
-http://39.135.253.53/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226146/1.m3u8
-#http://183.207.255.190/live/program/live/yxfyhd/4000000/mnf.m3u8
+http://183.207.255.190/live/program/live/yxfyhd/4000000/mnf.m3u8
 #http://39.135.248.150/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226146/3.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="上海",东方财经浦东
-http://39.135.253.53/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226147/1.m3u8
-#http://183.207.255.190/live/program/live/dfcj/1300000/mnf.m3u8
+http://183.207.255.190/live/program/live/dfcj/1300000/mnf.m3u8
 #http://39.135.248.150/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226147/3.m3u8
 #EXTINF:-1 tvg-id="1956" tvg-name="七彩戏剧" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/qicaixiju.png" group-title="上海",七彩戏剧
-http://39.135.253.53/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226148/1.m3u8
-#http://183.207.255.190/live/program/live/qcxj/1300000/mnf.m3u8
+http://183.207.255.190/live/program/live/qcxj/1300000/mnf.m3u8
 #http://39.135.248.150/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226148/3.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="上海",金色频道
-http://39.135.253.53/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226149/1.m3u8
-#http://183.207.255.190/live/program/live/jingsepd/1300000/mnf.m3u8
+http://183.207.255.190/live/program/live/jingsepd/1300000/mnf.m3u8
 #http://39.135.248.150/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226149/3.m3u8
 #EXTINF:-1 tvg-id="1975" tvg-name="MAX极速汽车" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jisuqiche.png" group-title="上海",极速汽车2K
-http://39.135.253.53/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226152/2.m3u8
-#http://183.207.255.190/live/program/live/jsqchd/4000000/mnf.m3u8
+http://183.207.255.190/live/program/live/jsqchd/4000000/mnf.m3u8
 #http://39.135.248.150/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226152/3.m3u8
 #EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="上海",五星体育高清
 http://183.207.255.190/live/program/live/ssty/4000000/mnf.m3u8
@@ -92,25 +75,19 @@ http://183.207.255.190/live/program/live/ssty/4000000/mnf.m3u8
 http://183.207.255.190/live/program/live/dsjpdhd/4000000/mnf.m3u8
 #http://39.135.248.150/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221225970/2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="上海",上海法治天地
-http://39.135.253.53/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226142/2.m3u8
-#http://140.207.241.2:8080/live/program/live/fztd/1300000/mnf.m3u8
+http://140.207.241.2:8080/live/program/live/fztd/1300000/mnf.m3u8
 #EXTINF:-1 tvg-id="1984" tvg-name="上视新闻频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shangshixinwen.png" group-title="上海",上海新闻综合
-http://39.135.253.53/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226135/3.m3u8
-#http://140.207.241.2:8080/live/program/live/xwzhhd/4000000/mnf.m3u8
+http://140.207.241.2:8080/live/program/live/xwzhhd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="1986" tvg-name="东方影视" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidongfangyingshi.png" group-title="上海",上海东方影视
 http://140.207.241.2:8080/live/program/live/dsjpdhd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="1989" tvg-name="上海都市频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidushi.jpg" group-title="上海",上海都市频道高清
-http://39.135.253.53/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226141/2.m3u8
-#http://140.207.241.2:8080/live/program/live/ylpdhd/4000000/mnf.m3u8
+http://140.207.241.2:8080/live/program/live/ylpdhd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="1991" tvg-name="上视外语频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaiwaiyu.png" group-title="上海",上海外语频道
-http://39.135.253.53/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226136/2.m3u8
-#http://140.207.241.2:8080/live/program/live/wypdhd/4000000/mnf.m3u8
+http://140.207.241.2:8080/live/program/live/wypdhd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="1985" tvg-name="第一财经" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/diyicaijing.png" group-title="上海",上海第一财经
-http://39.135.253.53/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226138/2.m3u8
-#http://140.207.241.2:8080/live/program/live/dycjhd/4000000/mnf.m3u8
+http://140.207.241.2:8080/live/program/live/dycjhd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="1988" tvg-name="上海纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="上海",上海纪实频道
-http://39.135.253.53/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226137/2.m3u8
-#http://140.207.241.2:8080/live/program/live/jspdhd/4000000/mnf.m3u8
+http://140.207.241.2:8080/live/program/live/jspdhd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="上海",上海五星体育
 http://140.207.241.2:8080/live/program/live/ssty/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="1964" tvg-name="劲爆体育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinbaotiyu.jpg" group-title="上海",上海劲爆体育
@@ -118,47 +95,35 @@ http://140.207.241.2:8080/live/program/live/jbtyhd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="1963" tvg-name="新视觉" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xinshijue.png" group-title="上海",上海新视觉
 http://140.207.241.2:8080/live/program/live/xsjhd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="1976" tvg-name="全纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/quanjishi.png" group-title="上海",上海全纪实
-http://39.135.253.53/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226180/2.m3u8
-#http://140.207.241.2:8080/live/program/live/qjshd/4000000/mnf.m3u8
+http://140.207.241.2:8080/live/program/live/qjshd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="1975" tvg-name="MAX极速汽车" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jisuqiche.png" group-title="上海",上海极速汽车
-http://39.135.253.53/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226152/1.m3u8
-#http://140.207.241.2:8080/live/program/live/jsqchd/4000000/mnf.m3u8
+http://140.207.241.2:8080/live/program/live/jsqchd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="上海",上海动漫秀场
-http://39.135.253.53/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221225977/3.m3u8
-#http://140.207.241.2:8080/live/program/live/dmxchd/4000000/mnf.m3u8
+http://140.207.241.2:8080/live/program/live/dmxchd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="1977" tvg-name="欢笑剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.png" group-title="上海",上海欢笑剧场
-http://39.135.253.53/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226144/2.m3u8
-#http://140.207.241.2:8080/live/program/live/hxjchd/4000000/mnf.m3u8
+http://140.207.241.2:8080/live/program/live/hxjchd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="7242" tvg-name="魅力足球" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/meilizuqiu.png" group-title="上海",魅力足球
 http://140.207.241.2:8080/live/program/live/mlyyhd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="1981" tvg-name="生活时尚" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shenghuoshishang.png" group-title="上海",上海生活时尚
-http://39.135.253.53/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226140/2.m3u8
-#http://140.207.241.2:8080/live/program/live/shsshd/4000000/mnf.m3u8
+http://140.207.241.2:8080/live/program/live/shsshd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="1983" tvg-name="游戏风云" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youxifengyun.png" group-title="上海",上海游戏风云
-http://39.135.253.53/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226146/2.m3u8
-#http://140.207.241.2:8080/live/program/live/yxfyhd/4000000/mnf.m3u8
+http://140.207.241.2:8080/live/program/live/yxfyhd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="62" tvg-name="哈哈炫动" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xuandong.png" group-title="上海",上海哈哈炫动
-http://39.135.253.53/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226139/2.m3u8
-#http://140.207.241.2:8080/live/program/live/xdkt/1300000/mnf.m3u8
+http://140.207.241.2:8080/live/program/live/xdkt/1300000/mnf.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="上海",上海东方财经
-http://39.135.253.53/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226147/2.m3u8
-#http://140.207.241.2:8080/live/program/live/dfcj/1300000/mnf.m3u8
+http://140.207.241.2:8080/live/program/live/dfcj/1300000/mnf.m3u8
 #EXTINF:-1 tvg-id="1956" tvg-name="七彩戏剧" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/qicaixiju.png" group-title="上海",七彩戏剧
-http://39.135.253.53/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226148/2.m3u8
-#http://140.207.241.2:8080/live/program/live/qcxj/1300000/mnf.m3u8
+http://140.207.241.2:8080/live/program/live/qcxj/1300000/mnf.m3u8
 #EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinyingkatong.png" group-title="上海",金鹰卡通
-http://39.135.253.53/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226176/1.m3u8
-#http://luotuo.ycchenrong.cn/dl/woniu.php?id=10000036
+http://luotuo.ycchenrong.cn/dl/woniu.php?id=10000036
 #http://140.207.241.2:8080/live/program/live/jykt/1300000/mnf.m3u8
 #EXTINF:-1 tvg-id="6010" tvg-name="嘉佳卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jiajiakt.png" group-title="上海",嘉佳卡通
-http://39.135.253.53/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226178/1.m3u8
-#http://140.207.241.2:8080/live/program/live/jjkt/1300000/mnf.m3u8
+http://140.207.241.2:8080/live/program/live/jjkt/1300000/mnf.m3u8
 
 
 #上海1
 #EXTINF:-1 tvg-id="1984" tvg-name="上视新闻频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shangshixinwen.png" group-title="上海1",上海新闻综合蓝光
-http://39.135.253.53/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226135/2.m3u8
-#http://140.207.241.2:8080/live/program/live/xwzhhd/4000000/mnf.m3u8
+http://140.207.241.2:8080/live/program/live/xwzhhd/4000000/mnf.m3u8
 #http://140.207.241.2:8080/live/program/live/xwzhhd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="1986" tvg-name="东方影视" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidongfangyingshi.png" group-title="上海1", 东方影视蓝光
 http://121.18.168.149/cache.ott.ystenlive.itv.cmvideo.cn:80/000000001000/5000000010000032212/index.m3u8?channel-id=bestzb&Contentid=5000000010000032212&livemode=1&authCode=3a&stbId=005301FF00158910000000212621B1F2&version=1.0&owaccmark=5000000010000032212&owchid=bestzb&owsid=2093431579530013084&AuthInfo=2TOfGIahP4HrGWrHbpJXVC70y2PVjmhUubUspsIcpqbPt3njBIzWc%2Fam35vTsnvWPWGkzpZH3A16MnnNHKq3GxKdDnIii87ggbdt%2FwooaevY4cuAtO0vMGGwXuHO%2Biok
@@ -166,7 +131,7 @@ http://121.18.168.149/cache.ott.ystenlive.itv.cmvideo.cn:80/000000001000/5000000
 http://121.18.168.149/cache.ott.ystenlive.itv.cmvideo.cn:80/000000001000/1000000001000010606/1.m3u8?stbId=005301FF001589101611549359B92C46&channel-id=ystenlive&Contentid=1000000001000010606&mos=jbjhhzstsl&livemode=1&version=1.0&owaccmark=1000000001000010606&owchid=ystenlive&owsid=5474771579530255373&AuthInfo=2TOfGIahP4HrGWrHbpJXVOhAZZf%2B%2BRvFCOimr7PCGr%2Bu3lLj0NrV6tPDBIsVEpn3QZdNn969VxaznG4qedKIxPvWqo6nkyvxK0SnJLSEP%2FF4Wxm5gCchMH9VO%2BhWyofF
 #EXTINF:-1 tvg-id="1991" tvg-name="上视外语频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaiwaiyu.png" group-title="上海1", 上海外语蓝光
 http://121.18.168.149/cache.ott.ystenlive.itv.cmvideo.cn:80/000000001000/5000000010000030951/index.m3u8?channel-id=bestzb&Contentid=5000000010000030951&livemode=1&authCode=3a&stbId=005303FF0002189018212C1875540E0E&version=1.0&owaccmark=5000000010000030951&owchid=bestzb&owsid=5275181579530295306&AuthInfo=%2FcylGCbqLdFJuk2wbal8%2B%2FwyUq8npJ58oVaJUzBhF9PPt3njBIzWc%2Fam35vTsnvW6JhDYuiodydLTeMKHTm0L2zYfQnHdO1Iw0VU34c0CqRBZ788c%2Fr%2FVjoxJ5D0QVcG
-#EXTINF:-1 tvg-id="1985" tvg-name="第一财经" tvg-logo="http://epg.51zmthttp://39.135.253.53/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226178/1.m3u8.top:8000/tb1/qt/diyicaijing.png" group-title="上海1", 第一财经蓝光
+#EXTINF:-1 tvg-id="1985" tvg-name="第一财经" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/diyicaijing.png" group-title="上海1", 第一财经蓝光
 http://121.18.168.149/cache.ott.ystenlive.itv.cmvideo.cn:80/000000001000/5000000010000027146/index.m3u8?channel-id=bestzb&Contentid=5000000010000027146&livemode=1&authCode=3a&stbId=005301FF00158910000000212621B272&version=1.0&owaccmark=5000000010000027146&owchid=bestzb&owsid=2047321579530436324&AuthInfo=2TOfGIahP4HrGWrHbpJXVGQxu5HMK%2BIheH%2BppAJUFQfPt3njBIzWc%2Fam35vTsnvW%2Bh72VHwN1p1HFLVpAXsbYI0I2J%2FhJvUENkmrKWvJBWHflOM1WROOndOSHiRR8ilK
 #EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="上海1", 五星体育蓝光
 http://121.18.168.149/cache.ott.ystenlive.itv.cmvideo.cn:80/000000001000/5000000010000017540/index.m3u8?channel-id=bestzb&Contentid=5000000010000017540&livemode=1&stbId=004003FF0017301364008422F151297C&userToken=22da83031e59d012e61af366ad30871e02vv&usergroup=g02020000000&version=1.0&owaccmark=5000000010000017540&owchid=bestzb&owsid=4493204831455228383&AuthInfo=N%2BiD7%2BHgi9LcszGFRGa51uAqiHNpkS5d0%2FEIXqMyy8J6GNpZ%2BE47AWi696WsOzmj7u8gynrDaeemmd3KgHvW7jm8s%2FkPykV1GmMdpMkc7doBK82U9CVAXx34x1%2FYjl4A
