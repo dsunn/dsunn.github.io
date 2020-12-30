@@ -13,7 +13,8 @@ http://183.207.255.190/live/program/live/xwzhhd/4000000/mnf.m3u8
 #http://39.134.39.39/PLTV/88888888/224/3221225651/index.m3u8
 #http://39.135.248.150/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221225973/3.m3u8
 #EXTINF:-1 tvg-id="1984" tvg-name="上视新闻频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shangshixinwen.png" group-title="上海",上视新闻综合
-http://112.25.48.68/live/program/live/xwzhhd/4000000/mnf.m3u8
+http://39.135.253.53/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226135/3.m3u8
+#http://112.25.48.68/live/program/live/xwzhhd/4000000/mnf.m3u8
 http://39.135.248.150/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226135/3.m3u8
 #EXTINF:-1 tvg-id="1991" tvg-name="上视外语频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaiwaiyu.png" group-title="上海",上视外语频道
 http://183.207.255.190/live/program/live/wypdhd/4000000/mnf.m3u8
@@ -123,7 +124,8 @@ http://140.207.241.2:8080/live/program/live/jjkt/1300000/mnf.m3u8
 
 #上海1
 #EXTINF:-1 tvg-id="1984" tvg-name="上视新闻频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shangshixinwen.png" group-title="上海1",上海新闻综合蓝光
-http://140.207.241.2:8080/live/program/live/xwzhhd/4000000/mnf.m3u8
+http://39.135.253.53/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226135/2.m3u8
+#http://140.207.241.2:8080/live/program/live/xwzhhd/4000000/mnf.m3u8
 #http://140.207.241.2:8080/live/program/live/xwzhhd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="1986" tvg-name="东方影视" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidongfangyingshi.png" group-title="上海1", 东方影视蓝光
 http://121.18.168.149/cache.ott.ystenlive.itv.cmvideo.cn:80/000000001000/5000000010000032212/index.m3u8?channel-id=bestzb&Contentid=5000000010000032212&livemode=1&authCode=3a&stbId=005301FF00158910000000212621B1F2&version=1.0&owaccmark=5000000010000032212&owchid=bestzb&owsid=2093431579530013084&AuthInfo=2TOfGIahP4HrGWrHbpJXVC70y2PVjmhUubUspsIcpqbPt3njBIzWc%2Fam35vTsnvWPWGkzpZH3A16MnnNHKq3GxKdDnIii87ggbdt%2FwooaevY4cuAtO0vMGGwXuHO%2Biok
