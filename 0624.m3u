@@ -2,7 +2,8 @@
 
 #上海
 #EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="上海",五星体育
-http://121.18.168.149/cache.ott.ystenlive.itv.cmvideo.cn:80/000000001000/4612233678249154892/index.m3u8?channel-id=bestzb&Contentid=4612233678249154892&livemode=1&authCode=3a&stbId=005301FF001589101611549359B95001&version=1.0&owaccmark=4612233678249154892&owchid=bestzb&owsid=1779721579529023740&AuthInfo=2TOfGIahP4HrGWrHbpJXVMf9GKsKSOxo3z9oMCSFNzd9hkuYOs2VB84It64D80NJi4eXOKW3GuNNz9Fm%2FKg8xywLT7mM729fPyVIkI9Esx1ZNxN%2F6BsKFZl0vwsL8fqK
+http://183.207.255.188/live/program/live/ssty/4000000/mnf.m3u8
+#http://121.18.168.149/cache.ott.ystenlive.itv.cmvideo.cn:80/000000001000/4612233678249154892/index.m3u8?channel-id=bestzb&Contentid=4612233678249154892&livemode=1&authCode=3a&stbId=005301FF001589101611549359B95001&version=1.0&owaccmark=4612233678249154892&owchid=bestzb&owsid=1779721579529023740&AuthInfo=2TOfGIahP4HrGWrHbpJXVMf9GKsKSOxo3z9oMCSFNzd9hkuYOs2VB84It64D80NJi4eXOKW3GuNNz9Fm%2FKg8xywLT7mM729fPyVIkI9Esx1ZNxN%2F6BsKFZl0vwsL8fqK
 #http://39.134.39.39/PLTV/88888888/224/3221226178/index.m3u8
 #http://39.135.248.150/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221225964/3.m3u8
 #EXTINF:-1 tvg-id="1986" tvg-name="东方影视" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidongfangyingshi.png" group-title="上海",东方影视
@@ -128,15 +129,20 @@ http://39.135.253.53/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226135/2
 #http://140.207.241.2:8080/live/program/live/xwzhhd/4000000/mnf.m3u8
 #http://140.207.241.2:8080/live/program/live/xwzhhd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="1986" tvg-name="东方影视" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidongfangyingshi.png" group-title="上海1", 东方影视蓝光
-http://121.18.168.149/cache.ott.ystenlive.itv.cmvideo.cn:80/000000001000/5000000010000032212/index.m3u8?channel-id=bestzb&Contentid=5000000010000032212&livemode=1&authCode=3a&stbId=005301FF00158910000000212621B1F2&version=1.0&owaccmark=5000000010000032212&owchid=bestzb&owsid=2093431579530013084&AuthInfo=2TOfGIahP4HrGWrHbpJXVC70y2PVjmhUubUspsIcpqbPt3njBIzWc%2Fam35vTsnvWPWGkzpZH3A16MnnNHKq3GxKdDnIii87ggbdt%2FwooaevY4cuAtO0vMGGwXuHO%2Biok
+http://183.207.255.188/live/program/live/dsjpdhd/4000000/mnf.m3u8
+#http://121.18.168.149/cache.ott.ystenlive.itv.cmvideo.cn:80/000000001000/5000000010000032212/index.m3u8?channel-id=bestzb&Contentid=5000000010000032212&livemode=1&authCode=3a&stbId=005301FF00158910000000212621B1F2&version=1.0&owaccmark=5000000010000032212&owchid=bestzb&owsid=2093431579530013084&AuthInfo=2TOfGIahP4HrGWrHbpJXVC70y2PVjmhUubUspsIcpqbPt3njBIzWc%2Fam35vTsnvWPWGkzpZH3A16MnnNHKq3GxKdDnIii87ggbdt%2FwooaevY4cuAtO0vMGGwXuHO%2Biok
 #EXTINF:-1 tvg-id="1988" tvg-name="上海纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="上海1", 纪实人文蓝光
-http://121.18.168.149/cache.ott.ystenlive.itv.cmvideo.cn:80/000000001000/1000000001000010606/1.m3u8?stbId=005301FF001589101611549359B92C46&channel-id=ystenlive&Contentid=1000000001000010606&mos=jbjhhzstsl&livemode=1&version=1.0&owaccmark=1000000001000010606&owchid=ystenlive&owsid=5474771579530255373&AuthInfo=2TOfGIahP4HrGWrHbpJXVOhAZZf%2B%2BRvFCOimr7PCGr%2Bu3lLj0NrV6tPDBIsVEpn3QZdNn969VxaznG4qedKIxPvWqo6nkyvxK0SnJLSEP%2FF4Wxm5gCchMH9VO%2BhWyofF
+http://183.207.255.188/live/program/live/jspdhd/4000000/mnf.m3u8
+#http://121.18.168.149/cache.ott.ystenlive.itv.cmvideo.cn:80/000000001000/1000000001000010606/1.m3u8?stbId=005301FF001589101611549359B92C46&channel-id=ystenlive&Contentid=1000000001000010606&mos=jbjhhzstsl&livemode=1&version=1.0&owaccmark=1000000001000010606&owchid=ystenlive&owsid=5474771579530255373&AuthInfo=2TOfGIahP4HrGWrHbpJXVOhAZZf%2B%2BRvFCOimr7PCGr%2Bu3lLj0NrV6tPDBIsVEpn3QZdNn969VxaznG4qedKIxPvWqo6nkyvxK0SnJLSEP%2FF4Wxm5gCchMH9VO%2BhWyofF
 #EXTINF:-1 tvg-id="1991" tvg-name="上视外语频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaiwaiyu.png" group-title="上海1", 上海外语蓝光
-http://121.18.168.149/cache.ott.ystenlive.itv.cmvideo.cn:80/000000001000/5000000010000030951/index.m3u8?channel-id=bestzb&Contentid=5000000010000030951&livemode=1&authCode=3a&stbId=005303FF0002189018212C1875540E0E&version=1.0&owaccmark=5000000010000030951&owchid=bestzb&owsid=5275181579530295306&AuthInfo=%2FcylGCbqLdFJuk2wbal8%2B%2FwyUq8npJ58oVaJUzBhF9PPt3njBIzWc%2Fam35vTsnvW6JhDYuiodydLTeMKHTm0L2zYfQnHdO1Iw0VU34c0CqRBZ788c%2Fr%2FVjoxJ5D0QVcG
+http://183.207.255.188/live/program/live/wypdhd/4000000/mnf.m3u8
+#http://121.18.168.149/cache.ott.ystenlive.itv.cmvideo.cn:80/000000001000/5000000010000030951/index.m3u8?channel-id=bestzb&Contentid=5000000010000030951&livemode=1&authCode=3a&stbId=005303FF0002189018212C1875540E0E&version=1.0&owaccmark=5000000010000030951&owchid=bestzb&owsid=5275181579530295306&AuthInfo=%2FcylGCbqLdFJuk2wbal8%2B%2FwyUq8npJ58oVaJUzBhF9PPt3njBIzWc%2Fam35vTsnvW6JhDYuiodydLTeMKHTm0L2zYfQnHdO1Iw0VU34c0CqRBZ788c%2Fr%2FVjoxJ5D0QVcG
 #EXTINF:-1 tvg-id="1985" tvg-name="第一财经" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/diyicaijing.png" group-title="上海1", 第一财经蓝光
-http://121.18.168.149/cache.ott.ystenlive.itv.cmvideo.cn:80/000000001000/5000000010000027146/index.m3u8?channel-id=bestzb&Contentid=5000000010000027146&livemode=1&authCode=3a&stbId=005301FF00158910000000212621B272&version=1.0&owaccmark=5000000010000027146&owchid=bestzb&owsid=2047321579530436324&AuthInfo=2TOfGIahP4HrGWrHbpJXVGQxu5HMK%2BIheH%2BppAJUFQfPt3njBIzWc%2Fam35vTsnvW%2Bh72VHwN1p1HFLVpAXsbYI0I2J%2FhJvUENkmrKWvJBWHflOM1WROOndOSHiRR8ilK
+http://183.207.255.188/live/program/live/dycjhd/4000000/mnf.m3u8
+#http://121.18.168.149/cache.ott.ystenlive.itv.cmvideo.cn:80/000000001000/5000000010000027146/index.m3u8?channel-id=bestzb&Contentid=5000000010000027146&livemode=1&authCode=3a&stbId=005301FF00158910000000212621B272&version=1.0&owaccmark=5000000010000027146&owchid=bestzb&owsid=2047321579530436324&AuthInfo=2TOfGIahP4HrGWrHbpJXVGQxu5HMK%2BIheH%2BppAJUFQfPt3njBIzWc%2Fam35vTsnvW%2Bh72VHwN1p1HFLVpAXsbYI0I2J%2FhJvUENkmrKWvJBWHflOM1WROOndOSHiRR8ilK
 #EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="上海1", 五星体育蓝光
-http://121.18.168.149/cache.ott.ystenlive.itv.cmvideo.cn:80/000000001000/5000000010000017540/index.m3u8?channel-id=bestzb&Contentid=5000000010000017540&livemode=1&stbId=004003FF0017301364008422F151297C&userToken=22da83031e59d012e61af366ad30871e02vv&usergroup=g02020000000&version=1.0&owaccmark=5000000010000017540&owchid=bestzb&owsid=4493204831455228383&AuthInfo=N%2BiD7%2BHgi9LcszGFRGa51uAqiHNpkS5d0%2FEIXqMyy8J6GNpZ%2BE47AWi696WsOzmj7u8gynrDaeemmd3KgHvW7jm8s%2FkPykV1GmMdpMkc7doBK82U9CVAXx34x1%2FYjl4A
+http://183.207.255.188/live/program/live/ssty/4000000/mnf.m3u8
+#http://121.18.168.149/cache.ott.ystenlive.itv.cmvideo.cn:80/000000001000/5000000010000017540/index.m3u8?channel-id=bestzb&Contentid=5000000010000017540&livemode=1&stbId=004003FF0017301364008422F151297C&userToken=22da83031e59d012e61af366ad30871e02vv&usergroup=g02020000000&version=1.0&owaccmark=5000000010000017540&owchid=bestzb&owsid=4493204831455228383&AuthInfo=N%2BiD7%2BHgi9LcszGFRGa51uAqiHNpkS5d0%2FEIXqMyy8J6GNpZ%2BE47AWi696WsOzmj7u8gynrDaeemmd3KgHvW7jm8s%2FkPykV1GmMdpMkc7doBK82U9CVAXx34x1%2FYjl4A
 #http://121.18.168.149/cache.ott.ystenlive.itv.cmvideo.cn:80/000000001000/4612233678249154892/index.m3u8?channel-id=bestzb&Contentid=4612233678249154892&livemode=1&authCode=3a&stbId=005301FF001589101611549359B95001&version=1.0&owaccmark=4612233678249154892&owchid=bestzb&owsid=1779721579529023740&AuthInfo=2TOfGIahP4HrGWrHbpJXVMf9GKsKSOxo3z9oMCSFNzd9hkuYOs2VB84It64D80NJi4eXOKW3GuNNz9Fm%2FKg8xywLT7mM729fPyVIkI9Esx1ZNxN%2F6BsKFZl0vwsL8fqK
 http://140.207.241.2:8080/live/program/live/ssty/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="1964" tvg-name="劲爆体育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinbaotiyu.jpg" group-title="上海1",上海劲爆体育蓝光
@@ -146,16 +152,21 @@ http://140.207.241.2:8080/live/program/live/jbtyhd/4000000/mnf.m3u8
 http://140.207.241.2:8080/live/program/live/mlyyhd/4000000/mnf.m3u8
 #http://140.207.241.2:8080/live/program/live/mlyyhd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="1981" tvg-name="生活时尚" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shenghuoshishang.png" group-title="上海1", 生活时尚蓝光
-http://121.18.168.149/cache.ott.ystenlive.itv.cmvideo.cn:80/000000001000/8538616372715313491/index.m3u8?channel-id=bestzb&Contentid=8538616372715313491&livemode=1&authCode=3a&stbId=005301FF001589101611549359B95001&version=1.0&owaccmark=8538616372715313491&owchid=bestzb&owsid=9384351579529030195&AuthInfo=2TOfGIahP4HrGWrHbpJXVMf9GKsKSOxo3z9oMCSFNzfvIfeh1IeRuYy1UKStuEqgLEq69vAaIVm8yJ1Bv9Ubfc12nlc%2FSga%2FjQ8%2F3mwUrQxWfqFwePA0JQWqj9IZCH10
+http://183.207.255.188/live/program/live/shsshd/4000000/mnf.m3u8
+#http://121.18.168.149/cache.ott.ystenlive.itv.cmvideo.cn:80/000000001000/8538616372715313491/index.m3u8?channel-id=bestzb&Contentid=8538616372715313491&livemode=1&authCode=3a&stbId=005301FF001589101611549359B95001&version=1.0&owaccmark=8538616372715313491&owchid=bestzb&owsid=9384351579529030195&AuthInfo=2TOfGIahP4HrGWrHbpJXVMf9GKsKSOxo3z9oMCSFNzfvIfeh1IeRuYy1UKStuEqgLEq69vAaIVm8yJ1Bv9Ubfc12nlc%2FSga%2FjQ8%2F3mwUrQxWfqFwePA0JQWqj9IZCH10
 #http://140.207.241.2:8080/live/program/live/shsshd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="1989" tvg-name="上海都市频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidushi.jpg" group-title="上海1", 上海都市蓝光
-http://121.18.168.149/cache.ott.ystenlive.itv.cmvideo.cn:80/000000001000/6789517052815334336/index.m3u8?channel-id=bestzb&Contentid=6789517052815334336&livemode=1&authCode=3a&stbId=005301FF001589101611549359B94488&version=1.0&owaccmark=6789517052815334336&owchid=bestzb&owsid=3529791579529328057&AuthInfo=2TOfGIahP4HrGWrHbpJXVG%2BEERpEQIU%2FdtpJfuYgRAZD6434P427oxBuLbFRCJn4JFqerLYeYbaWyhUzdTsyRsJkPPbC14Prjj67uIG3APHUBp7pkUo1m6jlajTP1QwT
+http://183.207.255.188/live/program/live/ylpdhd/4000000/mnf.m3u8
+#http://121.18.168.149/cache.ott.ystenlive.itv.cmvideo.cn:80/000000001000/6789517052815334336/index.m3u8?channel-id=bestzb&Contentid=6789517052815334336&livemode=1&authCode=3a&stbId=005301FF001589101611549359B94488&version=1.0&owaccmark=6789517052815334336&owchid=bestzb&owsid=3529791579529328057&AuthInfo=2TOfGIahP4HrGWrHbpJXVG%2BEERpEQIU%2FdtpJfuYgRAZD6434P427oxBuLbFRCJn4JFqerLYeYbaWyhUzdTsyRsJkPPbC14Prjj67uIG3APHUBp7pkUo1m6jlajTP1QwT
 #EXTINF:-1 tvg-id="1989" tvg-name="上海都市频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidushi.jpg" group-title="上海1", 上海都市蓝光
-http://121.18.168.149/cache.ott.ystenlive.itv.cmvideo.cn:80/000000001000/6789517052815334336/index.m3u8?channel-id=bestzb&Contentid=6789517052815334336&livemode=1&stbId=004003FF0041848666008422F155939C&userToken=22da83031e59d012e61af366ad30871e02vv&usergroup=g02020000000&version=1.0&owaccmark=6789517052815334336&owchid=bestzb&owsid=4493204831455331826&AuthInfo=zI7Ouajzmvoo0pGb64%2fbgLE2RFvrprmD90MrWZVi%2bL3HPQnDcXoFLI6SzbzVwjU3sNLudmh14A4CtBNHjWANkrrgGz1D3dYfcKudsIt%2bpr%2fjXiUqpuQHmAckVE8okPuA
+http://39.135.253.53/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226141/1.m3u8
+@http://121.18.168.149/cache.ott.ystenlive.itv.cmvideo.cn:80/000000001000/6789517052815334336/index.m3u8?channel-id=bestzb&Contentid=6789517052815334336&livemode=1&stbId=004003FF0041848666008422F155939C&userToken=22da83031e59d012e61af366ad30871e02vv&usergroup=g02020000000&version=1.0&owaccmark=6789517052815334336&owchid=bestzb&owsid=4493204831455331826&AuthInfo=zI7Ouajzmvoo0pGb64%2fbgLE2RFvrprmD90MrWZVi%2bL3HPQnDcXoFLI6SzbzVwjU3sNLudmh14A4CtBNHjWANkrrgGz1D3dYfcKudsIt%2bpr%2fjXiUqpuQHmAckVE8okPuA
 #EXTINF:-1 tvg-id="1991" tvg-name="上视外语频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaiwaiyu.png" group-title="上海1", 上海ICS蓝光
-http://121.18.168.149/cache.ott.ystenlive.itv.cmvideo.cn:80/000000001000/6032059665143203976/index.m3u8?channel-id=bestzb&Contentid=6032059665143203976&livemode=1&authCode=3a&stbId=8A3603DD004735200000049573C4E39B&version=1.0&owaccmark=6032059665143203976&owchid=bestzb&owsid=8862091567733940095&AuthInfo=QejU%2ByFkapDLEHjn7Vi7Bsh98cz5RjIeOqbMi0QqlalAzdP65EW1KAjwws9eqr8onRppCkq5lhXK46o%2BFK3dV%2BCK3fxe9S11%2B88%2FynrqkhlXX%2BzVbd%2F5J%2FreUEsqODX5
+http://183.207.255.188/live/program/live/wypdhd/4000000/mnf.m3u8
+@http://121.18.168.149/cache.ott.ystenlive.itv.cmvideo.cn:80/000000001000/6032059665143203976/index.m3u8?channel-id=bestzb&Contentid=6032059665143203976&livemode=1&authCode=3a&stbId=8A3603DD004735200000049573C4E39B&version=1.0&owaccmark=6032059665143203976&owchid=bestzb&owsid=8862091567733940095&AuthInfo=QejU%2ByFkapDLEHjn7Vi7Bsh98cz5RjIeOqbMi0QqlalAzdP65EW1KAjwws9eqr8onRppCkq5lhXK46o%2BFK3dV%2BCK3fxe9S11%2B88%2FynrqkhlXX%2BzVbd%2F5J%2FreUEsqODX5
 #EXTINF:-1 tvg-id="1981" tvg-name="生活时尚" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shenghuoshishang.png" group-title="上海1", 生活时尚蓝光
-http://121.18.168.149/cache.ott.ystenlive.itv.cmvideo.cn:80/000000001000/8538616372715313491/index.m3u8?channel-id=bestzb&Contentid=8538616372715313491&livemode=1&authCode=3a&stbId=8A3603DD004735200000049573C4E39B&version=1.0&owaccmark=8538616372715313491&owchid=bestzb&owsid=5457861567734659356&AuthInfo=QejU%2ByFkapDLEHjn7Vi7Bsh98cz5RjIeOqbMi0QqlakS%2FOYtRGR5wcGJDIS9OeTlipH2OO8alDz%2F1TUrW3QAaMFdRScr5Z2333r7naICD73KmBnoU9%2B3A5Ot%2BJeysO4p
+http://183.207.255.188/live/program/live/shsshd/4000000/mnf.m3u8
+#http://121.18.168.149/cache.ott.ystenlive.itv.cmvideo.cn:80/000000001000/8538616372715313491/index.m3u8?channel-id=bestzb&Contentid=8538616372715313491&livemode=1&authCode=3a&stbId=8A3603DD004735200000049573C4E39B&version=1.0&owaccmark=8538616372715313491&owchid=bestzb&owsid=5457861567734659356&AuthInfo=QejU%2ByFkapDLEHjn7Vi7Bsh98cz5RjIeOqbMi0QqlakS%2FOYtRGR5wcGJDIS9OeTlipH2OO8alDz%2F1TUrW3QAaMFdRScr5Z2333r7naICD73KmBnoU9%2B3A5Ot%2BJeysO4p
 #EXTINF:-1 tvg-id="1977" tvg-name="欢笑剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.png" group-title="上海1", 欢笑剧场蓝光
 http://39.134.39.39/PLTV/88888888/224/3221226203/index.m3u8
 #http://112.50.243.8/PLTV/88888888/224/3221226729/1.m3u8
@@ -201,11 +212,13 @@ http://101.71.255.229:6610/zjhs/2/10089/index.m3u8?virtualDomain=zjhs.live_hls.z
 #EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="央视",CCTV-3综艺
 http://39.134.66.66/PLTV/88888888/224/3221225490/index.m3u8
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央视",CCTV-4国际
-http://121.18.168.149/cache.ott.ystenlive.itv.cmvideo.cn:80/000000001000/1000000002000031664/1.m3u8?channel-id=ystenlive&Contentid=1000000002000031664&livemode=1&stbId=00000250001B50800001B401420BC069&userToken=&usergroup=&version=1.0&owaccmark=1000000002000031664&owchid=ystenlive&owsid=4493204828580187354&AuthInfo=zmDeINsczUw%2bXOm6icTIplPJYM0PdJZ7nyJeCqAhmgD4h2W12vkSCe%2bw8qoQi5%2fj1BMuqFcEHMRAJlgQD47XRVqqHN3O4Si9Wv7MjAX%2b8AK0eHLMDmPByGK0oSB43DB7
+http://117.148.187.114/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229749/01.m3u8?fmt=ts2hls
+#http://121.18.168.149/cache.ott.ystenlive.itv.cmvideo.cn:80/000000001000/1000000002000031664/1.m3u8?channel-id=ystenlive&Contentid=1000000002000031664&livemode=1&stbId=00000250001B50800001B401420BC069&userToken=&usergroup=&version=1.0&owaccmark=1000000002000031664&owchid=ystenlive&owsid=4493204828580187354&AuthInfo=zmDeINsczUw%2bXOm6icTIplPJYM0PdJZ7nyJeCqAhmgD4h2W12vkSCe%2bw8qoQi5%2fj1BMuqFcEHMRAJlgQD47XRVqqHN3O4Si9Wv7MjAX%2b8AK0eHLMDmPByGK0oSB43DB7
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视",CCTV-5体育
 http://39.134.168.91/PLTV/1/224/3221225556/index.m3u8
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视",CCTV-5+体育
-http://121.18.168.149/cache.ott.ystenlive.itv.cmvideo.cn:80/000000001000/1000000001000020505/1.m3u8?stbId=005301FF001589101611549359B92F26&channel-id=ystenlive&Contentid=1000000001000020505&mos=jbjhhzstsl&livemode=1&version=1.0&owaccmark=1000000001000020505&owchid=ystenlive&owsid=3007521579531929012&AuthInfo=2TOfGIahP4HrGWrHbpJXVPo6e%2BHF%2BrVo6xQQtyKDSuqu3lLj0NrV6tPDBIsVEpn3e3h8FJNoRfXgk2fJ%2B8A%2BC9FKxw7DogGmhnFazyXoBZJZPx01aV9Q%2Bs%2B%2FVnd4tZOQ
+http://117.148.187.14/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229684/01.m3u8?fmt=ts2hls
+#http://121.18.168.149/cache.ott.ystenlive.itv.cmvideo.cn:80/000000001000/1000000001000020505/1.m3u8?stbId=005301FF001589101611549359B92F26&channel-id=ystenlive&Contentid=1000000001000020505&mos=jbjhhzstsl&livemode=1&version=1.0&owaccmark=1000000001000020505&owchid=ystenlive&owsid=3007521579531929012&AuthInfo=2TOfGIahP4HrGWrHbpJXVPo6e%2BHF%2BrVo6xQQtyKDSuqu3lLj0NrV6tPDBIsVEpn3e3h8FJNoRfXgk2fJ%2B8A%2BC9FKxw7DogGmhnFazyXoBZJZPx01aV9Q%2Bs%2B%2FVnd4tZOQ
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="央视",CCTV-6电影
 http://39.134.66.66/PLTV/88888888/224/3221225488/index.m3u8
 #EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="央视",CCTV-7军事
@@ -213,7 +226,8 @@ http://61.189.255.139/live.aishang.ctlcdn.com/00000110240248_1/encoder/0/playlis
 #EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="央视",CCTV-8电视
 http://39.134.176.148/PLTV/88888888/224/3221226330/index.m3u8
 #EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="央视",CCTV-9纪录
-http://121.18.168.149/cache.ott.ystenlive.itv.cmvideo.cn:80/000000001000/1000000001000014583/1.m3u8?stbId=005303FF00010060000100E400EDD522&channel-id=ystenlive&Contentid=1000000001000014583&mos=jbjhhzstsl&livemode=1&version=1.0&owaccmark=1000000001000014583&owchid=ystenlive&owsid=7167961579531601678&AuthInfo=dIshjDc3shv8ei%2BWF5V%2F4V6lf0HKCsUdpGR8CeY5Zvyu3lLj0NrV6tPDBIsVEpn34sImpRHeOmdxmKUDLs1%2BcZ4JMWbvuFdY7IsuWCFdW392C%2BvFQjyH4LwQq4yRWFvT
+http://121.31.30.87:8085/ysten-business/live/cctv-news/1.m3u8
+#http://121.18.168.149/cache.ott.ystenlive.itv.cmvideo.cn:80/000000001000/1000000001000014583/1.m3u8?stbId=005303FF00010060000100E400EDD522&channel-id=ystenlive&Contentid=1000000001000014583&mos=jbjhhzstsl&livemode=1&version=1.0&owaccmark=1000000001000014583&owchid=ystenlive&owsid=7167961579531601678&AuthInfo=dIshjDc3shv8ei%2BWF5V%2F4V6lf0HKCsUdpGR8CeY5Zvyu3lLj0NrV6tPDBIsVEpn34sImpRHeOmdxmKUDLs1%2BcZ4JMWbvuFdY7IsuWCFdW392C%2BvFQjyH4LwQq4yRWFvT
 #EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="央视",CCTV-10科教
 http://39.134.66.66/PLTV/88888888/224/3221225677/index.m3u8
 #EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="央视",CCTV-11戏曲
@@ -227,7 +241,8 @@ http://39.134.66.66/PLTV/88888888/224/3221225674/index.m3u8
 #EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="央视",CCTV-15音乐
 http://121.18.168.149/cache.ott.ystenlive.itv.cmvideo.cn:80/000000001000/1000000002000008163/1.m3u8?stbId=005301FF00158910000000212621B0EF&channel-id=ystenlive&Contentid=1000000002000008163&mos=jbjhhzstsl&livemode=1&version=1.0&owaccmark=1000000002000008163&owchid=ystenlive&owsid=8159411579531758075&AuthInfo=2TOfGIahP4HrGWrHbpJXVCfBjPWQNL5VnKaoeN%2FnWIWjKNizoRlMOkuvsTe1URoev67GfI1oIH4w2vVjbaVRzv3Enx1RBixVDhCnZtdnlMixFs9te0%2Bpvr2OpfN5d0VT
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视",CCTV-17农业
-http://121.18.168.149/cache.ott.ystenlive.itv.cmvideo.cn:80/000000001000/1000000005000056836/1.m3u8?stbId=005301FF001589101611549359B9325E&channel-id=ystenlive&Contentid=1000000005000056836&mos=jbjhhzstsl&livemode=1&version=1.0&owaccmark=1000000005000056836&owchid=ystenlive&owsid=9164551579532003738&AuthInfo=2TOfGIahP4HrGWrHbpJXVGO0L8hMYc%2BQSE26r5BPa9COQyZOTKfJypXfULnzEX8ov4wHfTVtjr5%2BH1gBPIHFdZVbPTqDjqKmcARryOXhfL7mPOk1Na7QiYpdWHg0hz19tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="央视",CCTV-4K蓝码1
+http://39.134.66.66/PLTV/88888888/224/3221225708/index.m3u8
+#EXTINF:-1 tvg-id="106"  tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="央视",CCTV-4K蓝码1
 http://112.17.40.12/PLTV/88888888/224/3221226758/1.m3u8
 #EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="央视",CCTV-4K高码1
 http://112.17.40.140/PLTV/88888888/224/3221226758/index.m3u8
@@ -311,11 +326,9 @@ http://140.207.241.2:8080/live/program/live/hdnba7/4000000/mnf.m3u8
 
 #卫视1
 #EXTINF:-1 tvg-id="41" tvg-name="东南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title="卫视1",东南卫视蓝光2
-http://121.18.168.149/cache.ott.ystenlive.itv.cmvideo.cn:80/000000001000/1000000002000009263/1.m3u8?channel-id=ystenlive&Contentid=1000000002000009263&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000002000009263&owchid=ystenlive&owsid=1106497909461310172&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5oj7lZFbEKIj3xJcvQPkjhM1XYZKCRYYY%2ff447%2bzETLijqfFgMTSA9x9T2lf3pyhagZIF%2fdE1lc49i65lODYA%2f
-#http://140.207.241.2:8080/live/program/live/dnwshd/4000000/mnf.m3u8
+http://140.207.241.2:8080/live/program/live/dnwshd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="卫视1",东方卫视蓝光2
-http://121.18.168.149/cache.ott.ystenlive.itv.cmvideo.cn:80/000000001000/1000000001000005866/1.m3u8?stbId=005301FF001589101611549359B9656A&channel-id=ystenlive&Contentid=1000000001000005866&mos=jbjhhzstsl&livemode=1&version=1.0&owaccmark=1000000001000005866&owchid=ystenlive&owsid=6312751579529792174&AuthInfo=2TOfGIahP4HrGWrHbpJXVB51rvh1oS437liFJd26gOOu3lLj0NrV6tPDBIsVEpn3OZnoLrZwa8b70lofXkPptSAmb4xhM2tKBJ0VUyBQsWCEzNrIVXcTeS%2F12UFJevdi
-#http://140.207.241.2:8080/live/program/live/hddfws/4000000/mnf.m3u8
+http://140.207.241.2:8080/live/program/live/hddfws/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="卫视1",北京卫视蓝光2
 http://140.207.241.2:8080/live/program/live/bjwshd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="39" tvg-name="天津卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" group-title="卫视1",天津卫视蓝光2
@@ -323,8 +336,7 @@ http://140.207.241.2:8080/live/program/live/tjwshd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="卫视1",安徽卫视蓝光2
 http://140.207.241.2:8080/live/program/live/ahwshd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="38" tvg-name="山东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="卫视1",山东卫视蓝光2
-http://121.18.168.149/cache.ott.ystenlive.itv.cmvideo.cn:80/000000001000/1000000001000012807/1.m3u8?channel-id=ystenlive&Contentid=1000000001000012807&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000001000012807&owchid=ystenlive&owsid=1106497909461291586&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7AORAoVDZDWbFnJ0sXJEaR3cBsIsjm7UHdGO3a4NjD1C4TiYtYt%2by66pvMI%2bkz57DAkgjzetftIzpJRR8RWa0K
-#http://140.207.241.2:8080/live/program/live/sdwshd/4000000/mnf.m3u8
+http://140.207.241.2:8080/live/program/live/sdwshd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="卫视1",广东卫视蓝光2
 http://140.207.241.2:8080/live/program/live/gdwshd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="卫视1",江苏卫视蓝光2
@@ -353,7 +365,8 @@ http://112.17.40.140/PLTV/88888888/224/3221226468/index.m3u8
 #EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="央视2",CCTV-3蓝光3
 http://112.17.40.140/PLTV/88888888/224/3221226485/index.m3u8
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央视2",CCTV-4蓝光3
-http://121.18.168.149/cache.ott.ystenlive.itv.cmvideo.cn:80/000000001000/1000000002000031664/1.m3u8?channel-id=ystenlive&Contentid=1000000002000031664&livemode=1&stbId=00000250001B50800001B401420BC069&userToken=&usergroup=&version=1.0&owaccmark=1000000002000031664&owchid=ystenlive&owsid=4493204828580187354&AuthInfo=zmDeINsczUw%2bXOm6icTIplPJYM0PdJZ7nyJeCqAhmgD4h2W12vkSCe%2bw8qoQi5%2fj1BMuqFcEHMRAJlgQD47XRVqqHN3O4Si9Wv7MjAX%2b8AK0eHLMDmPByGK0oSB43DB7
+ttp://61.189.255.139/live.aishang.ctlcdn.com/00000110240316_1/encoder/0/playlist.m3u8
+#http://121.18.168.149/cache.ott.ystenlive.itv.cmvideo.cn:80/000000001000/1000000002000031664/1.m3u8?channel-id=ystenlive&Contentid=1000000002000031664&livemode=1&stbId=00000250001B50800001B401420BC069&userToken=&usergroup=&version=1.0&owaccmark=1000000002000031664&owchid=ystenlive&owsid=4493204828580187354&AuthInfo=zmDeINsczUw%2bXOm6icTIplPJYM0PdJZ7nyJeCqAhmgD4h2W12vkSCe%2bw8qoQi5%2fj1BMuqFcEHMRAJlgQD47XRVqqHN3O4Si9Wv7MjAX%2b8AK0eHLMDmPByGK0oSB43DB7
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视2",CCTV-5蓝光3
 http://112.17.40.140/PLTV/88888888/224/3221226400/index.m3u8
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视2",CCTV-5+蓝光3
@@ -365,11 +378,13 @@ http://112.17.40.140/PLTV/88888888/224/3221226122/index.m3u8
 #EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="央视2",CCTV-8蓝光3
 http://112.17.40.140/PLTV/88888888/224/3221226493/index.m3u8
 #EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="央视2",CCTV-9蓝光3
-http://121.18.168.149/cache.ott.ystenlive.itv.cmvideo.cn:80/000000001000/1000000001000014583/1.m3u8?stbId=005303FF00010060000100E400EDD522&channel-id=ystenlive&Contentid=1000000001000014583&mos=jbjhhzstsl&livemode=1&version=1.0&owaccmark=1000000001000014583&owchid=ystenlive&owsid=7167961579531601678&AuthInfo=dIshjDc3shv8ei%2BWF5V%2F4V6lf0HKCsUdpGR8CeY5Zvyu3lLj0NrV6tPDBIsVEpn34sImpRHeOmdxmKUDLs1%2BcZ4JMWbvuFdY7IsuWCFdW392C%2BvFQjyH4LwQq4yRWFvT
+http://61.189.255.139/live.aishang.ctlcdn.com/00000110240250_1/encoder/0/playlist.m3u8
+#http://121.18.168.149/cache.ott.ystenlive.itv.cmvideo.cn:80/000000001000/1000000001000014583/1.m3u8?stbId=005303FF00010060000100E400EDD522&channel-id=ystenlive&Contentid=1000000001000014583&mos=jbjhhzstsl&livemode=1&version=1.0&owaccmark=1000000001000014583&owchid=ystenlive&owsid=7167961579531601678&AuthInfo=dIshjDc3shv8ei%2BWF5V%2F4V6lf0HKCsUdpGR8CeY5Zvyu3lLj0NrV6tPDBIsVEpn34sImpRHeOmdxmKUDLs1%2BcZ4JMWbvuFdY7IsuWCFdW392C%2BvFQjyH4LwQq4yRWFvT
 #EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="央视2",CCTV-10蓝光3
 http://112.17.40.140/PLTV/88888888/224/3221226472/index.m3u8
 #EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="央视2",CCTV-11蓝光3
-http://121.18.168.149/cache.ott.ystenlive.itv.cmvideo.cn:80//1000000002000019789/1.m3u8?stbId=005301FF001589101611549359B96031&channel-id=ystenlive&Contentid=1000000002000019789&mos=jbjhhzstsl&livemode=1&version=1.0&owaccmark=1000000002000019789&owchid=ystenlive&owsid=5070431579531812673&AuthInfo=2TOfGIahP4HrGWrHbpJXVDOD3a2KOxiKxQ3OD0iK1ACjKNizoRlMOkuvsTe1URoeoCCSRcfgLDg%2FiG7BT3%2BNlEIMer5%2BuzAqyByddFhoQVMoMRKerLoSM5qM9Az%2Bea7u
+http://61.189.255.139/live.aishang.ctlcdn.com/00000110240328_1/encoder/0/playlist.m3u8
+#http://121.18.168.149/cache.ott.ystenlive.itv.cmvideo.cn:80//1000000002000019789/1.m3u8?stbId=005301FF001589101611549359B96031&channel-id=ystenlive&Contentid=1000000002000019789&mos=jbjhhzstsl&livemode=1&version=1.0&owaccmark=1000000002000019789&owchid=ystenlive&owsid=5070431579531812673&AuthInfo=2TOfGIahP4HrGWrHbpJXVDOD3a2KOxiKxQ3OD0iK1ACjKNizoRlMOkuvsTe1URoeoCCSRcfgLDg%2FiG7BT3%2BNlEIMer5%2BuzAqyByddFhoQVMoMRKerLoSM5qM9Az%2Bea7u
 #EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="央视2",CCTV-12蓝光3
 http://112.17.40.140/PLTV/88888888/224/3221226167/index.m3u8
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="央视2",CCTV-13蓝光3
@@ -378,9 +393,11 @@ http://39.135.135.58/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225599/inde
 #EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="央视2",CCTV-14蓝光3
 http://112.17.40.140/PLTV/88888888/224/3221226565/index.m3u8
 #EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="央视2",CCTV-15蓝光3
-http://121.18.168.149/cache.ott.ystenlive.itv.cmvideo.cn:80/000000001000/1000000002000008163/1.m3u8?stbId=005301FF00158910000000212621B0EF&channel-id=ystenlive&Contentid=1000000002000008163&mos=jbjhhzstsl&livemode=1&version=1.0&owaccmark=1000000002000008163&owchid=ystenlive&owsid=8159411579531758075&AuthInfo=2TOfGIahP4HrGWrHbpJXVCfBjPWQNL5VnKaoeN%2FnWIWjKNizoRlMOkuvsTe1URoev67GfI1oIH4w2vVjbaVRzv3Enx1RBixVDhCnZtdnlMixFs9te0%2Bpvr2OpfN5d0VT
+http://61.189.255.139/live.aishang.ctlcdn.com/00000110240329_1/encoder/0/playlist.m3u8
+#http://121.18.168.149/cache.ott.ystenlive.itv.cmvideo.cn:80/000000001000/1000000002000008163/1.m3u8?stbId=005301FF00158910000000212621B0EF&channel-id=ystenlive&Contentid=1000000002000008163&mos=jbjhhzstsl&livemode=1&version=1.0&owaccmark=1000000002000008163&owchid=ystenlive&owsid=8159411579531758075&AuthInfo=2TOfGIahP4HrGWrHbpJXVCfBjPWQNL5VnKaoeN%2FnWIWjKNizoRlMOkuvsTe1URoev67GfI1oIH4w2vVjbaVRzv3Enx1RBixVDhCnZtdnlMixFs9te0%2Bpvr2OpfN5d0VT
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视2",CCTV-17蓝光3
-http://121.18.168.149/cache.ott.ystenlive.itv.cmvideo.cn:80/000000001000/1000000005000056836/1.m3u8?stbId=005301FF001589101611549359B9325E&channel-id=ystenlive&Contentid=1000000005000056836&mos=jbjhhzstsl&livemode=1&version=1.0&owaccmark=1000000005000056836&owchid=ystenlive&owsid=9164551579532003738&AuthInfo=2TOfGIahP4HrGWrHbpJXVGO0L8hMYc%2BQSE26r5BPa9COQyZOTKfJypXfULnzEX8ov4wHfTVtjr5%2BH1gBPIHFdZVbPTqDjqKmcARryOXhfL7mPOk1Na7QiYpdWHg0hz19
+http://61.189.255.139/live.aishang.ctlcdn.com/00000110240326_1/encoder/0/playlist.m3u8
+#http://121.18.168.149/cache.ott.ystenlive.itv.cmvideo.cn:80/000000001000/1000000005000056836/1.m3u8?stbId=005301FF001589101611549359B9325E&channel-id=ystenlive&Contentid=1000000005000056836&mos=jbjhhzstsl&livemode=1&version=1.0&owaccmark=1000000005000056836&owchid=ystenlive&owsid=9164551579532003738&AuthInfo=2TOfGIahP4HrGWrHbpJXVGO0L8hMYc%2BQSE26r5BPa9COQyZOTKfJypXfULnzEX8ov4wHfTVtjr5%2BH1gBPIHFdZVbPTqDjqKmcARryOXhfL7mPOk1Na7QiYpdWHg0hz19
 #EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="央视2",CCTV-4K高码3
 http://117.148.187.83/PLTV/88888888/224/3221226758/index.m3u8
 
