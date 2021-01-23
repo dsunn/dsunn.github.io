@@ -503,12 +503,6 @@ http://f24hls-i.akamaihd.net/hls/live/520845/F24_ES_HI_HLS/master_2000.m3u8
 
 
 #movies
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视", 风尚音乐蓝光
-http://121.18.168.149/cache.ott.ystenlive.itv.cmvideo.cn:80/000000001000/5529729098703832176/z.m3u8?authCode=07110409322147352675&stbId=005301FF001589101611549359B92801&Contentid=5529729098703832176&mos=jbjhhzstsl&livemode=1&channel-id=wasusyt&version=1.0&owaccmark=5529729098703832176&owchid=wasusyt&owsid=3246571579530794909&AuthInfo=2TOfGIahP4HrGWrHbpJXVM8tIjUabzvkQw3IFgi64wePjBmkxCliyfsNixolB3vk0fJDbsUHwM4ZMkLD2%2FuFtJVT%2FBKMSil0ujuXkiQNzBbZ5U6pNSIVxD4YjUWtTd0X
-#EXTINF:-1 tvg-id="6638" tvg-name="精品剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/HSJPJC.jpg" group-title="影视", 精品剧场蓝光
-http://121.18.168.149/cache.ott.ystenlive.itv.cmvideo.cn:80/000000001000/8230197131234717902/z.m3u8?authCode=07110409322147352675&stbId=005303FF000218901813C88F26C4CD9A&Contentid=8230197131234717902&mos=jbjhhzstsl&livemode=1&channel-id=wasusyt&version=1.0&owaccmark=8230197131234717902&owchid=wasusyt&owsid=7188071579532237669&AuthInfo=%2FcylGCbqLdFJuk2wbal8%2B0%2FXYYDGLpWdBEstTIR1PqI%2FOctjqHm7uarF9hdI%2FegylabK%2B2Kjwr6YmfYB%2B0U4%2FVMlD9%2BUH6H5BTAiFyR%2BGJWsoX2Ruwovu0ZMFHxX6702
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视", 亚洲影院蓝光
-http://121.18.168.149/cache.ott.ystenlive.itv.cmvideo.cn:80/000000001000/5841816227539527643/z.m3u8?authCode=07110409322147352675&stbId=005301FF001589101611549359B93B82&Contentid=5841816227539527643&mos=jbjhhzstsl&livemode=1&channel-id=wasusyt&version=1.0&owaccmark=5841816227539527643&owchid=wasusyt&owsid=1431411579532174401&AuthInfo=2TOfGIahP4HrGWrHbpJXVB3TJIR2vriLvDYSdNB63hPyA9qk2%2BTKLoJATlqPnb0MXm7l%2FiHeo2whk7VLomWH7w5GNiHxzOX6JECr7x0TLTmTY895HMYgWz4jiaElB1nN
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视", 峨眉电影蓝光
 http://scgctvshow.sctv.com/hdlive/emei/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视", 黑莓电竞蓝光
@@ -541,32 +535,12 @@ http://101.71.255.229:6610/zjhs/2/10037/index.m3u8?virtualDomain=zjhs.live_hls.z
 http://101.71.255.229:6610/zjhs/2/10043/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视",KiD影院
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视",蓝光影视1台
-http://112.50.243.8/PLTV/88888888/224/3221226736/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视",蓝光影视2台
-http://112.50.243.8/PLTV/88888888/224/3221225881/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视",蓝光影视3台
-http://112.50.243.8/PLTV/88888888/224/3221226708/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视",蓝光影视4台
-http://112.50.243.8/PLTV/88888888/224/3221226712/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视",蓝光影视5台
-http://112.50.243.8/PLTV/88888888/224/3221225893/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视",蓝光影视6台
-http://112.50.243.8/PLTV/88888888/224/3221226692/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视",蓝光影视7台
-http://112.50.243.8/PLTV/88888888/224/3221226754/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视",蓝光影视8台
 http://112.17.40.145/PLTV/88888888/224/3221226608/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视",蓝光影视9台
 http://112.17.40.145/PLTV/88888888/224/3221226606/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视",蓝光影视10台
 http://112.17.40.145/PLTV/88888888/224/3221226360/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视",蓝光动画11台
-http://112.50.243.8/PLTV/88888888/224/3221226732/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视",蓝光动画12台
-http://112.50.243.8/PLTV/88888888/224/3221226741/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视",蓝光动漫13台
-http://112.50.243.8/PLTV/88888888/224/3221226743/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视",CBN影院
 http://116.199.5.51:8114/00000000/index.m3u8?&amp;Fsv_ctype=LIVES&amp;Fsv_otype=1&amp;FvSeid=5abd1660af1babb4&amp;Fsv_filetype=1&amp;Fsv_ctype=LIVES&amp;Fsv_cid=0&amp;Fsv_chan_hls_se_idx=71&amp;Fsv_rate_id=0&amp;Fsv_SV_PARAM1=0&amp;Fsv_ShiftEnable=0&amp;Fsv_ShiftTsp=0&amp;Provider_id=&amp;Pcontent_id=&amp;Fsv_CMSID=&amp;Fsv_otype=1
 
