@@ -659,130 +659,66 @@ http://112.17.40.200/PLTV/88888888/224/3221226608/index.m3u8
 http://112.17.40.36/PLTV/88888888/224/3221226606/index.m3u8
 
 #Newtv
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV",NewTV中国功夫 HD
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221225951/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV",NewTV中国功夫 HD
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226298/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV",NewTV中国功夫 HD
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226321/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV",NewTV怡伴健康 HD
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221225919/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV",NewTV怡伴健康 HD
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226306/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV",NewTV怡伴健康 HD
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226327/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV",NewTV军事评论 HD
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221225926/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV",NewTV军事评论 HD
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226303/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV",NewTV军事评论 HD
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226326/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV",NewTV军旅剧场 HD
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221225923/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV",NewTV军旅剧场 HD
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226301/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV",NewTV军旅剧场 HD
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226324/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV",NewTV农业致富 HD
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221225930/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV",NewTV农业致富 HD
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226304/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV",NewTV动作电影 HD
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221225915/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV",NewTV动作电影 HD
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226288/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV",NewTV动作电影 HD
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226329/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV",NewTV古装剧场 HD
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221225916/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV",NewTV古装剧场 HD
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226300/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV",NewTV古装剧场 HD
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226323/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV",NewTV家庭剧场 HD
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221225918/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV",NewTV家庭剧场 HD
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226290/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV",NewTV家庭剧场 HD
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226330/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV",NewTV惊悚悬疑 HD
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221225921/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV",NewTV惊悚悬疑 HD
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226294/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV",NewTV惊悚悬疑 HD
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226423/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV",NewTV明星大片 HD
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221225929/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV",NewTV明星大片 HD
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226295/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV",NewTV明星大片 HD
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226425/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV",NewTV武搏世界 HD
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226171/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV",NewTV武搏世界 HD
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226297/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV",NewTV武搏世界 HD
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226320/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV",NewTV海外剧场 HD
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221225917/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV",NewTV海外剧场 HD
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226302/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV",NewTV海外剧场 HD
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226325/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV",NewTV潮妈辣婆 HD
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221225957/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV",NewTV潮妈辣婆 HD
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226286/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV",NewTV炫舞未来 HD
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226248/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV",NewTV爱情喜剧 HD
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221225913/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV",NewTV爱情喜剧 HD
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226299/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV",NewTV爱情喜剧 HD
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226322/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV",NewTV精品体育 HD
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226287/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV",NewTV精品体育 HD
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226328/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV",NewTV精品体育 HD
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221225922/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV",NewTV精品大剧 HD
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221225925/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV",NewTV精品大剧 HD
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226291/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV",NewTV精品大剧 HD
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226331/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV",NewTV精品纪录 HD
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226293/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV",NewTV精品纪录 HD
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226332/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV",NewTV超级体育 HD
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226157/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV",NewTV超级体育 HD
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226158/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV",NewTV超级体育 HD
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226232/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV",NewTV超级体育 CQ
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226348/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV",NewTV超级电影 HD
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226133/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV",NewTV超级电影 HD
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226233/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV",NewTV超级电视剧 HD
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221225864/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV",NewTV超级电视剧 HD
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226253/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV",NewTV超级综艺 HD
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226127/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV",NewTV超级综艺 HD
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226231/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV",NewTV金牌综艺 HD
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221225920/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV",NewTV金牌综艺 HD
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226296/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV",NewTV金牌综艺 HD
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226347/1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV",NewTV广东频道
+http://39.134.65.208/PLTV/88888888/224/3221225767/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV",NewTV广西频道
+http://39.134.65.208/PLTV/88888888/224/3221225769/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV",NewTV安徽频道
+http://39.134.65.208/PLTV/88888888/224/3221225790/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV",NewTV江西频道
+http://39.134.65.208/PLTV/88888888/224/3221225765/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV",NewTV吉林频道
+http://39.134.65.208/PLTV/88888888/224/3221225771/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV",NewTV中国功夫
+http://39.134.66.66/PLTV/88888888/224/3221225604/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV",NewTV金牌综艺
+http://39.134.66.66/PLTV/88888888/224/3221225525/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV",NewTV农业致富
+http://39.134.66.66/PLTV/88888888/224/3221225552/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV",NewTV爱情喜剧
+http://39.134.66.66/PLTV/88888888/224/3221225533/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV",NewTV炫舞未来
+http://39.134.66.66/PLTV/88888888/224/3221225646/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV",NewTV海外剧场
+http://39.134.65.208/PLTV/88888888/224/3221225521/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV",NewTV东北热剧
+http://39.134.66.66/PLTV/88888888/224/3221225679/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV",NewTV惊悚悬疑
+http://39.134.66.66/PLTV/88888888/224/3221225553/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV",NewTV精品记录
+http://39.134.66.66/PLTV/88888888/224/3221225545/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV",NewTV精品体育
+http://39.134.66.66/PLTV/88888888/224/3221225526/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV",NewTV潮妈辣婆
+http://39.134.66.66/PLTV/88888888/224/3221225542/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV",NewTV自由搏击
+http://39.134.66.66/PLTV/88888888/224/3221225547/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV",NewTV精品大剧
+http://39.134.66.66/PLTV/88888888/224/3221225536/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV",NewTV家庭剧场
+http://39.134.66.66/PLTV/88888888/224/3221225538/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV",NewTV欢乐剧场
+http://39.134.66.66/PLTV/88888888/224/3221225682/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV",NewTV动作电影
+http://39.134.66.66/PLTV/88888888/224/3221225555/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV",NewTV古装剧场
+http://39.134.66.66/PLTV/88888888/224/3221225524/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV",NewTV军旅剧场
+http://39.134.66.66/PLTV/88888888/224/3221225560/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV",NewTV军事评论
+http://39.134.66.66/PLTV/88888888/224/3221225535/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV",NewTV健康有约
+http://39.134.66.66/PLTV/88888888/224/3221225571/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV",NewTV超级电影
+http://39.134.66.66/PLTV/88888888/224/3221225644/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV",NewTV超级体育
+http://39.134.66.66/PLTV/88888888/224/3221225635/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV",NewTV超级综艺
+http://39.134.66.66/PLTV/88888888/224/3221225642/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV",NewTV超级电视剧
+http://39.134.66.66/PLTV/88888888/224/3221225637/index.m3u8
+
 
 
 #iHOT
@@ -823,23 +759,7 @@ http://101.71.255.229:6610/zjhs/2/10112/index.m3u8?virtualDomain=zjhs.live_hls.z
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="iHOT",爱院线
 http://101.71.255.229:6610/zjhs/2/10116/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 
-#DOX
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="DOX",Dox4K 30M2160
-http://39.135.10.66/gz.ucdn.10086.cn/PLTV/88888888/224/3221226019/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="1971" tvg-name="DOX剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/dox_juchang.png" group-title="DOX",Dox剧场 8M1080
-http://39.135.10.66/gz.ucdn.10086.cn/PLTV/88888888/224/3221226013/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="1967" tvg-name="DOX怡家" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/dox_yijia.png" group-title="DOX",Dox怡家 8M1080
-http://39.135.10.66/gz.ucdn.10086.cn/PLTV/88888888/224/3221226016/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="1969" tvg-name="DOX新知" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/DOX_xinzhi.png" group-title="DOX",Dox新知 8M1080
-http://39.135.10.66/gz.ucdn.10086.cn/PLTV/88888888/224/3221226014/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="1970" tvg-name="DOX新艺" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/dox_xinyi.png" group-title="DOX",Dox新艺 8M1080
-http://39.135.10.66/gz.ucdn.10086.cn/PLTV/88888888/224/3221226017/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="110" tvg-name="DOX映画" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/doxyinghua.png" group-title="DOX",Dox映画 8M1080
-http://39.135.10.66/gz.ucdn.10086.cn/PLTV/88888888/224/3221226039/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="DOX",Dox环映 8M1080
-http://39.135.10.66/gz.ucdn.10086.cn/PLTV/88888888/224/3221226020/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="1966" tvg-name="DOX英伦" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/dox_yinglun.png" group-title="DOX",Dox英伦 8M1080
-http://39.135.10.66/gz.ucdn.10086.cn/PLTV/88888888/224/3221226045/1/index.m3u8?fmt=ts2hls
+
 
 #咪咕
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",咪咕视频 HD
