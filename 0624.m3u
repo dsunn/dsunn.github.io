@@ -485,7 +485,7 @@ http://51.52.156.22:8888/http/004
 http://203.162.235.41:16918
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQggG7hN-oaaI2ePkXyvn5ezQv5Txg_JALeUKSXTjparz3pKgqu&usqp=CAU" group-title="外国",Australia channel
 https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master1280x720.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/Fox_News_Channel_logo.svg" group-title="外国",Fox News (720p)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://1000logos.net/wp-content/uploads/2020/09/Fox-News-Logo.png" group-title="外国",Fox News (720p)
 https://cdn008.teleuptv.net/AsEAeOtIxz/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQbxJcI35QmglIgFrxqEgqRB4nZZwFSOn6ES0VnNza_U6AJeam4&usqp=CAU" group-title="外国",NBC
 http://161.0.157.50:80/PLTV/88888888/224/3221227040/3.m3u8
