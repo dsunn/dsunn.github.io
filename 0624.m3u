@@ -475,12 +475,16 @@ http://seb.sason.top/ptv/ftv.php?id=ly
 #外国
 #EXTINF:-1 tvg-id="7183" tvg-name="aljazeera" tvg-logo="https://static-s.aa-cdn.net/img/amazon/30600000516579/dbdb81e17aaf22b817a4b2af4fce5214?v=1" group-title="外国",Aljazeera
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VOA" tvg-logo="https://freebeacon.com/wp-content/uploads/2013/09/VOA.jpg" group-title="外国",VOA
+https://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQggG7hN-oaaI2ePkXyvn5ezQv5Txg_JALeUKSXTjparz3pKgqu&usqp=CAU" group-title="外国",Australia channel
 https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master1280x720.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQbxJcI35QmglIgFrxqEgqRB4nZZwFSOn6ES0VnNza_U6AJeam4&usqp=CAU" group-title="外国",NBC
 http://161.0.157.50:80/PLTV/88888888/224/3221227040/3.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSu0DhOkrsAsVgwODBraFa7A-zxYaAdt72_8ChoPSXTtAANXy6E&usqp=CAU" group-title="外国",US:CBN News
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSu0DhOkrsAsVgwODBraFa7A-zxYaAdt72_8ChoPSXTtAANXy6E&usqp=CAU" group-title="外国",CBN
 http://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.cbn.com/images8/cbnnews/CBN-OG.jpg" group-title="外国",CBN News
+https://bcliveunivsecure-lh.akamaihd.net/i/news_1@500579/master.m3u8
 #EXTINF:-1 tvg-id="7100" tvg-name="ABCAustralia" tvg-logo="https://th.bing.com/th?id=OIP.nlZTiSDYA-ZWrYdShExbBQHaHa&pid=PersonalBing&rs=1" group-title="外国",ABC News
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 #EXTINF:-1 tvg-id="331" tvg-name="NHKWorld" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NHKWorld.png" group-title="外国",日本NHK华语
@@ -494,7 +498,7 @@ http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
 http://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
 #EXTINF:-1 tvg-id="730" tvg-name="DW" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DW.png" group-title="外国",Deutsche Welle
 http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.pngkit.com/png/full/50-506678_clip-royalty-free-download-black-and-white-logos.png" group-title="外国",Redbull
+#EXTINF:-1 tvg-id="" tvg-name="Redbull" tvg-logo="https://www.pngkit.com/png/full/50-506678_clip-royalty-free-download-black-and-white-logos.png" group-title="外国",Redbull
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 #EXTINF:-1 tvg-id="734" tvg-name="france24" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/france24.png" group-title="外国",France 24
 http://f24hls-i.akamaihd.net/hls/live/520845/F24_ES_HI_HLS/master_2000.m3u8
