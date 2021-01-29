@@ -434,7 +434,7 @@ http://117.148.187.83/PLTV/88888888/224/3221226758/index.m3u8
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港台",凤凰中文蓝光1
 http://221.179.217.70/PLTV/88888888/224/3221225942/1.m3u8
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="港台",凤凰资讯蓝光1
-http://221.179.217.70/PLTV/88888888/224/3221225949/1.m3u8
+http://112.50.243.8/PLTV/88888888/224/3221225901/1.m3u8
 #EXTINF:-1 tvg-id="6171" tvg-name="寰宇新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png" group-title="港台",寰宇新闻台
 http://seb.sason.top/sc/hyxw.m3u8
 #EXTINF:-1 tvg-id="6073" tvg-name="TVBS新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS新闻.png" group-title="港台",TVBS新闻 FHD
@@ -763,48 +763,4 @@ http://101.71.255.229:6610/zjhs/2/10116/index.m3u8?virtualDomain=zjhs.live_hls.z
 
 
 
-#咪咕
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",咪咕视频 HD
-http://221.179.217.70/PLTV/88888888/224/3221226374/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",咪咕视频 HD
-http://221.179.217.70/PLTV/88888888/224/3221226375/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",咪咕视频 HD
-http://221.179.217.70/PLTV/88888888/224/3221226377/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",咪咕视频 HD
-http://221.179.217.70/PLTV/88888888/224/3221226378/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",咪咕视频 HD
-http://221.179.217.70/PLTV/88888888/224/3221226379/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",咪咕视频 HD
-http://221.179.217.70/PLTV/88888888/224/3221226380/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",咪咕视频 HD
-http://221.179.217.70/PLTV/88888888/224/3221226381/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",咪咕视频 HD
-http://221.179.217.70/PLTV/88888888/224/3221226382/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",咪咕视频 HD
-http://221.179.217.70/PLTV/88888888/224/3221226394/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",咪咕视频 HD
-http://221.179.217.70/PLTV/88888888/224/3221226395/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",咪咕视频 HD
-http://221.179.217.70/PLTV/88888888/224/3221226396/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",咪咕视频 HD
-http://221.179.217.70/PLTV/88888888/224/3221226397/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",咪咕视频 HD
-http://221.179.217.70/PLTV/88888888/224/3221226398/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",咪咕视频 HD
-http://221.179.217.70/PLTV/88888888/224/3221226393/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",咪咕视频 HD
-http://221.179.217.70/PLTV/88888888/224/3221226392/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",咪咕视频 HD
-http://221.179.217.70/PLTV/88888888/224/3221226391/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",咪咕视频 HD
-http://221.179.217.70/PLTV/88888888/224/3221226390/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",咪咕视频 HD
-http://221.179.217.70/PLTV/88888888/224/3221226372/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",咪咕视频 HD
-http://221.179.217.70/PLTV/88888888/224/3221226373/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",咪咕视频 HD
-http://221.179.217.70/PLTV/88888888/224/3221226376/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",咪咕视频 HD
-http://221.179.217.70/PLTV/88888888/224/3221226383/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",咪咕视频 HD
-http://221.179.217.70/PLTV/88888888/224/3221226384/1.m3u8
+
