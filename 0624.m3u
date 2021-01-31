@@ -7,6 +7,8 @@ http://140.207.241.3:8080/live/program/live/ssty/4000000/mnf.m3u8
 #http://121.18.168.149/cache.ott.ystenlive.itv.cmvideo.cn:80/000000001000/4612233678249154892/index.m3u8?channel-id=bestzb&Contentid=4612233678249154892&livemode=1&authCode=3a&stbId=005301FF001589101611549359B95001&version=1.0&owaccmark=4612233678249154892&owchid=bestzb&owsid=1779721579529023740&AuthInfo=2TOfGIahP4HrGWrHbpJXVMf9GKsKSOxo3z9oMCSFNzd9hkuYOs2VB84It64D80NJi4eXOKW3GuNNz9Fm%2FKg8xywLT7mM729fPyVIkI9Esx1ZNxN%2F6BsKFZl0vwsL8fqK
 #http://39.134.39.39/PLTV/88888888/224/3221226178/index.m3u8
 #http://39.135.248.150/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221225964/3.m3u8
+#EXTINF:-1 tvg-id="1964" tvg-name="劲爆体育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinbaotiyu.jpg" group-title="上海",劲爆体育
+http://39.134.39.39/PLTV/88888888/224/3221226170/index.m3u8
 #EXTINF:-1 tvg-id="1986" tvg-name="东方影视" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidongfangyingshi.png" group-title="上海",东方影视
 http://140.207.241.3:8080/live/program/live/dsjpdhd/4000000/mnf.m3u8
 #http://39.134.39.39/PLTV/88888888/224/3221226189/index.m3u8
