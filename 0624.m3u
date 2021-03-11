@@ -488,9 +488,10 @@ http://51.52.156.22:8888/http/004
 #EXTINF:-1 tvg-id="6023" tvg-name="CNN" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CNNNews.png" group-title="外国",CNN
 http://203.162.235.41:16918
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQggG7hN-oaaI2ePkXyvn5ezQv5Txg_JALeUKSXTjparz3pKgqu&usqp=CAU" group-title="外国",Australia channel
-https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master1280x720.m3u8
+https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master.m3u8
+#https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master1280x720.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQbxJcI35QmglIgFrxqEgqRB4nZZwFSOn6ES0VnNza_U6AJeam4&usqp=CAU" group-title="外国",NBC
-http://161.0.157.50:80/PLTV/88888888/224/3221227040/3.m3u8
+http://161.0.157.8/PLTV/88888888/224/3221227040/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSu0DhOkrsAsVgwODBraFa7A-zxYaAdt72_8ChoPSXTtAANXy6E&usqp=CAU" group-title="外国",CBN
 http://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.cbn.com/images8/cbnnews/CBN-OG.jpg" group-title="外国",CBN News
