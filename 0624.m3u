@@ -315,6 +315,8 @@ http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/32212293
 http://player.ioioz.com/1786/gd/gdtvm3u8.php?id=gdzy
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/aishang4k.png" group-title="未分类",爱上4K
 http://39.134.24.220/PLTV/88888888/224/3221226005/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",陶瓷
+http://223.110.245.154/ott.js.chinamobile.com/PLTV/3/224/3221227768/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",百事通体育 1080
 http://shbu.live.bestvcdn.com.cn:8080/live/program/live/hdnba5/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",百事通体育 1080
@@ -434,11 +436,9 @@ http://117.148.187.83/PLTV/88888888/224/3221226758/index.m3u8
 
 #hktw
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港台",凤凰中文蓝光1
-http://221.179.217.70/PLTV/88888888/224/3221225942/1.m3u8
+http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="港台",凤凰资讯蓝光1
-http://223.110.236.8/ott.js.chinamobile.com/PLTV/3/224/3221228016/index.m3u8
-#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="港台",凤凰资讯蓝光2
-http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228597/index.m3u8
+http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8
 #EXTINF:-1 tvg-id="6171" tvg-name="寰宇新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png" group-title="港台",寰宇新闻台
 http://seb.sason.top/sc/hyxw.m3u8
 #EXTINF:-1 tvg-id="6073" tvg-name="TVBS新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS新闻.png" group-title="港台",TVBS新闻 FHD
@@ -535,12 +535,10 @@ https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3
 
 
 #movies
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视", 峨眉电影蓝光
-http://scgctvshow.sctv.com/hdlive/emei/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视", 黑莓电竞蓝光
-http://121.31.30.91:8081/ysten-business/live/wmyx/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视", 黑莓动画蓝光
+http://223.110.245.160/ott.js.chinamobile.com/PLTV/3/224/3221225555/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视", 黑莓电影蓝光
-http://121.31.30.91:8081/ysten-business/live/jdianying/1.m3u8
+http://223.110.245.153/ott.js.chinamobile.com/PLTV/3/224/3221225567/index.m3u8
 #http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225891/1.m3u8
 #EXTINF:-1 tvg-id="6246" tvg-name="CHC家庭电影" tvg-logo="http://www.aikantv.org/images/tai/chcjtyy.jpg" group-title="影视",CHC家庭影院2K
 http://61.189.255.139/live.aishang.ctlcdn.com/00000110240323_1/encoder/0/playlist.m3u8?CONTENTID=00000110240323_1
