@@ -221,7 +221,7 @@ rtsp://124.75.34.37/PLTV/88888888/224/3221226234/1000010000000006000000000081343
 rtsp://124.75.34.37/PLTV/88888888/224/3221226134/00000100000000060000000000087166_0.smil
 #EXTINF:-1 tvg-id="57" tvg-name="新疆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xinjiang.png" group-title="卫视", 新疆卫视
 rtsp://124.75.34.37/PLTV/88888888/224/3221226332/10000100000000060000000002544039_0.smil
-#EXTINF:-1 tvg-id="1984" tvg-name="上视新闻频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shangshixinwen.png" group-title="上海", 上海新闻综合
+#EXTINF:-1 tvg-id="1984" tvg-name="上视新闻频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shangshixinwen.png" group-title="上海", 上海新闻综合HD
 rtsp://124.75.34.37/PLTV/88888888/224/3221226089/00000100000000060000000000007688_0.smil
 #EXTINF:-1 tvg-id="1984" tvg-name="上视新闻频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shangshixinwen.png" group-title="上海", 上海新闻综合
 rtsp://124.75.34.37/PLTV/88888888/224/3221226233/10000100000000060000000000813435_0.smil
