@@ -306,8 +306,6 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221225657/index.m3u8
 http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.bestv.com.cn/r/cms/www/default/images/logo.png" group-title="未分类",BestTV 4K
 http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229311/01.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",广东综艺 4K
-http://player.ioioz.com/1786/gd/gdtvm3u8.php?id=gdzy
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/aishang4k.png" group-title="未分类",爱上4K
 http://39.134.24.220/PLTV/88888888/224/3221226005/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",陶瓷
@@ -901,17 +899,17 @@ http://[2001:250:4801::430:89]/hls/hls184a520.m3u8
 http://[2001:250:4801::430:89]/hls/hls61.m3u8
 #EXTINF:-1 tvg-id="6584" tvg-name="央视台球" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVtaiqiu.png" group-title="IPV6",央视台球高清
 http://[2001:250:4801::430:89]/hls/hls184a574.m3u8
-#EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="IPV6",CHC高清电影高清
+#EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-logo="http://www.zyz98.com/uploads/chchd.jpg" group-title="IPV6",CHC高清电影高清
 http://[2001:250:4801::430:89]/hls/hls260.m3u8
-#EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="IPV6",CHC高清电影高清
+#EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-logo="http://www.zyz98.com/uploads/chchd.jpg" group-title="IPV6",CHC高清电影高清
 http://[2001:250:4801::430:89]/hls/chchd.m3u8
-#EXTINF:-1 tvg-id="6246" tvg-name="CHC家庭电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="IPV6",CHC家庭影院高清
+#EXTINF:-1 tvg-id="6246" tvg-name="CHC家庭电影" tvg-logo="http://www.aikantv.org/images/tai/chcjtyy.jpg" group-title="IPV6",CHC家庭影院高清
 http://[2001:250:4801::430:89]/hls/hls259.m3u8
-#EXTINF:-1 tvg-id="6246" tvg-name="CHC家庭电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="IPV6",CHC家庭影院
+#EXTINF:-1 tvg-id="6246" tvg-name="CHC家庭电影" tvg-logo="http://www.aikantv.org/images/tai/chcjtyy.jpg" group-title="IPV6",CHC家庭影院
 http://[2001:250:4801::430:89]/hls/chctv.m3u8
-#EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="IPV6",CHC动作电影高清
+#EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="http://www.aikantv.org/images/tai/chcdzdy.jpg" group-title="IPV6",CHC动作电影高清
 http://[2001:250:4801::430:89]/hls/hls261.m3u8
-#EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="IPV6",CHC动作电影
+#EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="http://www.aikantv.org/images/tai/chcdzdy.jpg" group-title="IPV6",CHC动作电影
 http://[2001:250:4801::430:89]/hls/chcatv.m3u8
 #EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="IPV6",湖南卫视高清
 http://[2001:250:4801::430:89]/hls/hunanhd.m3u8
