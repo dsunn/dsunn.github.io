@@ -217,8 +217,7 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221225675/index.m3u8
 http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230713/01.m3u8?fmt=ts2hls
 #http://112.17.40.140/PLTV/88888888/224/3221226541/index.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视",CCTV-2财经
-http://101.71.255.229:6610/zjhs/2/10089/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#http://39.134.176.163/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230716/01.m3u8?fmt=ts2hls
+http://39.134.176.163/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230716/01.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="央视",CCTV-3综艺
 http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230740/index.m3u8
 #http://39.134.66.66/PLTV/88888888/224/3221225490/index.m3u8
@@ -543,12 +542,6 @@ http://61.189.255.139/live.aishang.ctlcdn.com/00000110240325_1/encoder/0/playlis
 #EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="http://www.aikantv.org/images/tai/chcdzdy.jpg" group-title="影视",CHC动作电影2K
 http://61.189.255.139/live.aishang.ctlcdn.com/00000110240324_1/encoder/0/playlist.m3u8?CONTENTID=00000110240324_1
 #http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视", KiD电影一台
-http://101.71.255.229:6610/zjhs/2/10052/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视", KiD电影二台
-http://101.71.255.229:6610/zjhs/2/10037/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视", KiD动画
-http://101.71.255.229:6610/zjhs/2/10043/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视",KiD影院
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.bestv.com.cn/r/cms/www/default/images/logo.png" group-title="影视",百事通影视(谍战) 1080
@@ -762,8 +755,6 @@ http://[2001:250:4801::430:89]/hls/hls184a519.m3u8
 http://[2001:250:4801::430:89]/hls/hls184a518.m3u8
 #EXTINF:-1 tvg-id="6563" tvg-name="兵器科技" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE8.jpg" group-title="IPV6",CCTV兵器科技高清
 http://[2001:250:4801::430:89]/hls/hls184a573.m3u8
-#EXTINF:-1 tvg-id="6563" tvg-name="兵器科技" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE8.jpg" group-title="IPV6",CCTV兵器科技高清
-http://[2001:250:4801::430:89]/hls/gfjstv.m3u8
 #EXTINF:-1 tvg-id="6564" tvg-name="女性时尚" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVnvxing.png" group-title="IPV6",CCTV女性时尚高清
 http://[2001:250:4801::430:89]/hls/hls184a522.m3u8
 #EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="IPV6",CCTV电视指南高清
@@ -852,8 +843,6 @@ http://[2001:250:4801::430:89]/hls/btv9hd.m3u8
 http://[2001:250:4801::430:89]/hls/btv11hd.m3u8
 #EXTINF:-1 tvg-id="2025" tvg-name="金鹰纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png" group-title="IPV6",金鹰纪实高清
 http://[2001:250:4801::430:89]/hls/gedocu.m3u8
-#EXTINF:-1 tvg-id="2025" tvg-name="金鹰纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png" group-title="IPV6",金鹰纪实高清
-http://[2001:250:4801::430:89]/hls/hls75a26.m3u8
 #EXTINF:-1 tvg-id="1988" tvg-name="上海纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="IPV6",上海纪实人文高清
 http://[2001:250:4801::430:89]/hls/docuchina.m3u8
 #EXTINF:-1 tvg-id="1976" tvg-name="全纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/quanjishi.png" group-title="IPV6",全纪实高清
@@ -974,8 +963,6 @@ http://[2001:250:4801::430:89]/hls/hls185a507.m3u8
 http://[2001:250:4801::430:89]/hls/hls159.m3u8
 #EXTINF:-1 tvg-id="1307" tvg-name="新动漫" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xindongman.png" group-title="IPV6",新动漫
 http://[2001:250:4801::430:89]/hls/hls64.m3u8
-#EXTINF:-1 tvg-id="103" tvg-name="IPTV少儿动画" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/IPTV少儿动画.png" group-title="IPV6",IPTV少儿动画
-http://[2001:250:4801::430:89]/hls/hls104.m3u8
 #EXTINF:-1 tvg-id="62" tvg-name="哈哈炫动" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xuandong.png" group-title="IPV6",哈哈炫动
 http://[2001:250:4801::430:89]/hls/hls103.m3u8
 #EXTINF:-1 tvg-id="1306" tvg-name="网络棋牌" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wangluoqipai.png" group-title="IPV6",GTV网络棋牌
@@ -1028,6 +1015,4 @@ http://[2001:250:4801::430:89]/hls/hls62.m3u8
 http://[2001:250:4801::430:89]/hls/hls100.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPV6",央广购物
 http://[2001:250:4801::430:89]/hls/hls185a582.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPV6",IPTV收视指南
-http://[2001:250:4801::430:89]/hls/hls105.m3u8
 
