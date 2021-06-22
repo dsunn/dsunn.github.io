@@ -34,7 +34,7 @@ http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/ylpdhd/4000000/mn
 #EXTINF:-1 tvg-id="62" tvg-name="哈哈炫动" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xuandong.png" group-title="上海",哈哈炫动
 http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/hhxdhd/4000000/mnf.m3u8
 #http://39.135.248.150/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226139/3.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="上海",动漫秀场
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvyan.com/uploads/dianshi/sitvdmxc.jpg" group-title="上海",动漫秀场
 http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/dmxchd/4000000/mnf.m3u8
 #http://39.135.248.150/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221225977/3.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="上海",都市剧场
@@ -108,7 +108,7 @@ http://shbu.live.bestvcdn.com.cn:8080/live/program/live/xsjhd/4000000/mnf.m3u8
 http://shbu.live.bestvcdn.com.cn:8080/live/program/live/qjshd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="1975" tvg-name="MAX极速汽车" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jisuqiche.png" group-title="上海",上海极速汽车
 http://shbu.live.bestvcdn.com.cn:8080/live/program/live/jsqchd/4000000/mnf.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="上海",上海动漫秀场
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvyan.com/uploads/dianshi/sitvdmxc.jpg" group-title="上海",上海动漫秀场
 http://shbu.live.bestvcdn.com.cn:8080/live/program/live/dmxchd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="1977" tvg-name="欢笑剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.png" group-title="上海",上海欢笑剧场
 http://shbu.live.bestvcdn.com.cn:8080/live/program/live/hxjchd/4000000/mnf.m3u8
@@ -120,7 +120,7 @@ http://shbu.live.bestvcdn.com.cn:8080/live/program/live/shsshd/4000000/mnf.m3u8
 http://shbu.live.bestvcdn.com.cn:8080/live/program/live/yxfyhd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="62" tvg-name="哈哈炫动" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xuandong.png" group-title="上海",上海哈哈炫动
 http://shbu.live.bestvcdn.com.cn:8080/live/program/live/xdkt/1300000/mnf.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="上海",上海东方财经
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvyan.com/uploads/dianshi/dfcj.jpg" group-title="上海",上海东方财经
 http://shbu.live.bestvcdn.com.cn:8080/live/program/live/dfcj/1300000/mnf.m3u8
 #EXTINF:-1 tvg-id="1956" tvg-name="七彩戏剧" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/qicaixiju.png" group-title="上海",七彩戏剧
 http://shbu.live.bestvcdn.com.cn:8080/live/program/live/qcxj/1300000/mnf.m3u8
@@ -191,7 +191,7 @@ http://shbu.live.bestvcdn.com.cn:8080/live/program/live/xsjhd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="1976" tvg-name="全纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/quanjishi.png" group-title="上海1",全纪实蓝光
 http://shbu.live.bestvcdn.com.cn:8080/live/program/live/qjshd/4000000/mnf.m3u8
 #http://shbu.live.bestvcdn.com.cn:8080/live/program/live/qjshd/4000000/mnf.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="上海教育" tvg-logo="" group-title="上海1",上海教育
+#EXTINF:-1 tvg-id="" tvg-name="上海教育" tvg-logo="https://www.mlzhongguo.com/uploads/image/09/15686895613950.jpg" group-title="上海1",上海教育
 http://live.setv.sh.cn/slive/shedu02_1200k.m3u8
 
 
@@ -200,7 +200,7 @@ http://live.setv.sh.cn/slive/shedu02_1200k.m3u8
 #EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="教育",教育1台
 http://39.134.39.39/PLTV/88888888/224/3221226282/index.m3u8
 #http://39.135.248.150/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226179/3.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="教育",教育4台
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育4台.png" group-title="教育",教育4台
 http://39.134.39.39/PLTV/88888888/224/3221226279/index.m3u8
 #http://39.135.248.150/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226114/3.m3u8
 
@@ -309,7 +309,7 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8
 http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229311/01.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/aishang4k.png" group-title="未分类",爱上4K
 http://39.134.24.220/PLTV/88888888/224/3221226005/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",陶瓷
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.taocitv.com/uploadfile/2017/0616/20170616030329298.png" group-title="未分类",陶瓷
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226983/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",咪咕体育4K
 http://39.134.176.167/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230373/index.m3u8
@@ -841,21 +841,21 @@ http://[2001:250:4801::430:89]/hls/docuchina.m3u8
 http://[2001:250:4801::430:89]/hls/hls184a639.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPV6",足球频道高清
 http://[2001:250:4801::430:89]/hls/zqhd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPV6",家庭剧场HD高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/高清HD家庭剧场.png" group-title="IPV6",家庭剧场HD高清
 http://[2001:250:4801::430:89]/hls/hls75a28.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPV6",大众影视HD高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/高清HD大众影视.png" group-title="IPV6",大众影视HD高清
 http://[2001:250:4801::430:89]/hls/hls75a27.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPV6",家庭影院HD高清
+#EXTINF:-1 tvg-id="" tvg-name="https://raw.githubusercontent.com/badboys88888/photo/main/高清HD家庭影院.png" tvg-logo="" group-title="IPV6",家庭影院HD高清
 http://[2001:250:4801::430:89]/hls/hls75a29.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPV6",卡通剧场HD高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/高清HD卡通剧场.png" group-title="IPV6",卡通剧场HD高清
 http://[2001:250:4801::430:89]/hls/hls77a30.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPV6",动漫秀场高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvyan.com/uploads/dianshi/sitvdmxc.jpg" group-title="IPV6",动漫秀场高清
 http://[2001:250:4801::430:89]/hls/hls184a636.m3u8
 #EXTINF:-1 tvg-id="1983" tvg-name="游戏风云" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youxifengyun.png" group-title="IPV6",游戏风云高清
 http://[2001:250:4801::430:89]/hls/hls184a637.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPV6",晴天动画馆高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/晴天动画馆.png" group-title="IPV6",晴天动画馆高清
 http://[2001:250:4801::430:89]/hls/hls78a47.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPV6",CETV-1高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="IPV6",CETV-1高清
 http://[2001:250:4801::430:89]/hls/cetv1hd.m3u8
 #EXTINF:-1 tvg-id="6595" tvg-name="快乐垂钓" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/KUAILECHUIDIAO.jpg" group-title="IPV6",快乐垂钓高清
 http://[2001:250:4801::430:89]/hls/hls186a69.m3u8
@@ -911,9 +911,9 @@ http://[2001:250:4801::430:89]/hls/hls186a503.m3u8
 http://[2001:250:4801::430:89]/hls/sstv.m3u8
 #EXTINF:-1 tvg-id="67" tvg-name="卡酷动画" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/kaku.png" group-title="IPV6",BTV卡酷少儿
 http://[2001:250:4801::430:89]/hls/btv10.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPV6",CETV-3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育3台.png" group-title="IPV6",CETV-3
 http://[2001:250:4801::430:89]/hls/cetv3.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPV6",CETV-4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育4台.png" group-title="IPV6",CETV-4
 http://[2001:250:4801::430:89]/hls/cetv4.m3u8
 #EXTINF:-1 tvg-id="6581" tvg-name="早期教育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE33.jpg" group-title="IPV6",早期教育
 http://[2001:250:4801::430:89]/hls/hls25.m3u8
