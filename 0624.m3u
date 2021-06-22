@@ -839,13 +839,13 @@ http://[2001:250:4801::430:89]/hls/gedocu.m3u8
 http://[2001:250:4801::430:89]/hls/docuchina.m3u8
 #EXTINF:-1 tvg-id="1976" tvg-name="全纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/quanjishi.png" group-title="IPV6",全纪实高清
 http://[2001:250:4801::430:89]/hls/hls184a639.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPV6",足球频道高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://dsunn.github.io/FTV.png" group-title="IPV6",足球频道高清
 http://[2001:250:4801::430:89]/hls/zqhd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/高清HD家庭剧场.png" group-title="IPV6",家庭剧场HD高清
 http://[2001:250:4801::430:89]/hls/hls75a28.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/高清HD大众影视.png" group-title="IPV6",大众影视HD高清
 http://[2001:250:4801::430:89]/hls/hls75a27.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="https://raw.githubusercontent.com/badboys88888/photo/main/高清HD家庭影院.png" tvg-logo="" group-title="IPV6",家庭影院HD高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/高清HD家庭影院.png" group-title="IPV6",家庭影院HD高清
 http://[2001:250:4801::430:89]/hls/hls75a29.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/高清HD卡通剧场.png" group-title="IPV6",卡通剧场HD高清
 http://[2001:250:4801::430:89]/hls/hls77a30.m3u8
@@ -905,7 +905,7 @@ http://[2001:250:4801::430:89]/hls/nmtv.m3u8
 http://[2001:250:4801::430:89]/hls/qhtv.m3u8
 #EXTINF:-1 tvg-id="63" tvg-name="延边卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/YANBIAN1.png" group-title="IPV6",延边卫视
 http://[2001:250:4801::430:89]/hls/hls161.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPV6",农林卫视
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.hnzlsx.com/ueditor/php/upload/image/20190919/1568874923725516.jpg" group-title="IPV6",农林卫视
 http://[2001:250:4801::430:89]/hls/hls186a503.m3u8
 #EXTINF:-1 tvg-id="72" tvg-name="三沙卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sansha.png" group-title="IPV6",三沙卫视
 http://[2001:250:4801::430:89]/hls/sstv.m3u8
