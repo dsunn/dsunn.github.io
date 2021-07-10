@@ -487,7 +487,8 @@ https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master.
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/JSCsJc5.png" group-title="外国",NBCLX
 https://lxlive-lh.akamaihd.net/i/LX_LIVE@148206/index_1080P_av-p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/qdYfhpZ.jpg" group-title="外国",Fox News Now
-https://lnc-fox-news-now.tubi.video/index.m3u8
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+#https://lnc-fox-news-now.tubi.video/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/qdYfhpZ.jpg" group-title="外国",Fox News
 https://bozztv.com/teleyupp/AsEAeOtIxz/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSu0DhOkrsAsVgwODBraFa7A-zxYaAdt72_8ChoPSXTtAANXy6E&usqp=CAU" group-title="外国",CBN
