@@ -689,17 +689,17 @@ http://[2001:250:4801::430:89]/hls/hls261.m3u8
 #EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="IPV6",湖南卫视高清
 http://[2001:250:4801::430:89]/hls/hunanhd.m3u8
 #EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="IPV6",浙江卫视高清
-http://[2001:250:4801::430:89]/hls/zjhd.m3u8
+http://[2001:250:4801::430:89]/hls/jlu_zjhd.m3u8
 #EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="IPV6",东方卫视高清
 http://[2001:250:4801::430:89]/hls/dfhd.m3u8
 #EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="IPV6",江苏卫视高清
-http://[2001:250:4801::430:89]/hls/jshd.m3u8
+http://[2001:250:4801::430:89]/hls/jlu_jshd.m3u8
 #EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="IPV6",北京卫视高清
 http://[2001:250:4801::430:89]/hls/btv1hd.m3u8
 #EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="IPV6",安徽卫视高清
-http://[2001:250:4801::430:89]/hls/ahhd.m3u8
+http://[2001:250:4801::430:89]/hls/jlu_ahhd.m3u8
 #EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="IPV6",深圳卫视高清
-http://[2001:250:4801::430:89]/hls/szhd.m3u8
+http://[2001:250:4801::430:89]/hls/jlu_szhd.m3u8
 #EXTINF:-1 tvg-id="36" tvg-name="辽宁卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" group-title="IPV6",辽宁卫视高清
 http://[2001:250:4801::430:89]/hls/lnhd.m3u8
 #EXTINF:-1 tvg-id="51" tvg-name="吉林卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jilin.png" group-title="IPV6",吉林卫视高清
@@ -711,21 +711,21 @@ http://[2001:250:4801::430:89]/hls/tjhd.m3u8
 #EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="IPV6",重庆卫视高清
 http://[2001:250:4801::430:89]/hls/cqhd.m3u8
 #EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title="IPV6",湖北卫视高清
-http://[2001:250:4801::430:89]/hls/hbhd.m3u8
+http://[2001:250:4801::430:89]/hls/hls70a17.m3u8
 #EXTINF:-1 tvg-id="38" tvg-name="山东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="IPV6",山东卫视高清
 http://[2001:250:4801::430:89]/hls/sdhd.m3u8
 #EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="IPV6",广东卫视高清
-http://[2001:250:4801::430:89]/hls/gdhd.m3u8
+http://[2001:250:4801::430:89]/hls/jlu_gdhd.m3u8
 #EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="IPV6",四川卫视高清
-http://[2001:250:4801::430:89]/hls/schd.m3u8
+http://[2001:250:4801::430:89]/hls/hls185.m3u8
 #EXTINF:-1 tvg-id="47" tvg-name="河南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title="IPV6",河南卫视高清
 http://[2001:250:4801::430:89]/hls/hnhd.m3u8
 #EXTINF:-1 tvg-id="41" tvg-name="东南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title="IPV6",东南卫视高清
-http://[2001:250:4801::430:89]/hls/dnhd.m3u8
+http://[2001:250:4801::430:89]/hls/jlu_dnwshd.m3u8
 #EXTINF:-1 tvg-id="37" tvg-name="旅游卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/lvyou.png" group-title="IPV6",海南卫视高清
 http://[2001:250:4801::430:89]/hls/lyhd.m3u8
 #EXTINF:-1 tvg-id="45" tvg-name="河北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hebei.png" group-title="IPV6",河北卫视高清
-http://[2001:250:4801::430:89]/hls/hebhd.m3u8
+http://[2001:250:4801::430:89]/hls/jlu_hbhd1.m3u8
 #EXTINF:-1 tvg-id="50" tvg-name="江西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png" group-title="IPV6",江西卫视高清
 http://[2001:250:4801::430:89]/hls/jxhd.m3u8
 #EXTINF:-1 tvg-id="43" tvg-name="广西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png" group-title="IPV6",广西卫视高清
