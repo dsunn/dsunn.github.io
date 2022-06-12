@@ -653,6 +653,7 @@ https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/寰宇新聞.m3u8
 #http://seb.sason.top/sc/hyxw.m3u8
 #EXTINF:-1 tvg-id="6067" tvg-name="壹电视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NextTVNews.png" group-title="港台",壹新闻 FHD
 http://stream.nexttv.com.tw/n001/hd/live.m3u8
+#http://211.23.114.106:8520/http/61.221.81.94:8088/hls/66/808/ch24.m3u8?token=
 #http://50.7.61.147:30080/Entry/etv
 #EXTINF:-1 tvg-id="6068" tvg-name="年代新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/年代ERANewsHD.png" group-title="港台",年代新闻
 http://50.7.218.42:8278/niandainews_twn/playlist.m3u8?tid=m062d2322888417909285&ct=17874&tsum=da6e0908f8df0e85b37f9d93167b9fcd
@@ -660,8 +661,8 @@ http://50.7.218.42:8278/niandainews_twn/playlist.m3u8?tid=m062d2322888417909285&
 #http://125.227.210.37:11055/VideoInput/play.ts
 #EXTINF:-1 tvg-id="6073" tvg-name="TVBS新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS新闻.png" group-title="港台",TVBS新闻 FHD
 #http://iptv.tvfix.org/hls/tvbsnews.m3u8
-http://50.7.218.42:8278/tvbs_n/playlist.m3u8?tid=m4a218f9aa395&ct=18335&tsum=363605ee081cb965cc0385c3f855a7e3
-#rtmp://59.124.75.138/sat/tv551
+#http://50.7.218.42:8278/tvbs_n/playlist.m3u8?tid=m4a218f9aa395&ct=18335&tsum=363605ee081cb965cc0385c3f855a7e3
+rtmp://59.124.75.138/sat/tv551
 #http://50.7.61.148:30080/Entry/tvbsnews
 #rtmp://59.124.75.153/sat/tv552
 #http://seb.sason.top/sc/tvbsxw_fhd.m3u8
@@ -679,7 +680,7 @@ http://50.7.218.42:8278/ettvnews/playlist.m3u8?tid=m1785954e5a67&ct=18336&tsum=c
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CTS.png" group-title="港台",华视新闻 FHD
 #http://seb.sason.top/sc/hsxw_fhd.m3u8
 #http://185.207.176.189:8080/channels/tw-501/playlist.m3u8
-#http://211.23.114.106:8503/http/61.221.81.94:8088/hls/72/814/ch48.m3u8?token=
+http://211.23.114.106:8503/http/61.221.81.94:8088/hls/72/814/ch48.m3u8?token=
 #rtmp://59.124.75.153/sat/tv111
 rtmp://59.124.75.138/sat/tv111
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港台",华视教育体育文化 HD
@@ -687,15 +688,16 @@ rtmp://59.124.75.138/sat/tv111
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港台",华视新闻资讯 HD
 #http://185.207.176.189:8080/channels/tw-503/playlist.m3u8
 #EXTINF:-1 tvg-id="6071" tvg-name="民视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png" group-title="港台",民视新闻 FHD
-https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/民視新聞.m3u8
-#http://211.23.114.106:8504/http/61.221.81.94:8088/hls/73/815/ch51.m3u8?token=
+#https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/民視新聞.m3u8
+http://211.23.114.106:8504/http/61.221.81.94:8088/hls/73/815/ch51.m3u8?token=
 #http://seb.sason.top/sc/msxw_fhd.m3u8
 #EXTINF:-1 tvg-id="6108" tvg-name="三立财经新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETInews.png" group-title="港台",三立iNews FHD
 http://seb.sason.top/sc/slinews_fhd.m3u8
 #http://198.16.106.62:8278/streams/d/sanlinews_zero/playlist.m3u8
 #http://60.199.188.65/HLS/WG_ETTV-N/01.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETInews.png" group-title="港台",三立Live FHD
-http://seb.sason.top/sc/sllive_fhd.m3u8
+http://211.23.114.106:8520/http/61.221.81.94:8088/hls/65/807/ch18.m3u8?token=
+#http://seb.sason.top/sc/sllive_fhd.m3u8
 #EXTINF:-1 tvg-id="6143" tvg-name="台视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/台视新闻.png" group-title="港台",台视新闻 FHD
 https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/台視新聞.m3u8
 #http://seb.sason.top/sc/tsxw_fhd.m3u8
