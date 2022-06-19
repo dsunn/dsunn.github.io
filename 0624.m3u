@@ -657,7 +657,7 @@ http://stream.nexttv.com.tw/n001/hd/live.m3u8
 #http://211.23.114.106:8520/http/61.221.81.94:8088/hls/66/808/ch24.m3u8?token=
 #http://50.7.61.147:30080/Entry/etv
 #EXTINF:-1 tvg-id="6068" tvg-name="年代新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/年代ERANewsHD.png" group-title="港台",年代新闻
-http://50.7.218.42:8278/niandainews_twn/playlist.m3u8?tid=m062d2322888417909285&ct=17874&tsum=da6e0908f8df0e85b37f9d93167b9fcd
+http://50.7.220.74:8278/niandainews_twn/playlist.m3u8?tid=m062d2322888417909285&ct=17874&tsum=da6e0908f8df0e85b37f9d93167b9fcd
 #rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH38/38
 #http://125.227.210.37:11055/VideoInput/play.ts
 #EXTINF:-1 tvg-id="6073" tvg-name="TVBS新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS新闻.png" group-title="港台",TVBS新闻 FHD
@@ -725,7 +725,8 @@ https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ctvnews.m3u8
 #EXTINF:-1 tvg-id="7136" tvg-name="中视菁采台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/中视菁采.png" group-title="港台",中视菁采台
 #http://185.207.176.189:8080/channels/tw-103/playlist.m3u8
 #EXTINF:-1 tvg-id="6070" tvg-name="中天新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiNews.png" group-title="港台",中天新闻 FHD
-https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/中天新聞.m3u8
+http://60.251.59.180:8504/http/60.251.39.91:8081/hls/78/80/ch63max.m3u8
+#https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/中天新聞.m3u8
 #http://seb.sason.top/sc/ztxw_fhd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E6%B0%91%E8%A7%86.png" group-title="港台",民视
 http://seb.sason.top/ptv/ftv.php?id=ms
