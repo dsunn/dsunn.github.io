@@ -466,7 +466,7 @@ http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225786/index.m3u8
 #http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8
 #http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226825/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",纯享4K源码2
-#http://39.135.55.105:6610/PLTV/88888888/224/3221226825/index.m3u8?servicetype=1
+http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226825/index.m3u8?servicetype=1
 #http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225786/index.m3u8
 #http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",咪咕4K
@@ -482,7 +482,7 @@ http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知 4K
 http://cache.ott.fifalive.itv.cmvideo.cn:80/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=no
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",芒果TV 4K
-#http://39.135.55.105:6610/PLTV/88888888/224/3221226887/index.m3u8?servicetype=1
+http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226887/index.m3u8?servicetype=1
 #http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226887/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",芒果TV直播
 #http://117.148.179.160/PLTV/88888888/224/3221231276/index.m3u8
@@ -497,12 +497,12 @@ http://cache.ott.fifalive.itv.cmvideo.cn:80/6000000003000001569/index.m3u8?chann
 #http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230739/index.m3u8
 #http://111.20.33.93/TVOD/88888893/224/3221226582/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.taocitv.com/uploadfile/2017/0616/20170616030329298.png" group-title="未分类",陶瓷
-#http://39.135.55.105:6610/PLTV/88888888/224/3221227234/index.m3u8?servicetype=1
+http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227234/index.m3u8?servicetype=1
 #http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226983/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cf/Logoipanda.jpeg" group-title="未分类",熊猫
-#http://39.135.55.105:6610/PLTV/88888888/224/3221226715/index.m3u8?servicetype=1
+http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226715/index.m3u8?servicetype=1
 #EXTINF:-1 tvg-id="2025" tvg-name="金鹰纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png" group-title="未分类",湖南金鹰纪实
-#http://39.135.55.105:6610/PLTV/88888888/224/3221226937/index.m3u8?servicetype=1
+http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226937/index.m3u8?servicetype=1
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.jstv.com/img/2018/7/20/20187201532077781710_14053.jpg" group-title="未分类",咪咕视频
 http://39.134.65.162/PLTV/88888888/224/3221225611/index.m3u8
 #http://39.135.38.13/PLTV/88888888/224/3221225970/index.m3u8
@@ -900,31 +900,31 @@ http://117.148.179.176/PLTV/88888888/224/3221231565/index.m3u8
 
 #咪咕
 #EXTINF:-1 group-title="咪咕" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",咪咕视频 7M1080
-#http://39.135.55.105:6610/PLTV/88888888/224/3221226564/index.m3u8?servicetype=1
+http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226564/index.m3u8?servicetype=1
 #EXTINF:-1 group-title="咪咕" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",咪咕视频 7M1080
-#http://39.135.55.105:6610/PLTV/88888888/224/3221226565/index.m3u8?servicetype=1
+http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226565/index.m3u8?servicetype=1
 #EXTINF:-1 group-title="咪咕" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",咪咕视频 7M1080
-#http://39.135.55.105:6610/PLTV/88888888/224/3221226568/index.m3u8?servicetype=1
+http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226568/index.m3u8?servicetype=1
 #EXTINF:-1 group-title="咪咕" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",咪咕视频 7M1080
-#http://39.135.55.105:6610/PLTV/88888888/224/3221226569/index.m3u8?servicetype=1
+http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226569/index.m3u8?servicetype=1
 #EXTINF:-1 group-title="咪咕" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",咪咕视频 7M1080
-#http://39.135.55.105:6610/PLTV/88888888/224/3221226573/index.m3u8?servicetype=1
+http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226573/index.m3u8?servicetype=1
 #EXTINF:-1 group-title="咪咕" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",咪咕视频 7M1080
-#http://39.135.55.105:6610/PLTV/88888888/224/3221226638/index.m3u8?servicetype=1
+http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226638/index.m3u8?servicetype=1
 #EXTINF:-1 group-title="咪咕" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",咪咕视频 7M1080
-#http://39.135.55.105:6610/PLTV/88888888/224/3221226642/index.m3u8?servicetype=1
+http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226642/index.m3u8?servicetype=1
 #EXTINF:-1 group-title="咪咕" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",咪咕视频 7M1080
-#http://39.135.55.105:6610/PLTV/88888888/224/3221226646/index.m3u8?servicetype=1
+http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226646/index.m3u8?servicetype=1
 #EXTINF:-1 group-title="咪咕" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",咪咕视频 8M1080
-#http://39.135.55.105:6610/PLTV/88888888/224/3221227047/index.m3u8?servicetype=1
+http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227047/index.m3u8?servicetype=1
 #EXTINF:-1 group-title="咪咕" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",咪咕视频 8M1080
-#http://39.135.55.105:6610/PLTV/88888888/224/3221227107/index.m3u8?servicetype=1
+http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227107/index.m3u8?servicetype=1
 #EXTINF:-1 group-title="咪咕" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",咪咕视频 8M1080
-#http://39.135.55.105:6610/PLTV/88888888/224/3221227158/index.m3u8?servicetype=1
+http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227158/index.m3u8?servicetype=1
 #EXTINF:-1 group-title="咪咕" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",咪咕视频 8M1080
-#http://39.135.55.105:6610/PLTV/88888888/224/3221227189/index.m3u8?servicetype=1
+http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227189/index.m3u8?servicetype=1
 #EXTINF:-1 group-title="咪咕" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",咪咕视频 8M1080
-#http://39.135.55.105:6610/PLTV/88888888/224/3221227228/index.m3u8?servicetype=1
+http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227228/index.m3u8?servicetype=1
 
 
 #MIGU电影轮播
@@ -986,33 +986,33 @@ http://117.148.179.134/PLTV/88888888/224/3221231570/index.m3u8
 
 #bestv
 #EXTINF:-1 tvg-logo="https://www.bestv.com.cn/r/cms/www/default/images/logo.png" group-title="bestv",百视通剧集1 8M1080
-#http://39.135.55.105:6610/PLTV/88888888/224/3221226692/index.m3u8?servicetype=1
+http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226692/index.m3u8?servicetype=1
 #EXTINF:-1 tvg-logo="https://www.bestv.com.cn/r/cms/www/default/images/logo.png" group-title="bestv",百视通剧集2 8M1080
-#http://39.135.55.105:6610/PLTV/88888888/224/3221226754/index.m3u8?servicetype=1
+http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226754/index.m3u8?servicetype=1
 #EXTINF:-1 tvg-logo="https://www.bestv.com.cn/r/cms/www/default/images/logo.png" group-title="bestv",百视通剧集3 8M1080
-#http://39.135.55.105:6610/PLTV/88888888/224/3221227045/index.m3u8?servicetype=1
+http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227045/index.m3u8?servicetype=1
 #EXTINF:-1 tvg-logo="https://www.bestv.com.cn/r/cms/www/default/images/logo.png" group-title="bestv",百视通剧集4 8M1080
-#http://39.135.55.105:6610/PLTV/88888888/224/3221227134/index.m3u8?servicetype=1
+http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227134/index.m3u8?servicetype=1
 #EXTINF:-1 tvg-logo="https://www.bestv.com.cn/r/cms/www/default/images/logo.png" group-title="bestv",百视通动画1 8M1080
-#http://39.135.55.105:6610/PLTV/88888888/224/3221226732/index.m3u8?servicetype=1
+http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226732/index.m3u8?servicetype=1
 #EXTINF:-1 tvg-logo="https://www.bestv.com.cn/r/cms/www/default/images/logo.png" group-title="bestv",百视通动画2 8M1080
-#http://39.135.55.105:6610/PLTV/88888888/224/3221226736/index.m3u8?servicetype=1
+http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226736/index.m3u8?servicetype=1
 #EXTINF:-1 tvg-logo="https://www.bestv.com.cn/r/cms/www/default/images/logo.png" group-title="bestv",百视通动画3 8M1080
-#http://39.135.55.105:6610/PLTV/88888888/224/3221226741/index.m3u8?servicetype=1
+http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226741/index.m3u8?servicetype=1
 #EXTINF:-1 tvg-logo="https://www.bestv.com.cn/r/cms/www/default/images/logo.png" group-title="bestv",百视通动画4 8M1080
-#http://39.135.55.105:6610/PLTV/88888888/224/3221226743/index.m3u8?servicetype=1
+http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226743/index.m3u8?servicetype=1
 #EXTINF:-1 tvg-logo="https://www.bestv.com.cn/r/cms/www/default/images/logo.png" group-title="bestv",百视通动画5 8M1080
-#http://39.135.55.105:6610/PLTV/88888888/224/3221227036/index.m3u8?servicetype=1
+http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227036/index.m3u8?servicetype=1
 #EXTINF:-1 tvg-logo="https://www.bestv.com.cn/r/cms/www/default/images/logo.png" group-title="bestv",百视通电影1 8M1080
-#http://39.135.55.105:6610/PLTV/88888888/224/3221226708/index.m3u8?servicetype=1
+http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226708/index.m3u8?servicetype=1
 #EXTINF:-1 tvg-logo="https://www.bestv.com.cn/r/cms/www/default/images/logo.png" group-title="bestv",百视通电影2 8M1080
-#http://39.135.55.105:6610/PLTV/88888888/224/3221226712/index.m3u8?servicetype=1
+http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226712/index.m3u8?servicetype=1
 #EXTINF:-1 tvg-logo="https://www.bestv.com.cn/r/cms/www/default/images/logo.png" group-title="bestv",百视通电影3 8M1080
-#http://39.135.55.105:6610/PLTV/88888888/224/3221227130/index.m3u8?servicetype=1
+http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227130/index.m3u8?servicetype=1
 #EXTINF:-1 tvg-logo="https://www.bestv.com.cn/r/cms/www/default/images/logo.png" group-title="bestv",百视通电影4 8M720
-#http://39.135.55.105:6610/PLTV/88888888/224/3221227037/index.m3u8?servicetype=1
+http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227037/index.m3u8?servicetype=1
 #EXTINF:-1 tvg-logo="https://www.bestv.com.cn/r/cms/www/default/images/logo.png" group-title="bestv",百视通电竞 4M1080
-#http://39.135.55.105:6610/PLTV/88888888/224/3221227033/index.m3u8?servicetype=1
+http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227033/index.m3u8?servicetype=1
 
 
 #Newtv
