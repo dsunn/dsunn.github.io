@@ -900,21 +900,21 @@ http://117.148.179.176/PLTV/88888888/224/3221231565/index.m3u8
 
 #咪咕
 #EXTINF:-1 group-title="咪咕" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",咪咕视频 7M1080
-http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226564/index.m3u8?servicetype=1
+#http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226564/index.m3u8?servicetype=1
 #EXTINF:-1 group-title="咪咕" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",咪咕视频 7M1080
-http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226565/index.m3u8?servicetype=1
+#http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226565/index.m3u8?servicetype=1
 #EXTINF:-1 group-title="咪咕" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",咪咕视频 7M1080
-http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226568/index.m3u8?servicetype=1
+#http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226568/index.m3u8?servicetype=1
 #EXTINF:-1 group-title="咪咕" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",咪咕视频 7M1080
-http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226569/index.m3u8?servicetype=1
+#http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226569/index.m3u8?servicetype=1
 #EXTINF:-1 group-title="咪咕" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",咪咕视频 7M1080
-http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226573/index.m3u8?servicetype=1
+#http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226573/index.m3u8?servicetype=1
 #EXTINF:-1 group-title="咪咕" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",咪咕视频 7M1080
-http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226638/index.m3u8?servicetype=1
+#http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226638/index.m3u8?servicetype=1
 #EXTINF:-1 group-title="咪咕" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",咪咕视频 7M1080
-http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226642/index.m3u8?servicetype=1
+#http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226642/index.m3u8?servicetype=1
 #EXTINF:-1 group-title="咪咕" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",咪咕视频 7M1080
-http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226646/index.m3u8?servicetype=1
+#http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226646/index.m3u8?servicetype=1
 #EXTINF:-1 group-title="咪咕" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",咪咕视频 8M1080
 http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227047/index.m3u8?servicetype=1
 #EXTINF:-1 group-title="咪咕" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",咪咕视频 8M1080
