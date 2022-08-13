@@ -69,6 +69,43 @@ http://36.142.6.143/keonline.shanghai.liveplay.qq.com/live/program/live/jykt/130
 #EXTINF:-1 tvg-id="6010" tvg-name="嘉佳卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jiajiakt.png" group-title="上海0",嘉佳卡通
 http://36.142.6.143/keonline.shanghai.liveplay.qq.com/live/program/live/jjkt/1300000/mnf.m3u8
 
+#上海电信
+#EXTINF:-1 tvg-id="1872" tvg-name="北京纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" group-title="上海电信",北京纪实
+http://58.34.204.67:9901/tsfile/live/1002_1.m3u8
+#EXTINF:-1 tvg-id="6246" tvg-name="CHC家庭电影" tvg-logo="http://www.aikantv.org/images/tai/chcjtyy.jpg" group-title="上海电信",CHC家庭影院
+http://58.34.204.67:9901/tsfile/live/1001_1.m3u8
+#EXTINF:-1 tvg-id="7242" tvg-name="魅力足球" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/meilizuqiu.png" group-title="上海电信",魅力足球
+http://58.34.204.67:9901/tsfile/live/1004_1.m3u8
+#EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="http://www.aikantv.org/images/tai/chcdzdy.jpg" group-title="上海电信",CHC动作电影
+http://58.34.204.67:9901/tsfile/live/1005_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="上海电信",都市剧场
+http://58.34.204.67:9901/tsfile/live/1008_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="上海电信",动漫秀场
+http://58.34.204.67:9901/tsfile/live/1009_1.m3u8
+#EXTINF:-1 tvg-id="1963" tvg-name="新视觉" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xinshijue.png" group-title="上海电信",新视觉
+http://58.34.204.67:9901/tsfile/live/1011_1.m3u8
+#EXTINF:-1 tvg-id="1977" tvg-name="欢笑剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.png" group-title="上海电信",欢笑剧场
+http://58.34.204.67:9901/tsfile/live/1012_1.m3u8
+#EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="上海电信",五星体育
+http://58.34.204.67:9901/tsfile/live/1014_1.m3u8
+#EXTINF:-1 tvg-id="1988" tvg-name="上海纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="上海电信",上海纪实
+http://58.34.204.67:9901/tsfile/live/1013_1.m3u8
+#EXTINF:-1 tvg-id="1989" tvg-name="上海都市频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidushi.jpg" group-title="上海电信",上海都市
+http://58.34.204.67:9901/tsfile/live/1017_1.m3u8
+#EXTINF:-1 tvg-id="1986" tvg-name="东方影视" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidongfangyingshi.png" group-title="上海电信",东方影视
+http://58.34.204.67:9901/tsfile/live/1016_1.m3u8
+#EXTINF:-1 tvg-id="1984" tvg-name="上视新闻频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shangshixinwen.png" group-title="上海电信",上海新闻
+http://58.34.204.67:9901/tsfile/live/1015_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="上海电信",上海外语
+http://58.34.204.67:9901/tsfile/live/1019_1.m3u8
+#EXTINF:-1 tvg-id="1981" tvg-name="生活时尚" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shenghuoshishang.png" group-title="上海电信",生活时尚
+http://58.34.204.67:9901/tsfile/live/1020_1.m3u8
+#EXTINF:-1 tvg-id="1985" tvg-name="第一财经" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/diyicaijing.png" group-title="上海电信",第一财经
+http://58.34.204.67:9901/tsfile/live/1018_1.m3u8
+#EXTINF:-1 tvg-id="1983" tvg-name="游戏风云" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youxifengyun.png" group-title="上海电信",游戏风云
+http://58.34.204.67:9901/tsfile/live/1006_1.m3u8
+#EXTINF:-1 tvg-id="1980" tvg-name="幸福彩" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xingfucai.png" group-title="上海电信",幸福彩
+http://58.34.204.67:9901/tsfile/live/1007_1.m3u8
 
 #上海
 #140.207.241.3:8080 140.207.241.2:8080 183.207.255.188
