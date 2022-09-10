@@ -480,7 +480,7 @@ http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226825/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",苏州 4K
 http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知 4K
-http://cache.ott.fifalive.itv.cmvideo.cn:80/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=no
+# http://cache.ott.fifalive.itv.cmvideo.cn:80/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=no
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",芒果TV 4K
 http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226887/index.m3u8?servicetype=1
 #http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226887/index.m3u8
@@ -492,7 +492,7 @@ http://111.20.33.93/TVOD/88888893/224/3221226352/index.m3u8
 #http://39.134.18.66/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226352/index.m3u8#@http://39.134.19.4/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226352/1.m3u8#@http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226352/index.m3u8
 #http://39.134.24.220/PLTV/88888888/224/3221226005/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知 综艺
-http://cache.ott.fifalive.itv.cmvideo.cn:80/6000000003000001569/index.m3u8?channel-id=wasusyt&Contentid=6000000003000001569&livemode=1&stbId=no
+# http://cache.ott.fifalive.itv.cmvideo.cn:80/6000000003000001569/index.m3u8?channel-id=wasusyt&Contentid=6000000003000001569&livemode=1&stbId=no
 #EXTINF:-1 tvg-id="1977" tvg-name="欢笑剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.png" group-title="未分类",欢笑剧场4K
 #http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230739/index.m3u8
 #http://111.20.33.93/TVOD/88888893/224/3221226582/index.m3u8
