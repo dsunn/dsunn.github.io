@@ -343,7 +343,7 @@ http://111.62.156.15/pull.brtvcloud.com/brtv8kapptv/brtv8kappqingnian.m3u8
 http://111.62.156.15/pull.brtvcloud.com/brtv8kapptv/brtv8kappxinwen.m3u8
 #http://111.6.126.218/hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s9/index.m3u8
 #EXTINF:-1 tvg-id="67" tvg-name="卡酷动画" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/kaku.png" group-title="北京",卡酷少儿 FHD
-http://111.6.126.218/hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s10/index.m3u8
+http://111.62.156.15/pull.brtvcloud.com/brtv8kapptv/brtv8kappkaku.m3u8
 
 
 
@@ -1869,7 +1869,7 @@ http://[2409:8c20:9c71:100:1000::9]/live.rxip.sc96655.com/live/test1_4000.m3u8
 http://[2409:8c20:9c71:100:1000::9]/live.rxip.sc96655.com/live/test2_4000.m3u8
 #EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="ipv6",北京卫视 高清
 http://[2409:8c20:9c71:100:1000::9]/live.rxip.sc96655.com/live/bjwsH265_4000.m3u8
-#EXTINF:-1 tvg-id="1872" tvg-name="北京纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" group-title="北京",冬奥纪实 4K超高清
+#EXTINF:-1 tvg-id="1872" tvg-name="北京纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" group-title="ipv6",冬奥纪实 4K超高清
 http://[2409:8c20:9c71:100:1000::9]/live.rxip.sc96655.com/live/dajs-4k_8000.m3u8
 #EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="ipv6",重庆卫视 高清
 http://[2409:8c20:9c71:100:1000::9]/live.rxip.sc96655.com/live/cqwsH265_4000.m3u8
@@ -2149,9 +2149,9 @@ http://[2409:8c20:9c71:100:1000::9]/live.rxip.sc96655.com/live/jtlc_4000.m3u8
 http://[2409:8c20:9c71:100:1000::9]/live.rxip.sc96655.com/live/jykt_2000.m3u8
 #EXTINF:-1 tvg-id="6010" tvg-name="嘉佳卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jiajiakt.png" group-title="ipv6",嘉佳卡通 标清
 http://[2409:8c20:9c71:100:1000::9]/live.rxip.sc96655.com/live/jjkt_2000.m3u8
-#EXTINF:-1 tvg-id="67" tvg-name="卡酷动画" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/kaku.png" group-title="北京",卡酷少儿 标清
+#EXTINF:-1 tvg-id="67" tvg-name="卡酷动画" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/kaku.png" group-title="ipv6",卡酷少儿 标清
 http://[2409:8c20:9c71:100:1000::9]/live.rxip.sc96655.com/live/kkkt_4000.m3u8
-#EXTINF:-1 tvg-id="1872" tvg-name="北京纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" group-title="北京",冬奥纪实 标清
+#EXTINF:-1 tvg-id="1872" tvg-name="北京纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" group-title="ipv6",冬奥纪实 标清
 http://[2409:8c20:9c71:100:1000::9]/live.rxip.sc96655.com/live/bjjs_2000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ipv6",证劵服务 标清
 http://[2409:8c20:9c71:100:1000::9]/live.rxip.sc96655.com/live/jz_2000.m3u8
