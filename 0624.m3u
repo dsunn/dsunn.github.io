@@ -2,72 +2,135 @@
 #EPG:http://epg.51zmt.top:8000/e.xml
 
 #上海0
-#EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="上海0",五星体育
-http://36.142.6.143/keonline.shanghai.liveplay.qq.com/live/program/live/ssty/4000000/mnf.m3u8
-#EXTINF:-1 tvg-id="1964" tvg-name="劲爆体育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinbaotiyu.jpg" group-title="上海0",劲爆体育
-http://36.142.6.143/keonline.shanghai.liveplay.qq.com/live/program/live/jbtyhd/2300000/mnf.m3u8
-#EXTINF:-1 tvg-id="1964" tvg-name="劲爆体育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinbaotiyu.jpg" group-title="上海0",劲爆体育
-http://36.142.6.143/keonline.shanghai.liveplay.qq.com/live/program/live/jbtyhd/4000000/mnf.m3u8
+# #EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="上海0",五星体育
+# http://36.142.6.143/keonline.shanghai.liveplay.qq.com/live/program/live/ssty/4000000/mnf.m3u8
+# #EXTINF:-1 tvg-id="1964" tvg-name="劲爆体育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinbaotiyu.jpg" group-title="上海0",劲爆体育
+# http://36.142.6.143/keonline.shanghai.liveplay.qq.com/live/program/live/jbtyhd/2300000/mnf.m3u8
+# #EXTINF:-1 tvg-id="1964" tvg-name="劲爆体育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinbaotiyu.jpg" group-title="上海0",劲爆体育
+# http://36.142.6.143/keonline.shanghai.liveplay.qq.com/live/program/live/jbtyhd/4000000/mnf.m3u8
+# #EXTINF:-1 tvg-id="1986" tvg-name="东方影视" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidongfangyingshi.png" group-title="上海0",东方影视
+# http://36.142.6.143/keonline.shanghai.liveplay.qq.com/live/program/live/dsjpdhd/4000000/mnf.m3u8
+# #EXTINF:-1 tvg-id="1984" tvg-name="上视新闻频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shangshixinwen.png" group-title="上海0",上视新闻频道
+# http://36.142.6.143/keonline.shanghai.liveplay.qq.com/live/program/live/xwzhhd/4000000/mnf.m3u8
+# #EXTINF:-1 tvg-id="1991" tvg-name="上视外语频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaiwaiyu.png" group-title="上海0",上视外语频道
+# http://36.142.6.143/keonline.shanghai.liveplay.qq.com/live/program/live/wypdhd/4000000/mnf.m3u8
+# #EXTINF:-1 tvg-id="1985" tvg-name="第一财经" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/diyicaijing.png" group-title="上海0",第一财经
+# http://36.142.6.143/keonline.shanghai.liveplay.qq.com/live/program/live/dycjhd/4000000/mnf.m3u8
+# #EXTINF:-1 tvg-id="1989" tvg-name="上海都市频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidushi.jpg" group-title="上海0",上海都市频道
+# http://36.142.6.143/keonline.shanghai.liveplay.qq.com/live/program/live/ylpdhd/4000000/mnf.m3u8
+# #EXTINF:-1 tvg-id="62" tvg-name="哈哈炫动" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xuandong.png" group-title="上海0",哈哈炫动
+# http://36.142.6.143/keonline.shanghai.liveplay.qq.com/live/program/live/hhxdhd/4000000/mnf.m3u8
+# #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvyan.com/uploads/dianshi/sitvdmxc.jpg" group-title="上海0",动漫秀场
+# http://36.142.6.143/keonline.shanghai.liveplay.qq.com/live/program/live/dmxchd/4000000/mnf.m3u8
+# #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="上海0",都市剧场
+# http://36.142.6.143/keonline.shanghai.liveplay.qq.com/live/program/live/dsjchd/4000000/mnf.m3u8
+# #EXTINF:-1 tvg-id="1977" tvg-name="欢笑剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.png" group-title="上海0",欢笑剧场
+# http://36.142.6.143/keonline.shanghai.liveplay.qq.com/live/program/live/hxjchd/4000000/mnf.m3u8
+# #EXTINF:-1 tvg-id="1988" tvg-name="上海纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="上海0",上海纪实
+# http://36.142.6.143/keonline.shanghai.liveplay.qq.com/live/program/live/jspdhd/4000000/mnf.m3u8
+# #EXTINF:-1 tvg-id="1981" tvg-name="生活时尚" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shenghuoshishang.png" group-title="上海0",生活时尚
+# http://36.142.6.143/keonline.shanghai.liveplay.qq.com/live/program/live/shsshd/4000000/mnf.m3u8
+# #EXTINF:-1 tvg-id="1976" tvg-name="全纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/quanjishi.png" group-title="上海0",全纪实
+# http://36.142.6.143/keonline.shanghai.liveplay.qq.com/live/program/live/qjshd/4000000/mnf.m3u8
+# #EXTINF:-1 tvg-id="1983" tvg-name="游戏风云" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youxifengyun.png" group-title="上海0",游戏风云
+# http://36.142.6.143/keonline.shanghai.liveplay.qq.com/live/program/live/yxfyhd/4000000/mnf.m3u8
+# #EXTINF:-1 tvg-id="1975" tvg-name="MAX极速汽车" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jisuqiche.png" group-title="上海0",极速汽车
+# http://36.142.6.143/keonline.shanghai.liveplay.qq.com/live/program/live/jsqchd/4000000/mnf.m3u8
+# #EXTINF:-1 tvg-id="1963" tvg-name="新视觉" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xinshijue.png" group-title="上海0",新视觉
+# http://36.142.6.143/keonline.shanghai.liveplay.qq.com/live/program/live/xsjhd/4000000/mnf.m3u8
+# #EXTINF:-1 tvg-id="7242" tvg-name="魅力足球" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/meilizuqiu.png" group-title="上海0",魅力足球
+# http://36.142.6.143/keonline.shanghai.liveplay.qq.com/live/program/live/mlyyhd/4000000/mnf.m3u8
+# #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.bestv.com.cn/r/cms/www/default/images/logo.png" group-title="上海0",BesTV
+# http://36.142.6.143/keonline.shanghai.liveplay.qq.com/live/program/live/hdnba5/4000000/mnf.m3u8
+# #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.bestv.com.cn/r/cms/www/default/images/logo.png" group-title="上海0",BesTV
+# http://36.142.6.143/keonline.shanghai.liveplay.qq.com/live/program/live/hdnba1/4000000/mnf.m3u8
+# #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.bestv.com.cn/r/cms/www/default/images/logo.png" group-title="上海0",BesTV
+# http://36.142.6.143/keonline.shanghai.liveplay.qq.com/live/program/live/hdnba2/4000000/mnf.m3u8
+# #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.bestv.com.cn/r/cms/www/default/images/logo.png" group-title="上海0",BesTV
+# http://36.142.6.143/keonline.shanghai.liveplay.qq.com/live/program/live/hdnba3/4000000/mnf.m3u8
+# #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.bestv.com.cn/r/cms/www/default/images/logo.png" group-title="上海0",BesTV
+# http://36.142.6.143/keonline.shanghai.liveplay.qq.com/live/program/live/hdnba4/4000000/mnf.m3u8
+# #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.bestv.com.cn/r/cms/www/default/images/logo.png" group-title="上海0",BesTV
+# http://36.142.6.143/keonline.shanghai.liveplay.qq.com/live/program/live/hdnba6/4000000/mnf.m3u8
+# #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.bestv.com.cn/r/cms/www/default/images/logo.png" group-title="上海0",BesTV
+# http://36.142.6.143/keonline.shanghai.liveplay.qq.com/live/program/live/hdnba7/4000000/mnf.m3u8
+# #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="上海0",法治天地
+# http://36.142.6.143/keonline.shanghai.liveplay.qq.com/live/program/live/fztd/1300000/mnf.m3u8
+# #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvyan.com/uploads/dianshi/dfcj.jpg" group-title="上海0",东方财经浦东
+# http://36.142.6.143/keonline.shanghai.liveplay.qq.com/live/program/live/dfcj/1300000/mnf.m3u8
+# #EXTINF:-1 tvg-id="1956" tvg-name="七彩戏剧" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/qicaixiju.png" group-title="上海0",七彩戏剧
+# http://36.142.6.143/keonline.shanghai.liveplay.qq.com/live/program/live/qcxj/1300000/mnf.m3u8
+# #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="上海0",金色频道
+# http://36.142.6.143/keonline.shanghai.liveplay.qq.com/live/program/live/jingsepd/1300000/mnf.m3u8
+# #EXTINF:-1 tvg-id="62" tvg-name="哈哈炫动" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xuandong.png" group-title="上海0",哈哈炫动
+# http://36.142.6.143/keonline.shanghai.liveplay.qq.com/live/program/live/xdkt/1300000/mnf.m3u8
+# #EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinyingkatong.png" group-title="上海0",金鹰卡通
+# http://36.142.6.143/keonline.shanghai.liveplay.qq.com/live/program/live/jykt/1300000/mnf.m3u8
+# #EXTINF:-1 tvg-id="6010" tvg-name="嘉佳卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jiajiakt.png" group-title="上海0",嘉佳卡通
+# http://36.142.6.143/keonline.shanghai.liveplay.qq.com/live/program/live/jjkt/1300000/mnf.m3u8
+
+#EXTINF:-1 tvg-id="1984" tvg-name="上视新闻频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shangshixinwen.png" group-title="上海0",新闻综合
+http://114.92.204.127:3366/udp/239.45.3.209:5140
+
+#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="上海0",东方卫视
+http://114.92.204.127:3366/udp/239.45.3.146:5140
+
+#EXTINF:-1 tvg-id="1989" tvg-name="上海都市频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidushi.jpg" group-title="上海0",都市频道
+http://114.92.204.127:3366/udp/239.45.3.236:5140
+
+#EXTINF:-1 tvg-id="1988" tvg-name="上海纪实人文" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="上海0",纪实人文
+http://114.92.204.127:3366/udp/239.45.3.212:5140
+
 #EXTINF:-1 tvg-id="1986" tvg-name="东方影视" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidongfangyingshi.png" group-title="上海0",东方影视
-http://36.142.6.143/keonline.shanghai.liveplay.qq.com/live/program/live/dsjpdhd/4000000/mnf.m3u8
-#EXTINF:-1 tvg-id="1984" tvg-name="上视新闻频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shangshixinwen.png" group-title="上海0",上视新闻频道
-http://36.142.6.143/keonline.shanghai.liveplay.qq.com/live/program/live/xwzhhd/4000000/mnf.m3u8
-#EXTINF:-1 tvg-id="1991" tvg-name="上视外语频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaiwaiyu.png" group-title="上海0",上视外语频道
-http://36.142.6.143/keonline.shanghai.liveplay.qq.com/live/program/live/wypdhd/4000000/mnf.m3u8
+http://114.92.204.127:3366/udp/239.45.3.237:5140
+
 #EXTINF:-1 tvg-id="1985" tvg-name="第一财经" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/diyicaijing.png" group-title="上海0",第一财经
-http://36.142.6.143/keonline.shanghai.liveplay.qq.com/live/program/live/dycjhd/4000000/mnf.m3u8
-#EXTINF:-1 tvg-id="1989" tvg-name="上海都市频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidushi.jpg" group-title="上海0",上海都市频道
-http://36.142.6.143/keonline.shanghai.liveplay.qq.com/live/program/live/ylpdhd/4000000/mnf.m3u8
+http://114.92.204.127:3366/udp/239.45.3.211:5140
+
+#EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="上海0",五星体育
+http://114.92.204.127:3366/udp/239.45.3.210:5140
+
 #EXTINF:-1 tvg-id="62" tvg-name="哈哈炫动" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xuandong.png" group-title="上海0",哈哈炫动
-http://36.142.6.143/keonline.shanghai.liveplay.qq.com/live/program/live/hhxdhd/4000000/mnf.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvyan.com/uploads/dianshi/sitvdmxc.jpg" group-title="上海0",动漫秀场
-http://36.142.6.143/keonline.shanghai.liveplay.qq.com/live/program/live/dmxchd/4000000/mnf.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="上海0",都市剧场
-http://36.142.6.143/keonline.shanghai.liveplay.qq.com/live/program/live/dsjchd/4000000/mnf.m3u8
+http://114.92.204.127:3366/udp/239.45.1.55:5140
+
+#EXTINF:-1 tvg-id="1991" tvg-name="上视外语频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaiwaiyu.png" group-title="上海0",上视外语
+http://114.92.204.127:3366/udp/239.45.1.127:5140
+
+#EXTINF:-1 group-title="上海0",都市剧场
+http://114.92.204.127:3366/udp/239.45.3.136:5140
+
 #EXTINF:-1 tvg-id="1977" tvg-name="欢笑剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.png" group-title="上海0",欢笑剧场
-http://36.142.6.143/keonline.shanghai.liveplay.qq.com/live/program/live/hxjchd/4000000/mnf.m3u8
-#EXTINF:-1 tvg-id="1988" tvg-name="上海纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="上海0",上海纪实
-http://36.142.6.143/keonline.shanghai.liveplay.qq.com/live/program/live/jspdhd/4000000/mnf.m3u8
-#EXTINF:-1 tvg-id="1981" tvg-name="生活时尚" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shenghuoshishang.png" group-title="上海0",生活时尚
-http://36.142.6.143/keonline.shanghai.liveplay.qq.com/live/program/live/shsshd/4000000/mnf.m3u8
+http://114.92.204.127:3366/udp/239.45.3.196:5140
+
+#EXTINF:-1 group-title="上海0",欢笑剧场（备）
+http://114.92.204.127:3366/udp/239.45.1.4:5140
+
 #EXTINF:-1 tvg-id="1976" tvg-name="全纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/quanjishi.png" group-title="上海0",全纪实
-http://36.142.6.143/keonline.shanghai.liveplay.qq.com/live/program/live/qjshd/4000000/mnf.m3u8
+http://114.92.204.127:3366/udp/239.45.3.135:5140
+
+#EXTINF:-1 group-title="上海0",动漫秀场
+http://114.92.204.127:3366/udp/239.45.3.134:5140
+
+#EXTINF:-1  tvg-id="1981" tvg-name="生活时尚" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shenghuoshishang.png" group-title="上海0",生活时尚
+http://114.92.204.127:3366/udp/239.45.3.132:5140
+
 #EXTINF:-1 tvg-id="1983" tvg-name="游戏风云" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youxifengyun.png" group-title="上海0",游戏风云
-http://36.142.6.143/keonline.shanghai.liveplay.qq.com/live/program/live/yxfyhd/4000000/mnf.m3u8
-#EXTINF:-1 tvg-id="1975" tvg-name="MAX极速汽车" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jisuqiche.png" group-title="上海0",极速汽车
-http://36.142.6.143/keonline.shanghai.liveplay.qq.com/live/program/live/jsqchd/4000000/mnf.m3u8
-#EXTINF:-1 tvg-id="1963" tvg-name="新视觉" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xinshijue.png" group-title="上海0",新视觉
-http://36.142.6.143/keonline.shanghai.liveplay.qq.com/live/program/live/xsjhd/4000000/mnf.m3u8
-#EXTINF:-1 tvg-id="7242" tvg-name="魅力足球" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/meilizuqiu.png" group-title="上海0",魅力足球
-http://36.142.6.143/keonline.shanghai.liveplay.qq.com/live/program/live/mlyyhd/4000000/mnf.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.bestv.com.cn/r/cms/www/default/images/logo.png" group-title="上海0",BesTV
-http://36.142.6.143/keonline.shanghai.liveplay.qq.com/live/program/live/hdnba5/4000000/mnf.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.bestv.com.cn/r/cms/www/default/images/logo.png" group-title="上海0",BesTV
-http://36.142.6.143/keonline.shanghai.liveplay.qq.com/live/program/live/hdnba1/4000000/mnf.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.bestv.com.cn/r/cms/www/default/images/logo.png" group-title="上海0",BesTV
-http://36.142.6.143/keonline.shanghai.liveplay.qq.com/live/program/live/hdnba2/4000000/mnf.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.bestv.com.cn/r/cms/www/default/images/logo.png" group-title="上海0",BesTV
-http://36.142.6.143/keonline.shanghai.liveplay.qq.com/live/program/live/hdnba3/4000000/mnf.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.bestv.com.cn/r/cms/www/default/images/logo.png" group-title="上海0",BesTV
-http://36.142.6.143/keonline.shanghai.liveplay.qq.com/live/program/live/hdnba4/4000000/mnf.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.bestv.com.cn/r/cms/www/default/images/logo.png" group-title="上海0",BesTV
-http://36.142.6.143/keonline.shanghai.liveplay.qq.com/live/program/live/hdnba6/4000000/mnf.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.bestv.com.cn/r/cms/www/default/images/logo.png" group-title="上海0",BesTV
-http://36.142.6.143/keonline.shanghai.liveplay.qq.com/live/program/live/hdnba7/4000000/mnf.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="上海0",法治天地
-http://36.142.6.143/keonline.shanghai.liveplay.qq.com/live/program/live/fztd/1300000/mnf.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvyan.com/uploads/dianshi/dfcj.jpg" group-title="上海0",东方财经浦东
-http://36.142.6.143/keonline.shanghai.liveplay.qq.com/live/program/live/dfcj/1300000/mnf.m3u8
-#EXTINF:-1 tvg-id="1956" tvg-name="七彩戏剧" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/qicaixiju.png" group-title="上海0",七彩戏剧
-http://36.142.6.143/keonline.shanghai.liveplay.qq.com/live/program/live/qcxj/1300000/mnf.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="上海0",金色频道
-http://36.142.6.143/keonline.shanghai.liveplay.qq.com/live/program/live/jingsepd/1300000/mnf.m3u8
-#EXTINF:-1 tvg-id="62" tvg-name="哈哈炫动" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xuandong.png" group-title="上海0",哈哈炫动
-http://36.142.6.143/keonline.shanghai.liveplay.qq.com/live/program/live/xdkt/1300000/mnf.m3u8
-#EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinyingkatong.png" group-title="上海0",金鹰卡通
-http://36.142.6.143/keonline.shanghai.liveplay.qq.com/live/program/live/jykt/1300000/mnf.m3u8
-#EXTINF:-1 tvg-id="6010" tvg-name="嘉佳卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jiajiakt.png" group-title="上海0",嘉佳卡通
-http://36.142.6.143/keonline.shanghai.liveplay.qq.com/live/program/live/jjkt/1300000/mnf.m3u8
+http://114.92.204.127:3366/udp/239.45.3.131:5140
+
+#EXTINF:-1 tvg-id="1975" tvg-name="MAX极速汽车" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jisuqiche.png" group-title="上海0",MAX极速汽车
+http://114.92.204.127:3366/udp/239.45.3.49:5140
+
+#EXTINF:-1 group-title="上海0",教育台
+http://114.92.204.127:3366/udp/239.45.3.122:5140#http://114.92.204.127:3366/udp/239.45.3.252:5140
+
+#EXTINF:-1 group-title="上海0",东方财经
+http://114.92.204.127:3366/udp/239.45.1.119:5140#http://114.92.204.127:3366/udp/239.45.3.192:5140
+
+#EXTINF:-1 group-title="上海0",七彩戏剧
+http://114.92.204.127:3366/udp/239.45.3.61:5140#http://114.92.204.127:3366/udp/239.45.1.112:5140
+
+#EXTINF:-1 group-title="上海0",法治天地
+http://114.92.204.127:3366/udp/239.45.1.46:5140
 
 
 #上海
