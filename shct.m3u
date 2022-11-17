@@ -5,7 +5,7 @@ http://192.168.10.122:4022/udp/239.45.1.46:5140
 http://192.168.10.122:4022/udp/239.45.3.196:5140
 #EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="卫视",东方卫视HD
 http://192.168.10.122:4022/udp/239.45.3.146:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",都市频道HD
+#EXTINF:-1 tvg-id="1989" tvg-name="上海都市频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidushi.jpg" group-title="上海", 上海都市
 http://192.168.10.122:4022/udp/239.45.3.236:5140
 #EXTINF:-1 tvg-id="62" tvg-name="哈哈炫动" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xuandong.png" group-title="上海",哈哈炫动HD
 http://192.168.10.122:4022/udp/239.45.1.55:5140
@@ -13,13 +13,13 @@ http://192.168.10.122:4022/udp/239.45.1.55:5140
 http://192.168.10.122:4022/udp/239.45.3.237:5140
 #EXTINF:-1 tvg-id="1988" tvg-name="上海纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="上海",纪实人文HD
 http://192.168.10.122:4022/udp/239.45.3.212:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",新闻综合HD
+#EXTINF:-1 tvg-id="1984" tvg-name="上视新闻频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shangshixinwen.png" group-title="上海", 上海新闻综合HD
 http://192.168.10.122:4022/udp/239.45.3.209:5140
 #EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="上海",五星体育HD
 http://192.168.10.122:4022/udp/239.45.3.210:5140
 #EXTINF:-1 tvg-id="1985" tvg-name="第一财经" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/diyicaijing.png" group-title="上海",第一财经HD
 http://192.168.10.122:4022/udp/239.45.3.211:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",外语频道HD
+#EXTINF:-1 tvg-id="1991" tvg-name="上视外语频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaiwaiyu.png" group-title="上海", 上视外语频道
 http://192.168.10.122:4022/udp/239.45.1.127:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",上海教育HD
 http://192.168.10.122:4022/udp/239.45.0.13:5140
@@ -147,7 +147,7 @@ http://192.168.10.122:4022/udp/239.45.3.207:5140
 http://192.168.10.122:4022/udp/239.45.3.208:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",东方购物-5HD
 http://192.168.10.122:4022/udp/239.45.3.253:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",新闻综合
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",上海新闻综合
 http://192.168.10.122:4022/udp/239.45.3.241:5140
 #EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="卫视",东方卫视
 http://192.168.10.122:4022/udp/239.45.3.242:5140
