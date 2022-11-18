@@ -145,10 +145,14 @@ http://192.168.10.122:4022/udp/239.45.3.134:5140
 http://192.168.10.122:4022/udp/239.45.3.135:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",都市剧场HD
 http://192.168.10.122:4022/udp/239.45.3.136:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",百事通4K
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",百事通4K电影
 http://192.168.10.122:4022/udp/239.45.1.42:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",百事通4K(备)
 http://192.168.10.122:4022/udp/239.45.3.107:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",百事通4K纪实
+http://192.168.10.122:4022/udp/239.45.1.10:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",百事通4K儿童
+http://192.168.10.122:4022/udp/239.45.1.1:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",天冀百事通4K
 http://192.168.10.122:4022/udp/239.45.0.33:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",天冀百事通4K
