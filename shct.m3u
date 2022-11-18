@@ -19,7 +19,7 @@ http://192.168.10.122:4022/udp/239.45.3.209:5140
 http://192.168.10.122:4022/udp/239.45.3.210:5140
 #EXTINF:-1 tvg-id="1985" tvg-name="第一财经" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/diyicaijing.png" group-title="上海",第一财经HD
 http://192.168.10.122:4022/udp/239.45.3.211:5140
-#EXTINF:-1 tvg-id="1991" tvg-name="上视外语频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaiwaiyu.png" group-title="上海", 上视外语频道
+#EXTINF:-1 tvg-id="1991" tvg-name="上视外语频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaiwaiyu.png" group-title="上海", 上视外语频道HD
 http://192.168.10.122:4022/udp/239.45.1.127:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",上海教育HD
 http://192.168.10.122:4022/udp/239.45.0.13:5140
@@ -35,7 +35,7 @@ http://192.168.10.122:4022/udp/239.45.1.68:5140
 http://192.168.10.122:4022/udp/239.45.0.2:5140
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视",CCTV-5HD
 http://192.168.10.122:4022/udp/239.45.1.69:5140
-#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视",CCTV5+
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视",CCTV5+HD
 http://192.168.10.122:4022/udp/239.45.0.34:5140
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="央视",CCTV-6HD
 http://192.168.10.122:4022/udp/239.45.1.70:5140
@@ -101,7 +101,7 @@ http://192.168.10.122:4022/udp/239.45.1.84:5140
 http://192.168.10.122:4022/udp/239.45.1.80:5140
 #EXTINF:-1 tvg-id="37" tvg-name="旅游卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/lvyou.png" group-title="卫视",海南卫视HD
 http://192.168.10.122:4022/udp/239.45.1.81:5140
-#EXTINF:-1 tvg-id="45" tvg-name="河北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hebei.png" group-title="卫视",河北卫视
+#EXTINF:-1 tvg-id="45" tvg-name="河北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hebei.png" group-title="卫视",河北卫视HD
 http://192.168.10.122:4022/udp/239.45.1.44:5140
 #EXTINF:-1 tvg-id="45" tvg-name="河北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hebei.png" group-title="卫视",河北卫视
 http://192.168.10.122:4022/udp/239.45.1.237:5140
@@ -145,9 +145,11 @@ http://192.168.10.122:4022/udp/239.45.3.134:5140
 http://192.168.10.122:4022/udp/239.45.3.135:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",都市剧场HD
 http://192.168.10.122:4022/udp/239.45.3.136:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",百事通超级体育HD
+http://192.168.10.122:4022/udp/239.45.3.139:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",百事通4K电影
 http://192.168.10.122:4022/udp/239.45.1.42:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",百事通4K(备)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",百事通4K电影(备)
 http://192.168.10.122:4022/udp/239.45.3.107:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",百事通4K纪实
 http://192.168.10.122:4022/udp/239.45.1.10:5140
