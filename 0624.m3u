@@ -4,6 +4,7 @@
 #上海0
 #EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="上海0",五星体育
 http://60.213.135.147/keonline.shanghai.liveplay.qq.com/live/program/live/ssty/4000000/mnf.m3u8
+#http://111.29.9.48:6610/000000001000/5000000010000017540/index.m3u8?channel-id=bestzb&Contentid=5000000010000017540&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="1964" tvg-name="劲爆体育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinbaotiyu.jpg" group-title="上海0",劲爆体育
 http://60.213.135.147/keonline.shanghai.liveplay.qq.com/live/program/live/jbtyhd/2300000/mnf.m3u8
 #EXTINF:-1 tvg-id="1964" tvg-name="劲爆体育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinbaotiyu.jpg" group-title="上海0",劲爆体育
@@ -385,31 +386,31 @@ http://39.134.134.88/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226556/index
 http://111.6.126.218/hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s1/index.m3u8
 #EXTINF:-1 tvg-id="1873" tvg-name="BTV文艺" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV文艺.png" group-title="北京",北京文艺 HD
 #http://111.6.126.218/hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s2/index.m3u8
-http://111.62.156.15/pull.brtvcloud.com/brtv8kapptv/brtv8kappwenyi.m3u8
+http://111.62.156.15/down.brtvcloud.com/brtv8kapptv/brtv8kappwenyi.m3u8
 #http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s2/index.m3u8
 #EXTINF:-1 tvg-id="1874" tvg-name="BTV科教" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV科教.png" group-title="北京",北京科教 HD
 #http://71pull.btvcloud.com/brtv2021channel/2021kjchannellive3.m3u8
 http://111.6.126.218/hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s3/index.m3u8
 #http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s3/index.m3u8
 #EXTINF:-1 tvg-id="1875" tvg-name="BTV影视" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV影视.png" group-title="北京",北京影视 HD
-http://111.62.156.15/pull.brtvcloud.com/brtv8kapptv/brtv8kappyingshi.m3u8
+http://111.62.156.15/down.brtvcloud.com/brtv8kapptv/brtv8kappyingshi.m3u8
 #http:/111.6.126.218/hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s4/index.m3u8
 #EXTINF:-1 tvg-id="1876" tvg-name="BTV财经" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV财经.png" group-title="北京",北京财经 FHD
-http://111.62.156.15/pull.brtvcloud.com/brtv8kapptv/brtv8kappcaijing.m3u8
+http://111.62.156.15/down.brtvcloud.com/brtv8kapptv/brtv8kappcaijing.m3u8
 #http://111.6.126.218/hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s5/index.m3u8
 #EXTINF:-1 tvg-id="1872" tvg-name="北京纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" group-title="北京",冬奥纪实 FHD
 http://111.6.126.218/hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s6/index.m3u8
 #EXTINF:-1 tvg-id="1878" tvg-name="BTV生活" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV生活.png" group-title="北京",北京生活 FHD
-http://111.62.156.15/pull.brtvcloud.com/brtv8kapptv/brtv8kappshenghuo.m3u8
+http://111.62.156.15/down.brtvcloud.com/brtv8kapptv/brtv8kappshenghuo.m3u8
 #http://111.6.126.218/hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s7/index.m3u8
 #EXTINF:-1 tvg-id="1879" tvg-name="BTV青年" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV青年.png" group-title="北京",北京青年 FHD
-http://111.62.156.15/pull.brtvcloud.com/brtv8kapptv/brtv8kappqingnian.m3u8
+http://111.62.156.15/down.brtvcloud.com/brtv8kapptv/brtv8kappqingnian.m3u8
 #http://111.6.126.218/hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s8/index.m3u8
 #EXTINF:-1 tvg-id="1880" tvg-name="BTV新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV新闻.png" group-title="北京",北京新闻 FHD
-http://111.62.156.15/pull.brtvcloud.com/brtv8kapptv/brtv8kappxinwen.m3u8
+http://111.62.156.15/down.brtvcloud.com/brtv8kapptv/brtv8kappxinwen.m3u8
 #http://111.6.126.218/hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s9/index.m3u8
 #EXTINF:-1 tvg-id="67" tvg-name="卡酷动画" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/kaku.png" group-title="北京",卡酷少儿 FHD
-http://111.62.156.15/pull.brtvcloud.com/brtv8kapptv/brtv8kappkaku.m3u8
+http://111.62.156.15/down.brtvcloud.com/brtv8kapptv/brtv8kappkaku.m3u8
 
 
 
