@@ -159,15 +159,15 @@ http://192.168.10.122:4022/udp/239.45.1.1:5140
 http://192.168.10.122:4022/udp/239.45.0.33:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",天冀百事通4K
 http://192.168.10.122:4022/udp/239.45.0.32:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",东方购物-1HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img01.sc115.com/uploads/sc/121121/2012112122332723.jpg" group-title="未分类",东方购物-1HD
 http://192.168.10.122:4022/udp/239.45.3.74:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",东方购物-2HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img01.sc115.com/uploads/sc/121121/2012112122332723.jpg" group-title="未分类",东方购物-2HD
 http://192.168.10.122:4022/udp/239.45.3.75:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",东方购物-3HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img01.sc115.com/uploads/sc/121121/2012112122332723.jpg" group-title="未分类",东方购物-3HD
 http://192.168.10.122:4022/udp/239.45.3.207:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",东方购物-4HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img01.sc115.com/uploads/sc/121121/2012112122332723.jpg" group-title="未分类",东方购物-4HD
 http://192.168.10.122:4022/udp/239.45.3.208:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",东方购物-5HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img01.sc115.com/uploads/sc/121121/2012112122332723.jpg" group-title="未分类",东方购物-5HD
 http://192.168.10.122:4022/udp/239.45.3.253:5140
 #EXTINF:-1 tvg-id="1984" tvg-name="上视新闻频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shangshixinwen.png" group-title="未分类",上海新闻综合
 http://192.168.10.122:4022/udp/239.45.3.241:5140
