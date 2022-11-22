@@ -551,8 +551,8 @@ http://111.29.9.48:6610/000000001000/5000000010000017540/index.m3u8?channel-id=b
 http://ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="未分类",CCTV16-4K 34M2160HLG
 http://ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8
-#EXTINF:-1 tvg-name="抖音4K世界杯SDR源" tvg-logo="https://img.sj33.cn/uploads/202106/7-2106211G121315.jpg" group-title="4K频道",抖音4K世界杯SDR源
-https://pull-flv-spe-l26.douyinliving.com/fantasy/stream-112005215388959414_spuhd.flv?_neptune_token=MIGoBAzmnGxUcbS5W_B6Ke0EgYWQ_gVT-iaAWfSVh8_JX8P43Vxc7v4u-U3rC_r_68ONHeIDlgshF_CmJxzPHuSwiryDoIeoxsnrHB33TCfGSqBCnv2pPdSLTkqPQr8N4kXMlaFAnmmhjtoHzqi6-lh_cucguCRGBBguW_eq7RLivvf9WP0F6ij5nihcW5alJQGkOML24O7mBBD06InLFj6yzl164LW-WAal&expire=637d1640&sign=d075c6bbc94ed4db8e241f8400e24244&abr_pts=-1800
+#EXTINF:-1 tvg-name="抖音4K世界杯SDR源" tvg-logo="https://img.sj33.cn/uploads/202106/7-2106211G121315.jpg" group-title="未分类",抖音4K世界杯SDR源
+# https://pull-flv-spe-l26.douyinliving.com/fantasy/stream-112005215388959414_spuhd.flv?_neptune_token=MIGoBAzmnGxUcbS5W_B6Ke0EgYWQ_gVT-iaAWfSVh8_JX8P43Vxc7v4u-U3rC_r_68ONHeIDlgshF_CmJxzPHuSwiryDoIeoxsnrHB33TCfGSqBCnv2pPdSLTkqPQr8N4kXMlaFAnmmhjtoHzqi6-lh_cucguCRGBBguW_eq7RLivvf9WP0F6ij5nihcW5alJQGkOML24O7mBBD06InLFj6yzl164LW-WAal&expire=637d1640&sign=d075c6bbc94ed4db8e241f8400e24244&abr_pts=-1800
 
 
 #卫视1
