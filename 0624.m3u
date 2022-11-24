@@ -535,7 +535,7 @@ http://111.20.40.170/PLTV/88888893/224/3221226352/index.m3u8
 http://39.135.41.243/PLTV/88888888/224/3221226716/index.m3u8?hls
 #EXTINF:-1 tvg-name="咪咕4K-HLG源-备用" tvg-logo="https://epg.112114.xyz/logo/咪咕体育.png" group-title="未分类",咪咕体育-4K-HLG源-2
 http://117.136.156.3:80/000000001000/3000000010000005180/index.m3u8
-#EXTINF:-1 tvg-name="咪咕4K-HLG源-备用2" tvg-logo="https://epg.112114.xyz/logo/咪咕体育.png" group-title="4K频道",咪咕体育-4K-HLG源-3
+#EXTINF:-1 tvg-name="咪咕4K-HLG源-备用2" tvg-logo="https://epg.112114.xyz/logo/咪咕体育.png" group-title="未分类",咪咕体育-4K-HLG源-3
 http://39.135.42.203:80/000000001000/3000000010000005180/index.m3u8?
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="未分类",CCTV5-高清(1)
 http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?
