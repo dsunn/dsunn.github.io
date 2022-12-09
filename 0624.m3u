@@ -461,7 +461,8 @@ http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225786/index.m3u8
 #http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8
 #http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226825/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",纯享4K源码2
-http://111.20.105.192:6610/000000001000/1000000004000011651/index.m3u8?channel-id=ystenlive&Contentid=1000000004000011651&livemode=1&stbId=3
+http://111.11.123.37:6610/000000001000/1000000004000011651/index.m3u8?channel-id=ystenlive&Contentid=1000000004000011651&livemode=1&stbId=3
+# http://111.11.123.37:6610/000000001000/1000000004000011651/index.m3u8?channel-id=ystenlive&Contentid=1000000004000011651&livemode=1&stbId=3
 # http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226825/index.m3u8?servicetype=1
 #http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225786/index.m3u8
 #http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8
@@ -493,9 +494,10 @@ http://111.20.40.170/PLTV/88888893/224/3221226352/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/4K修复.png" group-title="未分类",4K修复 7M2160HEVC
 http://ott.mobaibox.com/PLTV/3/224/3221228141/index.m3u8
 #EXTINF:-1 tvg-id="1977" tvg-name="欢笑剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.png" group-title="未分类",欢笑剧场4K
+http://111.11.123.37:6610/000000001000/5000000007000010001/index.m3u8?channel-id=bestzb&Contentid=5000000007000010001&livemode=1&stbId=3
 #http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230739/index.m3u8
 #http://111.20.33.93/TVOD/88888893/224/3221226582/index.m3u8
-http://111.20.105.192:6610/000000001000/5000000007000010001/index.m3u8?channel-id=bestzb&Contentid=5000000007000010001&livemode=1&stbId=3
+# http://111.11.123.37:6610/000000001000/5000000007000010001/index.m3u8?channel-id=bestzb&Contentid=5000000007000010001&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.taocitv.com/uploadfile/2017/0616/20170616030329298.png" group-title="未分类",陶瓷
 # http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227234/index.m3u8?servicetype=1
 #http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226983/index.m3u8
@@ -515,12 +517,16 @@ http://111.20.105.192:6610/000000001000/5000000007000010001/index.m3u8?channel-i
 
 #EXTINF:-1 tvg-id="1872" tvg-name="北京纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" group-title="未分类",BTV冬奥记实际-8KSDR源
 http://111.62.156.15/down.brtvcloud.com/brtv8kapptv/brtv8kapp8ktv.m3u8
+#EXTINF:-1 tvg-id="7249" tvg-name="CCTV16"  tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="未分类",CCTV16-4K-25P-HLG
+http://159.75.85.63:8280/cctv4k.php
 #EXTINF:-1 tvg-id="7249" tvg-name="CCTV16"  tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="未分类",CCTV16-4K-SDR源
-http://111.20.105.192:6610/000000001000/5000000008000023254/index.m3u8?channel-id=bestzb&Contentid=5000000008000023254&livemode=1&stbId=3
+http://111.29.9.46:6610/000000001000/5000000008000023254/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT2197120221119175523009763&channel-id=bestzb&Contentid=5000000008000023254
+# http://111.11.123.37:6610/000000001000/5000000008000023254/index.m3u8?channel-id=bestzb&Contentid=5000000008000023254&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="7249" tvg-name="CCTV16"  tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="未分类",CCTV16-4K-HLG源
-http://27.36.62.163:9090/live/4010.m3u8
+http://live.cooltv.top/tv/aishang.php?id=cctv164k
+# http://27.36.62.163:9090/live/4010.m3u8
 #EXTINF:-1 tvg-id="7249" tvg-name="CCTV16"  tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="未分类",CCTV16-1080P-HLG源
-http://liveop.cctv.cn/hls/CCTV16HD/playlist.m3u8
+# http://liveop.cctv.cn/hls/CCTV16HD/playlist.m3u8
 #EXTINF:-1 tvg-name="广东综艺4K-HLG源" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTVENT.png" group-title="未分类",广东综艺4K-HLG源
 #http://27.36.62.163:9090/live/GDZYHD4K_38000.m3u8
 http://159.75.85.63:5828/gudou.php?id=GDZYHD4K_38000
@@ -530,15 +536,17 @@ http://159.75.85.63:5828/gudou.php?id=4005
 #EXTINF:-1 tvg-id="7249" tvg-name="CCTV16"  tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="未分类",CCTV16-4K-50P-IPV6-HLG源
 http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8
 #EXTINF:-1 group-title="未分类",4K影视1
-http://111.20.105.192:6610/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=3
+http://111.11.123.37:6610/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=3
 #EXTINF:-1 group-title="未分类",4K影视2
 http://111.20.40.170/PLTV/88888893/224/3221226352/index.m3u8
-#EXTINF:-1 tvg-name="咪咕体育-4K-HLG源" tvg-logo="https://epg.112114.xyz/logo/咪咕体育.png" group-title="未分类",咪咕体育-4K-HLG源
-http://39.135.41.243/PLTV/88888888/224/3221226716/index.m3u8?hls
-#EXTINF:-1 tvg-name="咪咕4K-HLG源-备用" tvg-logo="https://epg.112114.xyz/logo/咪咕体育.png" group-title="未分类",咪咕体育-4K-HLG源-2
-http://117.136.156.3:80/000000001000/3000000010000005180/index.m3u8
-#EXTINF:-1 tvg-name="咪咕4K-HLG源-备用2" tvg-logo="https://epg.112114.xyz/logo/咪咕体育.png" group-title="未分类",咪咕体育-4K-HLG源-3
-http://39.135.42.203:80/000000001000/3000000010000005180/index.m3u8?
+#EXTINF:-1 tvg-name="咪咕体育-4K-HLG源" tvg-logo="https://epg.112114.xyz/logo/咪咕体育.png" group-title="未分类",咪咕体育-4K-SDR源
+http://120.234.220.107:9000/udp/239.20.0.66:3136
+# http://39.135.41.243/PLTV/88888888/224/3221226716/index.m3u8?hls
+#EXTINF:-1 tvg-name="咪咕4K-HLG源-备用" tvg-logo="https://epg.112114.xyz/logo/咪咕体育.png" group-title="未分类",咪咕体育-4K-HLG源
+http://117.136.156.35:80/000000001000/3000000010000005180/index.m3u8
+# http://117.136.156.3:80/000000001000/3000000010000005180/index.m3u8
+#EXTINF:-1 tvg-name="咪咕4K-HLG源-备用2" tvg-logo="https://epg.112114.xyz/logo/咪咕体育.png" group-title="未分类",咪咕体育-4K-HLG源-2
+# http://39.135.42.203:80/000000001000/3000000010000005180/index.m3u8?
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="未分类",CCTV5-高清(1)
 http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="未分类",CCTV5-高清(2)
