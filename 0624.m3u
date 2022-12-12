@@ -706,9 +706,9 @@ http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8
 #http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8
 #http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E7%BF%A1%E7%BF%A0%E5%8F%B0.png" group-title="港台",翡翠台HD
-http://159.75.85.63:5828/gudou.php?id=1350_4500
+# http://159.75.85.63:5828/gudou.php?id=1350_4500
 #EXTINF:-1 tvg-id="127" tvg-name="明珠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E6%98%8E%E7%8F%A0%E5%8F%B0.png" group-title="港台",明珠台HD
-http://159.75.85.63:5828/gudou.php?id=1351_4500
+# http://159.75.85.63:5828/gudou.php?id=1351_4500
 #EXTINF:-1 tvg-id="6171" tvg-name="寰宇新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png" group-title="港台",寰宇新闻台
 https://raw.githubusercontent.com/etag2000/IPTV/YTlive/hyxw.m3u8
 #https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/寰宇新聞.m3u8
