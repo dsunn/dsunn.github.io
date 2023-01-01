@@ -143,72 +143,72 @@ http:///223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/jjkt/1300000/mnf.
 #http://36.142.6.143/liveplay-kk.rtxapp.com/ http://223.109.53.84/liveplay-kk.rtxapp.com/ http://183.207.255.188/
 
 #EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="上海",五星体育
-http:///223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/ssty/4000000/mnf.m3u8
+http:///219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/ssty/4000000/mnf.m3u8
 #http://111.29.9.48:6610/000000001000/5000000010000017540/index.m3u8?channel-id=bestzb&Contentid=5000000010000017540&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="1964" tvg-name="劲爆体育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinbaotiyu.jpg" group-title="上海",劲爆体育
-http:///223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/jbtyhd/2300000/mnf.m3u8
+http:///219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/jbtyhd/2300000/mnf.m3u8
 #EXTINF:-1 tvg-id="1964" tvg-name="劲爆体育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinbaotiyu.jpg" group-title="上海",劲爆体育
-http:///223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/jbtyhd/4000000/mnf.m3u8
+http:///219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/jbtyhd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="1986" tvg-name="东方影视" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidongfangyingshi.png" group-title="上海",东方影视
-http:///223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/dsjpdhd/4000000/mnf.m3u8
+http:///219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/dsjpdhd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="1984" tvg-name="上视新闻频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shangshixinwen.png" group-title="上海",上视新闻频道
-http:///223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/xwzhhd/4000000/mnf.m3u8
+http:///219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/xwzhhd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="1991" tvg-name="上视外语频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaiwaiyu.png" group-title="上海",上视外语频道
-http:///223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/wypdhd/4000000/mnf.m3u8
+http:///219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/wypdhd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="1985" tvg-name="第一财经" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/diyicaijing.png" group-title="上海",第一财经
-http:///223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/dycjhd/4000000/mnf.m3u8
+http:///219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/dycjhd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="1989" tvg-name="上海都市频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidushi.jpg" group-title="上海",上海都市频道
-http:///223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/ylpdhd/4000000/mnf.m3u8
+http:///219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/ylpdhd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="62" tvg-name="哈哈炫动" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xuandong.png" group-title="上海",哈哈炫动
-http:///223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/hhxdhd/4000000/mnf.m3u8
+http:///219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/hhxdhd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvyan.com/uploads/dianshi/sitvdmxc.jpg" group-title="上海",动漫秀场
-http:///223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/dmxchd/4000000/mnf.m3u8
+http:///219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/dmxchd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cn.heytv.org/wp-content/uploads/2018/12/1-1P5151UG1537-2.jpg" group-title="上海",都市剧场
-http:///223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/dsjchd/4000000/mnf.m3u8
+http:///219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/dsjchd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="1977" tvg-name="欢笑剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.png" group-title="上海",欢笑剧场
-http:///223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/hxjchd/4000000/mnf.m3u8
+http:///219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/hxjchd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="1988" tvg-name="上海纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="上海",上海纪实
-http:///223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/jspdhd/4000000/mnf.m3u8
+http:///219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/jspdhd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="1981" tvg-name="生活时尚" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shenghuoshishang.png" group-title="上海",生活时尚
-http:///223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/shsshd/4000000/mnf.m3u8
+http:///219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/shsshd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="1976" tvg-name="全纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/quanjishi.png" group-title="上海",全纪实
-http:///223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/qjshd/4000000/mnf.m3u8
+http:///219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/qjshd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="1983" tvg-name="游戏风云" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youxifengyun.png" group-title="上海",游戏风云
-http:///223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/yxfyhd/4000000/mnf.m3u8
+http:///219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/yxfyhd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="1975" tvg-name="MAX极速汽车" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jisuqiche.png" group-title="上海",极速汽车
-http:///223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/jsqchd/4000000/mnf.m3u8
+http:///219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/jsqchd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="1963" tvg-name="新视觉" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xinshijue.png" group-title="上海",新视觉
-http:///223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/xsjhd/4000000/mnf.m3u8
+http:///219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/xsjhd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="7242" tvg-name="魅力足球" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/meilizuqiu.png" group-title="上海",魅力足球
-http:///223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/mlyyhd/4000000/mnf.m3u8
+http:///219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/mlyyhd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.bestv.com.cn/r/cms/www/default/images/logo.png" group-title="上海",BesTV
-http:///223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/hdnba5/4000000/mnf.m3u8
+http:///219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/hdnba5/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.bestv.com.cn/r/cms/www/default/images/logo.png" group-title="上海",BesTV
-http:///223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/hdnba1/4000000/mnf.m3u8
+http:///219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/hdnba1/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.bestv.com.cn/r/cms/www/default/images/logo.png" group-title="上海",BesTV
-http:///223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/hdnba2/4000000/mnf.m3u8
+http:///219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/hdnba2/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.bestv.com.cn/r/cms/www/default/images/logo.png" group-title="上海",BesTV
-http:///223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/hdnba3/4000000/mnf.m3u8
+http:///219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/hdnba3/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.bestv.com.cn/r/cms/www/default/images/logo.png" group-title="上海",BesTV
-http:///223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/hdnba4/4000000/mnf.m3u8
+http:///219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/hdnba4/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.bestv.com.cn/r/cms/www/default/images/logo.png" group-title="上海",BesTV
-http:///223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/hdnba6/4000000/mnf.m3u8
+http:///219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/hdnba6/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.bestv.com.cn/r/cms/www/default/images/logo.png" group-title="上海",BesTV
-http:///223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/hdnba7/4000000/mnf.m3u8
+http:///219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/hdnba7/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvquanqiu.com/uploads/fazhitiandi.jpg" group-title="上海",法治天地
-http:///223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/fztd/1300000/mnf.m3u8
+http:///219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/fztd/1300000/mnf.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvyan.com/uploads/dianshi/dfcj.jpg" group-title="上海",东方财经浦东
-http:///223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/dfcj/1300000/mnf.m3u8
+http:///219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/dfcj/1300000/mnf.m3u8
 #EXTINF:-1 tvg-id="1956" tvg-name="七彩戏剧" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/qicaixiju.png" group-title="上海",七彩戏剧
-http:///223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/qcxj/1300000/mnf.m3u8
+http:///219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/qcxj/1300000/mnf.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://inews.gtimg.com/newsapp_bt/0/13779299110/1000" group-title="上海",金色频道
-http:///223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/jingsepd/1300000/mnf.m3u8
+http:///219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/jingsepd/1300000/mnf.m3u8
 #EXTINF:-1 tvg-id="62" tvg-name="哈哈炫动" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xuandong.png" group-title="上海",哈哈炫动
-http:///223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/xdkt/1300000/mnf.m3u8
+http:///219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/xdkt/1300000/mnf.m3u8
 #EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinyingkatong.png" group-title="上海",金鹰卡通
-http:///223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/jykt/1300000/mnf.m3u8
+http:///219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/jykt/1300000/mnf.m3u8
 #EXTINF:-1 tvg-id="6010" tvg-name="嘉佳卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jiajiakt.png" group-title="上海",嘉佳卡通
-http:///223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/jjkt/1300000/mnf.m3u8
+http:///219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/jjkt/1300000/mnf.m3u8
 #EXTINF:-1 tvg-id="1988" tvg-name="上海纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="上海",上海纪实
 http://39.134.115.163:8080/PLTV/88888910/224/3221225654/index.m3u8
 
