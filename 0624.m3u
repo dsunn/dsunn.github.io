@@ -69,6 +69,56 @@ http:///223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/xdkt/1300000/mnf.
 http:///223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/jykt/1300000/mnf.m3u8
 #EXTINF:-1 tvg-id="6010" tvg-name="嘉佳卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jiajiakt.png" group-title="上海0",嘉佳卡通
 http:///223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/jjkt/1300000/mnf.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="bestv热门综艺" tvg-logo="https://epg.112114.xyz/logo/热门综艺.png" group-title="上海0",bestv热门综艺 8M
+http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/rmzy8m/8000000/mnf.m3u8
+#EXTINF:-1,tvg-id="bestv超级体育" tvg-name="NEWTV超级体育" tvg-logo="https://epg.112114.xyz/logo/NEWTV超级体育.png" group-title="上海0",bestv超级体育 8M
+http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/qcsj8m/8000000/mnf.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="bestv健康养生" tvg-logo="https://epg.112114.xyz/logo/健康养生.png" group-title="上海0",bestv健康养生 8M
+http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/jkys8m/8000000/mnf.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="bestv百变课堂" tvg-logo="https://epg.112114.xyz/logo/百变课堂.png" group-title="上海0",bestv百变课堂 8M
+http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/bbkt8m/8000000/mnf.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="bestv看天下精选" tvg-logo="https://epg.112114.xyz/logo/看天下精选.png" group-title="上海0",bestv看天下精选 8M
+http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/ktxjx8m/8000000/mnf.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="bestv华语影院" tvg-logo="https://epg.112114.xyz/logo/华语影院.png" group-title="上海0",bestv华语影院 8M
+http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/hyyy8m/8000000/mnf.m3u8
+#EXTINF:-1,tvg-id="电竞天堂" tvg-name="bestv电竞天堂" tvg-logo="https://epg.112114.xyz/logo/电竞天堂.png" group-title="上海0",bestv电竞天堂 8M
+http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/djtt8m/8000000/mnf.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="bestv青春动漫" tvg-logo="https://epg.112114.xyz/logo/青春动漫.png" group-title="上海0",bestv青春动漫 8M
+http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/qcdm8m/8000000/mnf.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="bestv宝宝动画" tvg-logo="https://epg.112114.xyz/logo/宝宝动画.png" group-title="上海0",bestv宝宝动画 8M
+http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/bbdh8m/8000000/mnf.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="bestv星光影院" tvg-logo="https://epg.112114.xyz/logo/星光影院.png" group-title="上海0",bestv星光影院 8M
+http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/xgyy8m/8000000/mnf.m3u8
+#EXTINF:-1,tvg-id="红色谍战剧场" tvg-name="bestv谍战剧场" tvg-logo="https://epg.112114.xyz/logo/红色谍战剧场.png" group-title="上海0",bestv谍战剧场 8M
+http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/dzjc8m/8000000/mnf.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="bestv全球大片" tvg-logo="https://epg.112114.xyz/logo/全球大片.png" group-title="上海0",bestv全球大片 8M
+http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/qqdp8m/8000000/mnf.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="bestv热门剧场" tvg-logo="https://epg.112114.xyz/logo/热门剧场.png" group-title="上海0",bestv热门剧场 8M
+http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/rmjc8m/8000000/mnf.m3u8
+#EXTINF:-1,tvg-id="陶瓷" tvg-name="bestv陶瓷高清" tvg-logo="https://epg.112114.xyz/logo/陶瓷.png" group-title="上海0",bestv陶瓷高清 8M
+http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/taocihd/8000000/mnf.m3u8
+#EXTINF:-1,tvg-id="中国教育1台" tvg-name="中国教育1台" tvg-logo="https://epg.112114.xyz/logo/中国教育1台.png" group-title="上海0",中国教育-1 8M
+http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/zgjy1t8m/8000000/mnf.m3u8
+#EXTINF:-1,tvg-id="中国教育4台" tvg-name="中国教育4台" tvg-logo="https://epg.112114.xyz/logo/中国教育4台.png" group-title="上海0",中国教育-4 8M
+http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/zgjy4hd8m/8000000/mnf.m3u8
+#EXTINF:-1,tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://epg.112114.xyz/logo/卡酷少儿.png" group-title="上海0",卡酷少儿 8M
+http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/kkse8m/8000000/mnf.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/纪实科教.png" group-title="上海0",纪实科教 8M
+http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/dajs8m/8000000/mnf.m3u8
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="上海0",茶频道 8M
+http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/cpdhdavs8m/8000000/mnf.m3u8
+#EXTINF:-1,tvg-id="咪咕足球" tvg-name="咪咕足球" tvg-logo="https://epg.112114.xyz/logo/咪咕足球.png" group-title="上海0",足球高清 8M
+http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/zqpd8m/8000000/mnf.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/炫动卡通.png" group-title="上海0",炫动卡通 8M
+http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/hhxd8m/8000000/mnf.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/东方财经.png" group-title="上海0",东方财经 8M
+http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/dfcjhd8m/8000000/mnf.m3u8
+#EXTINF:-1,tvg-id="都市剧场" tvg-name="都市剧场" tvg-logo="https://epg.112114.xyz/logo/都市剧场.png" group-title="上海0",都市剧场 8M
+http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/dsjc8m/8000000/mnf.m3u8
+#EXTINF:-1,tvg-id="动漫秀场" tvg-name="动漫秀场" tvg-logo="https://epg.112114.xyz/logo/动漫秀场.png" group-title="上海0",动漫秀场 8M
+http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/dmxc8m/8000000/mnf.m3u8
+#EXTINF:-1,tvg-id="Z" tvg-name="法治天地" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="上海0",法治天地 8M
+http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/fztd8m/8000000/mnf.m3u8
 
 
 
