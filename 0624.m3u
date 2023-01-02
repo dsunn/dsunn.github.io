@@ -103,7 +103,7 @@ http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/zgjy1t8m/8000000/m
 http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/zgjy4hd8m/8000000/mnf.m3u8
 #EXTINF:-1,tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://epg.112114.xyz/logo/卡酷少儿.png" group-title="上海0",卡酷少儿 8M
 http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/kkse8m/8000000/mnf.m3u8
-EXTINF:-1 tvg-id="1874" tvg-name="BTV科教" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV科教.png" group-title="上海0",北京科教 HD
+#EXTINF:-1 tvg-id="1874" tvg-name="BTV科教" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV科教.png" group-title="上海0",北京科教 HD
 http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/dajs8m/8000000/mnf.m3u8
 #EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="上海0",茶频道 8M
 http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/cpdhdavs8m/8000000/mnf.m3u8
