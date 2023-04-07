@@ -833,7 +833,8 @@ https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ctsshow.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港台",华视新闻资讯 HD
 #http://185.207.176.189:8080/channels/tw-503/playlist.m3u8
 #EXTINF:-1 tvg-id="6071" tvg-name="民视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png" group-title="港台",民视新闻 FHD
-https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ftvnews.m3u8
+http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
+# https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ftvnews.m3u8
 #https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/民視新聞.m3u8
 #http://211.23.114.106:8504/http/61.221.81.94:8088/hls/73/815/ch51.m3u8?token=
 #http://seb.sason.top/sc/msxw_fhd.m3u8
@@ -945,7 +946,8 @@ https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea09
 #https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 #EXTINF:-1 tvg-id="6139" tvg-name="ChannelNewsAsia" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/channelnewsasia.png" group-title="外国",亚洲新闻
-http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+# http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/CBS_News_logo_%282020%29.svg/512px-CBS_News_logo_%282020%29.svg.png" group-title="外国",CBS NEWS US HD
 #https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
