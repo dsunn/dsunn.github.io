@@ -155,10 +155,24 @@ http://192.168.10.195:4022/udp/239.45.3.107:5140
 http://192.168.10.195:4022/udp/239.45.1.10:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.bestv.com.cn/r/cms/www/default/images/logo.png" group-title="未分类",百事通4K儿童
 http://192.168.10.195:4022/udp/239.45.1.1:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.bestv.com.cn/r/cms/www/default/images/logo.png" group-title="未分类",百事通4K测试
+http://192.168.10.195:4022/udp/239.45.1.106:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.bestv.com.cn/r/cms/www/default/images/logo.png" group-title="未分类",百事通4K影院
+http://192.168.10.195:4022/udp/239.45.1.9:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.bestv.com.cn/r/cms/www/default/images/logo.png" group-title="未分类",百事通纪实
+http://192.168.10.195:4022/udp/239.45.1.103:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.bestv.com.cn/r/cms/www/default/images/logo.png" group-title="未分类",百事通卡通
+http://192.168.10.195:4022/udp/239.45.3.156:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",天冀百事通4K
 http://192.168.10.195:4022/udp/239.45.0.33:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",天冀百事通4K
 http://192.168.10.195:4022/udp/239.45.0.32:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",浦东
+http://192.168.10.195:4022/udp/239.45.3.248:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",崇明
+http://192.168.10.195:4022/udp/239.45.1.54:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",嘉定
+http://192.168.10.195:4022/udp/239.45.3.185:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img01.sc115.com/uploads/sc/121121/2012112122332723.jpg" group-title="未分类",东方购物-1HD
 http://192.168.10.195:4022/udp/239.45.3.74:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img01.sc115.com/uploads/sc/121121/2012112122332723.jpg" group-title="未分类",东方购物-2HD
