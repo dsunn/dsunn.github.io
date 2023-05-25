@@ -1051,12 +1051,14 @@ http://39.135.138.58:18890/TVOD/88888888/224/3221225908/index.m3u8
 
 #hktw
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港台",凤凰中文蓝光1
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226248/index.m3u8
+http://[2409:8087:2001:20:2800:0:df6e:eb27]/wh7f454c46tw3352677969_1732462333/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8?icpid=3&RTS=1668336154&from=40&popid=40&hms_devid=2293&prioritypopid=40&vqe=3
+#http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226248/index.m3u8
 # http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8
 #http://124.232.233.15:6610/000000001001/201500000230/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
 #http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="港台",凤凰资讯蓝光1
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226274/index.m3u8
+http://[2409:8087:2001:20:2800:0:df6e:eb24]/wh7f454c46tw3553140416_-2021535160/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8?icpid=3&RTS=1668336354&from=40&popid=40&hms_devid=2292&prioritypopid=40&vqe=3
+#http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226274/index.m3u8
 # http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8
 #http://124.232.233.15:6610/000000001001/201500000231/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
 #http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8
