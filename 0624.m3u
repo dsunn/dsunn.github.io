@@ -1175,56 +1175,38 @@ http://iptv.tvfix.org/hls/lovenature4k.m3u8
 http://iptv.tvfix.org/hls/lovenature4k2.m3u8
 
 #台湾
-#EXTINF:-1,tvg-id="中天新闻台" tvg-name="中天新闻台" tvg-logo="https://epg.112114.xyz/logo/中天新闻台.png" group-title="台湾",中天新闻台
-http://awei.beimua.com/iptv.php?id=43
-#EXTINF:-1,tvg-id="中天新闻台" tvg-name="中天新闻台" tvg-logo="https://epg.112114.xyz/logo/中天新闻台.png" group-title="台湾",中天新闻台
-http://sc2022.stream-link.org/list.php?id=t003
-#EXTINF:-1,tvg-id="东森新闻台" tvg-name="东森新闻台" tvg-logo="https://epg.112114.xyz/logo/东森新闻台.png" group-title="台湾",东森新闻台
-http://awei.beimua.com/iptv.php?id=44
-#EXTINF:-1,tvg-id="中视" tvg-name="中视" tvg-logo="https://epg.112114.xyz/logo/中视.png" group-title="台湾",中视新闻台
-http://awei.beimua.com/iptv.php?id=46
-#EXTINF:-1,tvg-id="中视" tvg-name="中视" tvg-logo="https://epg.112114.xyz/logo/中视.png" group-title="台湾",中视新闻台
-http://sc2022.stream-link.org/list.php?id=t005
-#EXTINF:-1,tvg-id="台视新闻台" tvg-name="台视新闻台" tvg-logo="https://epg.112114.xyz/logo/台视新闻台.png" group-title="台湾",台视新闻台
-http://awei.beimua.com/iptv.php?id=47
-#EXTINF:-1,tvg-id="台视新闻台" tvg-name="台视新闻台" tvg-logo="https://epg.112114.xyz/logo/台视新闻台.png" group-title="台湾",台视新闻台
-http://sc2022.stream-link.org/list.php?id=t012
-#EXTINF:-1,tvg-id="三立新闻台" tvg-name="三立新闻台" tvg-logo="https://epg.112114.xyz/logo/三立新闻台.png" group-title="台湾",三立新闻台
-http://awei.beimua.com/iptv.php?id=48
-#EXTINF:-1,tvg-id="三立新闻台" tvg-name="三立新闻台" tvg-logo="https://epg.112114.xyz/logo/三立新闻台.png" group-title="台湾",三立新闻台
-http://sc2022.stream-link.org/list.php?id=t010
-#EXTINF:-1,tvg-id="民视新闻台" tvg-name="民视新闻台" tvg-logo="https://epg.112114.xyz/logo/民视新闻台.png" group-title="台湾",民视新闻台
-http://awei.beimua.com/iptv.php?id=50
-#EXTINF:-1,tvg-id="民视新闻台" tvg-name="民视新闻台" tvg-logo="https://epg.112114.xyz/logo/民视新闻台.png" group-title="台湾",民视新闻台
-http://sc2022.stream-link.org/list.php?id=t006
-#EXTINF:-1,tvg-id="华视" tvg-name="华视" tvg-logo="https://epg.112114.xyz/logo/华视.png" group-title="台湾",华视新闻台
-http://awei.beimua.com/iptv.php?id=51
-#EXTINF:-1,tvg-id="华视" tvg-name="华视" tvg-logo="https://epg.112114.xyz/logo/华视.png" group-title="台湾",华视新闻台
-http://sc2022.stream-link.org/list.php?id=t004
-#EXTINF:-1,tvg-id="镜电视新闻台" tvg-name="镜电视新闻台" tvg-logo="https://epg.112114.xyz/logo/镜电视新闻台.png" group-title="台湾",镜电视新闻台
-http://awei.beimua.com/iptv.php?id=52
-#EXTINF:-1,tvg-id="寰宇新闻" tvg-name="寰宇新闻" tvg-logo="https://epg.112114.xyz/logo/寰宇新闻.png" group-title="台湾",寰宇新闻台
-http://awei.beimua.com/iptv.php?id=53
-#EXTINF:-1,tvg-id="寰宇新闻" tvg-name="寰宇新闻" tvg-logo="https://epg.112114.xyz/logo/寰宇新闻.png" group-title="台湾",寰宇新闻台
-http://sc2022.stream-link.org/list.php?id=t007
-#EXTINF:-1,tvg-id="寰宇台湾新闻" tvg-name="寰宇台湾新闻" tvg-logo="https://epg.112114.xyz/logo/寰宇台湾新闻.png" group-title="台湾",寰宇台湾新闻
-http://sc2022.stream-link.org/list.php?id=t008
-#EXTINF:-1,tvg-id="年代新闻台" tvg-name="年代新闻台" tvg-logo="https://epg.112114.xyz/logo/年代新闻台.png" group-title="台湾",年代新闻台
-https://pull-l3-cny.douyincdn.com/live/YesLiveTV-9963bf53-664f-4e6b-bc54-42954f42d2cf.m3u8?by=yeslivetv_com
-#EXTINF:-1,tvg-id="东森新闻台" tvg-name="东森新闻台" tvg-logo="https://epg.112114.xyz/logo/东森新闻台.png" group-title="台湾",东森新闻台
-http://sc2022.stream-link.org/list.php?id=t001
-#EXTINF:-1,tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://epg.112114.xyz/logo/TVBS.png" group-title="台湾",TVBS
-http://sc2022.stream-link.org/list.php?id=t014
-#EXTINF:-1,tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://epg.112114.xyz/logo/TVBS.png" group-title="台湾",TVBS
-http://awei.beimua.com/iptv.php?id=56
-#EXTINF:-1,tvg-id="TVBS新闻台" tvg-name="TVBS新闻台" tvg-logo="https://epg.112114.xyz/logo/TVBS新闻台.png" group-title="台湾",TVBS新闻台
-http://sc2022.stream-link.org/list.php?id=t013
-#EXTINF:-1,tvg-id="TVBS新闻台" tvg-name="TVBS新闻台" tvg-logo="https://epg.112114.xyz/logo/TVBS新闻台.png" group-title="台湾",TVBS新闻台
-http://awei.beimua.com/iptv.php?id=54
-#EXTINF:-1,tvg-id="三立NEWS+" tvg-name="三立NEWS+" tvg-logo="https://epg.112114.xyz/logo/三立NEWS+.png" group-title="台湾",三立NEWS+
-https://ytm2.yuanhsing.cf/SETLIVE.m3u8
-#EXTINF:-1,tvg-id="三立NEWS+" tvg-name="三立NEWS+" tvg-logo="https://epg.112114.xyz/logo/三立NEWS+.png" group-title="台湾",三立NEWS+
-http://sc2022.stream-link.org/list.php?id=t011
+#EXTINF:-1 tvg-id="6069" tvg-name="東森新聞" tvg-logo="http://www.stream-link.org/tv_logo/ebc-news.png" group-title="台湾",東森新聞
+http://sc2022.stream-link.org/tv2306.php?id=t01
+#EXTINF:-1 tvg-id="6075" tvg-name="東森財經新聞" tvg-logo="http://www.stream-link.org/tv_logo/ebc-finance.png" group-title="台湾",東森財經新聞
+http://sc2022.stream-link.org/tv2306.php?id=t02
+#EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="http://www.stream-link.org/tv_logo/cti-news.png" group-title="台湾",中天新聞
+http://sc2022.stream-link.org/tv2306.php?id=t03
+#EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="http://www.stream-link.org/tv_logo/cts-news.png" group-title="台湾",華視新聞
+http://sc2022.stream-link.org/tv2306.php?id=t04
+#EXTINF:-1 tvg-id="7176" tvg-name="中視新聞" tvg-logo="http://www.stream-link.org/tv_logo/ctv-news.png" group-title="台湾",中視新聞
+http://sc2022.stream-link.org/tv2306.php?id=t05
+#EXTINF:-1 tvg-id="6071" tvg-name="民視新聞" tvg-logo="http://www.stream-link.org/tv_logo/ftv-news.png" group-title="台湾",民視新聞
+http://sc2022.stream-link.org/tv2306.php?id=t06
+#EXTINF:-1 tvg-id="6171" tvg-name="寰宇國際新聞" tvg-logo="http://www.stream-link.org/tv_logo/global-news.png" group-title="台湾",寰宇國際新聞
+http://sc2022.stream-link.org/tv2306.php?id=t07
+#EXTINF:-1 tvg-id="6171" tvg-name="寰宇台灣新聞" tvg-logo="http://www.stream-link.org/tv_logo/global-news.png" group-title="台湾",寰宇台灣新聞
+http://sc2022.stream-link.org/tv2306.php?id=t08
+#EXTINF:-1 tvg-id="6108" tvg-name="三立財經新聞" tvg-logo="http://www.stream-link.org/tv_logo/set-finance.png" group-title="台湾",三立財經新聞
+http://sc2022.stream-link.org/tv2306.php?id=t09
+#EXTINF:-1 tvg-id="6072" tvg-name="三立新聞" tvg-logo="http://www.stream-link.org/tv_logo/set-news.png" group-title="台湾",三立新聞
+http://sc2022.stream-link.org/tv2306.php?id=t10
+#EXTINF:-1 tvg-id="6072" tvg-name="三立新聞+" tvg-logo="http://www.stream-link.org/tv_logo/set-news+.png" group-title="台湾",三立新聞+
+http://sc2022.stream-link.org/tv2306.php?id=t11
+#EXTINF:-1 tvg-id="6143" tvg-name="台視新聞" tvg-logo="http://www.stream-link.org/tv_logo/ttv-news.png" group-title="台湾",台視新聞
+http://sc2022.stream-link.org/tv2306.php?id=t12
+#EXTINF:-1 tvg-id="6073" tvg-name="TVBS新聞" tvg-logo="http://www.stream-link.org/tv_logo/tvbs-news.png" group-title="台湾",TVBS新聞
+http://sc2022.stream-link.org/tv2306.php?id=t13
+#EXTINF:-1 tvg-id="6074" tvg-name="TVBS財經" tvg-logo="http://www.stream-link.org/tv_logo/tvbs.png" group-title="台湾",TVBS財經
+http://sc2022.stream-link.org/tv2306.php?id=t14
+#EXTINF:-1 tvg-id="9999" tvg-name="中天亞洲台" tvg-logo="http://www.stream-link.org/tv_logo/cti-asia.png" group-title="台湾",中天亞洲台
+http://sc2022.stream-link.org/tv2306.php?id=t15
+#EXTINF:-1 tvg-id="9999" tvg-name="TVBS亞洲台" tvg-logo="http://www.stream-link.org/tv_logo/tvbs-asia.png" group-title="台湾",TVBS亞洲台
+http://sc2022.stream-link.org/tv2306.php?id=t16
 #EXTINF:-1 group-title="台湾",民視
 rtmp://119.81.124.89/sat/tv051
 #EXTINF:-1 group-title="台湾",台視
@@ -1535,7 +1517,8 @@ http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 #http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
 #EXTINF:-1 tvg-id="734" tvg-name="france24" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/france24.png" group-title="外国",France 24
 #http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
-https://2022.stream-link.org/list.php?id=e011
+http://sc2022.stream-link.org/tv2306.php?id=e11
+#https://2022.stream-link.org/list.php?id=e011
 #http://58.99.33.16:1935/liveedge17/live_156_3.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="GB News" tvg-logo="http://www.stream-link.org/tv_logo/gb-news.png" group-title="外国",GB News
 https://2022.stream-link.org/list.php?id=e012
