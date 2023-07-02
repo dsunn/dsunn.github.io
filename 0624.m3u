@@ -4,19 +4,19 @@
 
 
 #上海-shcm-ipv6
-#EXTINF:-1 group-title="上海-shcm-ipv6",上海新闻综合
+#EXTINF:-1 tvg-id="1984" tvg-name="上视新闻频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shangshixinwen.png" group-title="上海-shcm-ipv6",上海新闻综合
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001014/index.m3u8?
-#EXTINF:-1 group-title="上海-shcm-ipv6",上海新闻综合
+#EXTINF:-1 tvg-id="1984" tvg-name="上视新闻频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shangshixinwen.png" group-title="上海-shcm-ipv6",上海新闻综合
 # http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001014/index.m3u8?
-#EXTINF:-1 group-title="上海-shcm-ipv6",上海五星体育
+#EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="上海-shcm-ipv6",上海五星体育
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001018/index.m3u8?
-#EXTINF:-1 group-title="上海-shcm-ipv6",上海五星体育
+#EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="上海-shcm-ipv6",上海五星体育
 # http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001018/index.m3u8?
-#EXTINF:-1 group-title="上海-shcm-ipv6",上海东方影视
+#EXTINF:-1 tvg-id="1986" tvg-name="东方影视" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidongfangyingshi.png" group-title="上海-shcm-ipv6",上海东方影视
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001016/index.m3u8?
-#EXTINF:-1 group-title="上海-shcm-ipv6",上海东方影视
+#EXTINF:-1 tvg-id="1986" tvg-name="东方影视" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidongfangyingshi.png" group-title="上海-shcm-ipv6",上海东方影视
 # http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001016/index.m3u8?
-#EXTINF:-1 group-title="上海-shcm-ipv6",上海外语
+#EXTINF:-1 tvg-id="1991" tvg-name="上视外语频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaiwaiyu.png" group-title="上海-shcm-ipv6",上海外语
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001128/index.m3u8?
 #EXTINF:-1 group-title="上海-shcm-ipv6",上海都市
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001015/index.m3u8?
