@@ -22,17 +22,17 @@ http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001128/index.m3u8?
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001015/index.m3u8?
 #EXTINF:-1 tvg-id="1989" tvg-name="上海都市频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidushi.jpg" group-title="上海-shcm-ipv6",上海都市
 # http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001015/index.m3u8?
-#EXTINF:-1 group-title="上海-shcm-ipv6",上海教育
+#EXTINF:-1 tvg-logo="https://m.mlzhongguo.com/uploads/image/09/15686895613950.jpg" group-title="上海-shcm-ipv6",上海教育
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001268/index.m3u8?
-#EXTINF:-1 group-title="上海-shcm-ipv6",上海教育
+#EXTINF:-1 tvg-logo="https://m.mlzhongguo.com/uploads/image/09/15686895613950.jpg" group-title="上海-shcm-ipv6",上海教育
 # http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001268/index.m3u8?
 #EXTINF:-1 tvg-id="1985" tvg-name="第一财经" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/diyicaijing.png" group-title="上海-shcm-ipv6",第一财经
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001017/index.m3u8?
 #EXTINF:-1 tvg-id="1985" tvg-name="第一财经" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/diyicaijing.png" group-title="上海-shcm-ipv6",第一财经
 # http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001017/index.m3u8?
-#EXTINF:-1 group-title="上海-shcm-ipv6",东方财经
+#EXTINF:-1 tvg-logo="https://pic.nximg.cn/file/20200401/26753533_234811274943_2.jpg" group-title="上海-shcm-ipv6",东方财经
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001318/index.m3u8?
-#EXTINF:-1 group-title="上海-shcm-ipv6",东方财经
+#EXTINF:-1 tvg-logo="https://pic.nximg.cn/file/20200401/26753533_234811274943_2.jpg" group-title="上海-shcm-ipv6",东方财经
 # http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001318/index.m3u8?
 #EXTINF:-1 tvg-id="1988" tvg-name="上海纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="上海-shcm-ipv6",纪实人文
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001019/index.m3u8?
@@ -173,9 +173,9 @@ http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001241/index.m3u8?
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001020/index.m3u8?
 #EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="卫视-shcm-ipv6",CETV1
 # http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001020/index.m3u8?
-#EXTINF:-1 group-title="卫视-shcm-ipv6",CETV4
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/cetv4.jpg" group-title="卫视-shcm-ipv6",CETV4
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001348/index.m3u8?
-#EXTINF:-1 group-title="卫视-shcm-ipv6",CETV4
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/cetv4.jpg" group-title="卫视-shcm-ipv6",CETV4
 # http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001348/index.m3u8?
 #EXTINF:-1 tvg-id="38" tvg-name="山东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="卫视-shcm-ipv6",山东卫视
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001028/index.m3u8?
@@ -644,9 +644,9 @@ http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
 #EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="http://www.aikantv.org/images/tai/chcdzdy.jpg" group-title="影视",CHC动作电影2K
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视",4K 超高清电影
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iptv-pro.github.io/logo/4K%E8%B6%85%E9%AB%98%E6%B8%85%E7%94%B5%E5%BD%B1.png" group-title="影视",4K 超高清电影
 http://159.75.85.63:5681/sxg.php
-#EXTINF:-1 group-title="影视",黑莓电影 4M1080
+#EXTINF:-1 tvg-logo="https://iptv-pro.github.io/logo/%E9%BB%91%E8%8E%93%E7%94%B5%E5%BD%B1.png" group-title="影视",黑莓电影 4M1080
 http://[2409:8087:2001:20:2800:0:df6e:eb09]:80/wh7f454c46tw1557681271_-1627945614/ott.mobaibox.com/PLTV/3/224/3221227520/index.m3u8?icpid=3&RTS=1674385968&from=40&popid=40&hms_devid=2037&prioritypopid=40&vqe=3
 #EXTINF:-1 group-title="影视",4K电影
 http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?blog.ntnas.top
