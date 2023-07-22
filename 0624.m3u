@@ -632,6 +632,11 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/usatoday-usatodaynews-samsungus/playli
 https://voa-ingest.akamaized.net/hls/live/2033874/tvmc06/playlist.m3u8
 #EXTINF:-1 tvg-id="Africanews.cg" tvg-name="AfricaNews English" tvg-logo="https://i.imgur.com/5UxU4zc.png" group-title="外国",AfricaNews English
 https://rakuten-africanews-1-dk.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="INBB280000836" tvg-chno="1164" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBB280000836_20220525T002355SQUARE.png_20220525002356.png" group-title="外国" , Discovery HD
+https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg01448-samsungin-discoveryhdin-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:-1 tvg-id="INBC1500002TR" tvg-chno="1166" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC1500002TR_20220427T054732SQUARE.png_20220427054733.png" group-title="外国" , Animal Planet HD
+https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg01448-samsungin-animalplanthdin-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+
 
 
 
