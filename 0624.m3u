@@ -653,6 +653,8 @@ https://ythls.onrender.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg.m3u8
 https://i.mjh.nz/PlutoTV/5ca1da6c593a5d78f0e7edce-alt.m3u8
 #EXTINF:-1 tvg-id="ReutersTV.us" tvg-name="Reuters" tvg-logo="https://i.imgur.com/6eQ2nCJ.png" group-title="外国",Reuters
 https://reuters-reutersnow-1-pt.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 CUID="801" tvg-logo="https://raw.githubusercontent.com/colino17/xteve-docker/master/logos/ctvnews.png" tvg-id="I75971.json.schedulesdirect.org" tvh-chnum="801" group-title="外国",CTVNEWS
+https://pe-fa-lp02a.9c9media.com/live/News1Digi/p/hls/00000201/38ef78f479b07aa0/index/0c6a10a2/live/stream/h264/v1/3500000/manifest.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/mhhVQE6.png" group-title="外国",Global News (720p)
 https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8
 #EXTINF:-1 tvg-id="USBC4400003OU" tvg-chno="1014" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC4400003OU_20230627T214948SQUARE.png_20230627214949.png" group-title="外国" , CBC News International
