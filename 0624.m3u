@@ -327,6 +327,14 @@ http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PLTV/3/224/32212281
 http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="未分类",CCTV5-高清(2)
 http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?
+#EXTINF:-1 tvg-id="CCTV8K测试"  tvg-name="CCTV8K测试" tvg-logo="https://epg.112114.xyz/logo/CCTV8K.png" group-title="未分类",CCTV8K测试
+http://[2409:8087:2001:20:2800:0:df6e:eb03]/wh7f454c46tw1981574683_-2118700426/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8?icpid=3&RTS=1659435610&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3
+#EXTINF:-1, tvg-id="劲爆体育" tvg-name="劲爆体育" tvg-logo="https://epg.112114.xyz/logo/%E5%8A%B2%E7%88%86%E4%BD%93%E8%82%B2.png" group-title="未分类",劲爆体育频道
+http://zteres.sn.chinamobile.com:6060/000000001000/5000000002000029972/index.m3u8?channel-id=bestzb&Contentid=5000000002000029972&livemode=1&stbId=3
+#EXTINF:-1, tvg-id="BesTV 4K 电影" tvg-name="BesTV 体育" tvg-logo=''" group-title="未分类",BesTV 体育
+http://[2409:8087:1e03:21::10]:6610/cms001/ch00000090990000001359/index.m3u8?
+#EXTINF:-1, tvg-id="魅力足球" tvg-name="魅力足球" tvg-logo="https://epg.112114.xyz/logo/%E9%AD%85%E5%8A%9B%E8%B6%B3%E7%90%83.png" group-title="未分类",足球频道
+http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225895/index.m3u8
 
 
 #hktw
@@ -645,8 +653,6 @@ https://cbsn-la.cbsnstream.cbsnews.com/out/v1/57b6c4534a164accb6b1872b501e0028/m
 https://bloomberg-bloombergtv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="730" tvg-name="DW" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DW.png" group-title="外国",Deutsche Welle
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
-#EXTINF:-1 tvg-id="734" tvg-name="france24" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/france24.png" group-title="外国",FRANCE 24 English
-https://ythls.onrender.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg.m3u8
 #EXTINF:-1 group-title="外国" tvg-logo="https://i.imgur.com/1NHCrPM.png" tvg-id="", FRANCE 24 Fast
 https://i.mjh.nz/SamsungTVPlus/GBBD1100002L5.m3u8
 #EXTINF:-1 tvg-id="GBBB1600008R3" tvg-name="GB News" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBB1600008R3_20220412T153106SQUARE.png_20220412153107.png" group-title="外国",GB News
