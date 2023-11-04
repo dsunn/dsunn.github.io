@@ -335,6 +335,8 @@ http://zteres.sn.chinamobile.com:6060/000000001000/5000000002000029972/index.m3u
 http://[2409:8087:1e03:21::10]:6610/cms001/ch00000090990000001359/index.m3u8?
 #EXTINF:-1, tvg-id="魅力足球" tvg-name="魅力足球" tvg-logo="https://epg.112114.xyz/logo/%E9%AD%85%E5%8A%9B%E8%B6%B3%E7%90%83.png" group-title="未分类",足球频道
 http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225895/index.m3u8
+#EXTINF:-1 group-title="未分类",8K
+http://[2409:8087:2001:20:2800:0:df6e:eb04]/wh7f454c46tW1782571424_-1576923679/ott.mobaibox.com/PLTV/3/224/3221228132/index.m3u8
 
 
 #hktw
@@ -618,6 +620,7 @@ https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 http://198.16.100.90:8278/bbcnews_twn/playlist.m3u8?tid=ME2E9411781394117813&ct=19225&tsum=ffaa2caa60183eec89d730ed80b336d1
 #EXTINF:-1 tvg-id="6023" tvg-name="CNN" tvg-logo="https://i.imgur.com/1fhqoEE.png" group-title="外国",CNN
 https://dhzhj55w8hou6.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bmoob4iijm59i/index.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+# https://d30x5vsa85tvmd.cloudfront.net/index_5.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CNN GO" tvg-logo="https://image.roku.com/developer_channels/prod/5d8308aa7b7b6b52f20bb361826fe62092bac1e4181d0df0f26c08a8f71b9c5e.png" group-title="外国",CNN GO
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-id="GBBD1900008O3" tvg-name="CNN FAST" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD1900008O3_20230614T010144SQUARE.png_20230614010144.png" group-title="外国",CNN FAST
@@ -709,6 +712,8 @@ http://159.75.85.63:5681/sxg.php
 http://[2409:8087:2001:20:2800:0:df6e:eb09]:80/wh7f454c46tw1557681271_-1627945614/ott.mobaibox.com/PLTV/3/224/3221227520/index.m3u8?icpid=3&RTS=1674385968&from=40&popid=40&hms_devid=2037&prioritypopid=40&vqe=3
 #EXTINF:-1 group-title="影视",4K电影
 http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?blog.ntnas.top
+#EXTINF:-1 group-title="影视",4K 修复
+http://[2409:8087:2001:20:2800:0:df6e:eb15]/wh7f454c46tw1958249448_-1314265822/ott.mobaibox.com/PLTV/3/224/3221228141/index.m3u8
 
 #NEWTV ipv6
 #EXTINF:-1 tvg-id="NEWTV超级体育" tvg-name="NEWTV超级体育" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级体育.png" group-title="NewTV系列",超级体育
