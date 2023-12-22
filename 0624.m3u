@@ -380,269 +380,30 @@ http://[2409:8087:2001:20:2800:0:df6e:eb24]/wh7f454c46tw3553140416_-2021535160/o
 http://[2409:8087:2001:20:2800:0:df6e:eb1d]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
 
 #台湾
-#EXTINF:-1,tvg-id="国家地理" tvg-name="国家地理" tvg-logo="https://upload.112114.xyz/logo/NATIONALGEOGRAPHIC.png" group-title="台湾",國家地理
-http://50.7.238.114:8278/natgeohd_twn/playlist.m3u8?tid=ma1f0b9808d5014467661&ct=17874&tsum=73dfb91284f5b1358251546e6f03da3d
-#EXTINF:-1,tvg-id="DISCOVERY" tvg-name="DISCOVERY" tvg-logo="https://upload.112114.xyz/logo/Discovery.png" group-title="台湾",探索頻道
-http://50.7.238.114:8278/discoveryhd_twn/playlist.m3u8?tid=MB0B5177298351772983&ct=19234&tsum=ca4373fe502ea49d281ea1ecdd3531f5
-#EXTINF:-1,tvg-id="DMAX" tvg-name="DMAX" tvg-logo="https://epg.112114.xyz/logo/DMAX.png" group-title="台湾",探索動力
-http://50.7.238.114:8278/discoveryturbo_twn/playlist.m3u8?tid=MD5D5964869459648694&ct=19225&tsum=a21251b62069dff5c52601a3e4bc4a6d
-#EXTINF:-1,tvg-id="动物星球" tvg-name="动物星球" tvg-logo="https://epg.112114.xyz/logo/ANIMALPLANET.png" group-title="台湾",動物星球
-http://50.7.238.114:8278/animalplanet_twn/playlist.m3u8?tid=MABA3681856636818566&ct=18393&tsum=2066d4c793195f8449577d35af941288
-#EXTINF:-1,tvg-id="HBO" tvg-name="HBO" tvg-logo="https://epg.112114.xyz/logo/HBO.png" group-title="台湾",HBO
-http://198.16.100.90:8278/hbohd_twn/playlist.m3u8?tid=ME7E8473082984730829&ct=18392&tsum=acad12b7c208bda39b68dec98349e138
-#EXTINF:-1,tvg-id="HBOHITS" tvg-name="HBOHITS" tvg-logo="https://epg.112114.xyz/logo/HBOHITS.png" group-title="台湾",HBO 強檔巨獻
-http://50.7.238.114:8278/hbohead_twn/playlist.m3u8?tid=MCDC6663932966639329&ct=19193&tsum=6999a99699b097f3af2ef550e5c81f93
-#EXTINF:-1,tvg-id="CINEMAX" tvg-name="CINEMAX" tvg-logo="https://epg.112114.xyz/logo/CINEMAX.png" group-title="台湾",Cinemax
-http://198.16.100.90:8278/cinemax_twn/playlist.m3u8?tid=MFEF8256939882569398&ct=19225&tsum=b6faed73a920c75f873a0c8f511eeba2
-#EXTINF:-1,tvg-id="AXN" tvg-name="AXN" tvg-logo="https://epg.112114.xyz/logo/AXN.png" group-title="台湾",AXN 台灣
-http://50.7.238.114:8278/axn_twn/playlist.m3u8?tid=m1776995e9b3e16458394&ct=17874&tsum=b8a111d0b13c7761ce8b4e8f047adddb
-#EXTINF:-1 tvg-id="6069" tvg-name="東森新聞" tvg-logo="http://www.stream-link.org/tv_logo/ebc-news.png" group-title="台湾",東森新聞
-http://sc2022.stream-link.org/tv2306.php?id=t01
-#EXTINF:-1 tvg-id="6075" tvg-name="東森財經新聞" tvg-logo="http://www.stream-link.org/tv_logo/ebc-finance.png" group-title="台湾",東森財經新聞
-http://sc2022.stream-link.org/tv2306.php?id=t02
-#EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="http://www.stream-link.org/tv_logo/cti-news.png" group-title="台湾",中天新聞
-http://sc2022.stream-link.org/tv2306.php?id=t03
-#EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="http://www.stream-link.org/tv_logo/cts-news.png" group-title="台湾",華視新聞
-http://sc2022.stream-link.org/tv2306.php?id=t04
-#EXTINF:-1 tvg-id="7176" tvg-name="中視新聞" tvg-logo="http://www.stream-link.org/tv_logo/ctv-news.png" group-title="台湾",中視新聞
-http://sc2022.stream-link.org/tv2306.php?id=t05
-#EXTINF:-1 tvg-id="6071" tvg-name="民視新聞" tvg-logo="http://www.stream-link.org/tv_logo/ftv-news.png" group-title="台湾",民視新聞
-http://sc2022.stream-link.org/tv2306.php?id=t06
-#EXTINF:-1 tvg-id="6171" tvg-name="寰宇國際新聞" tvg-logo="http://www.stream-link.org/tv_logo/global-news.png" group-title="台湾",寰宇國際新聞
-http://sc2022.stream-link.org/tv2306.php?id=t07
-#EXTINF:-1 tvg-id="6171" tvg-name="寰宇台灣新聞" tvg-logo="http://www.stream-link.org/tv_logo/global-news.png" group-title="台湾",寰宇台灣新聞
-http://sc2022.stream-link.org/tv2306.php?id=t08
-#EXTINF:-1 tvg-id="6108" tvg-name="三立財經新聞" tvg-logo="http://www.stream-link.org/tv_logo/set-finance.png" group-title="台湾",三立財經新聞
-http://sc2022.stream-link.org/tv2306.php?id=t09
-#EXTINF:-1 tvg-id="6072" tvg-name="三立新聞" tvg-logo="http://www.stream-link.org/tv_logo/set-news.png" group-title="台湾",三立新聞
-http://sc2022.stream-link.org/tv2306.php?id=t10
-#EXTINF:-1 tvg-id="6072" tvg-name="三立新聞+" tvg-logo="http://www.stream-link.org/tv_logo/set-news+.png" group-title="台湾",三立新聞+
-http://sc2022.stream-link.org/tv2306.php?id=t11
-#EXTINF:-1 tvg-id="6143" tvg-name="台視新聞" tvg-logo="http://www.stream-link.org/tv_logo/ttv-news.png" group-title="台湾",台視新聞
-http://sc2022.stream-link.org/tv2306.php?id=t12
-#EXTINF:-1 tvg-id="6073" tvg-name="TVBS新聞" tvg-logo="http://www.stream-link.org/tv_logo/tvbs-news.png" group-title="台湾",TVBS新聞
-http://sc2022.stream-link.org/tv2306.php?id=t13
-#EXTINF:-1 tvg-id="6074" tvg-name="TVBS財經" tvg-logo="http://www.stream-link.org/tv_logo/tvbs.png" group-title="台湾",TVBS財經
-http://sc2022.stream-link.org/tv2306.php?id=t14
-#EXTINF:-1 tvg-id="9999" tvg-name="中天亞洲台" tvg-logo="http://www.stream-link.org/tv_logo/cti-asia.png" group-title="台湾",中天亞洲台
-http://sc2022.stream-link.org/tv2306.php?id=t15
-#EXTINF:-1 tvg-id="9999" tvg-name="TVBS亞洲台" tvg-logo="http://www.stream-link.org/tv_logo/tvbs-asia.png" group-title="台湾",TVBS亞洲台
-http://sc2022.stream-link.org/tv2306.php?id=t16
-#EXTINF:-1 group-title="台湾",民視
-rtmp://119.81.124.89/sat/tv051
-#EXTINF:-1 group-title="台湾",台視
-rtmp://119.81.124.89/sat/tv071
-#EXTINF:-1 group-title="台湾",中視
-rtmp://119.81.124.89/sat/tv091
-#EXTINF:-1 group-title="台湾",華視
-rtmp://119.81.124.89/sat/tv111
-#EXTINF:-1 group-title="台湾",TVBS新聞
-rtmp://119.81.124.89/sat/tv551
-#EXTINF:-1 group-title="台湾",TVBS歡樂
-rtmp://119.81.124.89/sat/tv421
-#EXTINF:-1 group-title="台湾",東森財經新聞
-rtmp://119.81.124.89/sat/tv571
-#EXTINF:-1 group-title="台湾",緯來育樂
-rtmp://119.81.124.89/sat/tv701
-#EXTINF:-1 group-title="台湾",緯來體育
-rtmp://119.81.124.89/sat/tv721
-#EXTINF:-1 group-title="台湾",ELEVEN1
-rtmp://119.81.124.89/sat/tv731
-#EXTINF:-1 group-title="台湾",ELEVEN2
-rtmp://119.81.124.89/sat/tv741
-#EXTINF:-1 group-title="台湾",MOMO綜合
-rtmp://119.81.124.89/sat/tv761
-#EXTINF:-1 group-title="台湾",緯來日本
-rtmp://119.81.124.89/sat/tv771
-#EXTINF:-1 group-title="台湾",ELTA體育1
-rtmp://119.81.124.89/sat/md031
-#EXTINF:-1 group-title="台湾",ELEVEN2
-rtmp://119.81.124.89/sat/md041
-#EXTINF:-1 group-title="台湾",博斯魅力
-rtmp://119.81.124.89/sat/md051
-#EXTINF:-1 group-title="台湾",民視
-rtmp://219.80.97.77/sat/tv051
-#EXTINF:-1 group-title="台湾",台視
-rtmp://219.80.97.77/sat/tv071
-#EXTINF:-1 group-title="台湾",中視
-rtmp://219.80.97.77/sat/tv091
-#EXTINF:-1 group-title="台湾",華視
-rtmp://219.80.97.77/sat/tv111
-#EXTINF:-1 group-title="台湾",TVBS新聞
-rtmp://219.80.97.77/sat/tv551
-#EXTINF:-1 group-title="台湾",TVBS歡樂
-rtmp://219.80.97.77/sat/tv421
-#EXTINF:-1 group-title="台湾",東森財經新聞
-rtmp://219.80.97.77/sat/tv571
-#EXTINF:-1 group-title="台湾",緯來育樂
-rtmp://219.80.97.77/sat/tv701
-#EXTINF:-1 group-title="台湾",緯來體育
-rtmp://219.80.97.77/sat/tv721
-#EXTINF:-1 group-title="台湾",ELEVEN1
-rtmp://219.80.97.77/sat/tv731
-#EXTINF:-1 group-title="台湾",ELEVEN2
-rtmp://219.80.97.77/sat/tv741
-#EXTINF:-1 group-title="台湾",MOMO綜合
-rtmp://219.80.97.77/sat/tv761
-#EXTINF:-1 group-title="台湾",緯來日本
-rtmp://219.80.97.77/sat/tv771
-#EXTINF:-1 group-title="台湾",ELTA體育1
-rtmp://219.80.97.77/sat/md031
-#EXTINF:-1 group-title="台湾",ELEVEN2
-rtmp://219.80.97.77/sat/md041
-#EXTINF:-1 group-title="台湾",博斯魅力
-rtmp://219.80.97.77/sat/md051
-#EXTINF:-1 group-title="台湾",民視
-http://seb.sason.top/ptv/ftv.php?id=ms
-#EXTINF:-1 group-title="台湾",民視台灣
-http://seb.sason.top/ptv/ftv.php?id=tw
-#EXTINF:-1 group-title="台湾",民視旅游
-http://seb.sason.top/ptv/ftv.php?id=ly
-#EXTINF:-1 group-title="台湾",民視第一
-http://seb.sason.top/ptv/ftv.php?id=dy
-#EXTINF:-1 group-title="台湾",民視新聞
-http://seb.sason.top/sc/msxw_fhd.m3u8
-#EXTINF:-1 group-title="台湾",民視綜藝
-http://seb.sason.top/ptv/ftv.php?id=zy
-#EXTINF:-1 group-title="台湾",民視影劇
-http://seb.sason.top/ptv/ftv.php?id=yj
-#EXTINF:-1 group-title="台湾",三立台灣
-https://sanlihalive1-a.akamaihd.net/5ffd3a166f7241d9b489b7d7241db96f/ap-northeast-1/4338955585001/profile_0/chunklist.m3u8?hdnea=st=1664678506~exp=9007200919419497~acl=/5ffd3a166f7241d9b489b7d7241db96f/*/profile_0/chunklist.m3u8*~hmac=cfd432e7da8eece68fe4a4da3a3bc08ab1bbc50b147a84c95ae3d4a569e932b1
-#EXTINF:-1 group-title="台湾",三立都會
-https://sanlihalive1-a.akamaihd.net/4c3bb0ccad574d0e9b507c2dcd2dfabc/ap-northeast-1/4338955585001/profile_0/chunklist.m3u8?hdnea=st=1664678487~exp=9007200919419478~acl=/4c3bb0ccad574d0e9b507c2dcd2dfabc/*/profile_0/chunklist.m3u8*~hmac=1a3986bd8fb660eacbcc9954c67fb674fa810779ddc2fab5fa77188868ca3686
-#EXTINF:-1 group-title="台湾",TaiwanPlus
-https://ythls.onrender.com/channel/UC7c6rvyAZLpKGk8ttVnpnLA.m3u8
-#EXTINF:-1 group-title="台湾",ELEVEN1
-http://61.221.81.93:8078/hls/25/80/esport.m3u8
-#EXTINF:-1 group-title="台湾",ELEVEN2
-http://61.221.81.93:8078/hls/26/80/esport2.m3u8
-#EXTINF:-1 group-title="台湾",東森新聞
-http://61.221.81.93:8078/hls/33/80/ebcnews.m3u8
-#EXTINF:-1 group-title="台湾",東森戲劇
-http://61.221.81.93:8078/hls/34/80/ebcdrama.m3u8
-#EXTINF:-1 group-title="台湾",華視新聞資訊
-http://stream.dsichannel.com/hls/cts-news.m3u8
-#EXTINF:-1 group-title="台湾",STAR Movie Gold
-http://61.221.81.93:8524/hls/65/807/ch843.m3u8
-#EXTINF:-1 group-title="台湾",Star World
-http://61.221.81.93:8521/hls/65/807/ch843.m3u8
-#EXTINF:-1 group-title="台湾",衛視電影
-http://61.221.81.93:8523/hls/65/807/ch843.m3u8
-#EXTINF:-1 group-title="台湾",東森幼幼
-http://61.221.81.93:8525/hls/65/807/ch843.m3u8
-#EXTINF:-1 group-title="台湾",八大綜合
-http://61.221.81.93:8530/hls/65/807/ch843.m3u8
-#EXTINF:-1 group-title="台湾",八大第一
-http://61.221.81.93:8531/hls/65/807/ch843.m3u8
-#EXTINF:-1 group-title="台湾",年代新聞
-http://61.221.81.93:8532/hls/65/807/ch843.m3u8
-#EXTINF:-1 group-title="台湾",寰宇新聞
-http://61.221.81.93:8513/hls/65/807/ch843.m3u8
-#EXTINF:-1 group-title="台湾",東森新聞
-http://61.221.81.93:8527/hls/65/807/ch843.m3u8
-#EXTINF:-1 group-title="台湾",ELEVEN1
-http://61.221.81.93:8534/hls/65/807/ch843.m3u8
-#EXTINF:-1 group-title="台湾",ELEVEN2
-http://61.221.81.93:8539/hls/65/807/ch843.m3u8
-#EXTINF:-1 group-title="台湾",StarWorld
-http://61.221.81.93:8078/hls/11/80/fox.m3u8
-#EXTINF:-1 group-title="台湾",cinemax
-http://61.221.81.93:8078/hls/22/80/cinemax.m3u8
-#EXTINF:-1 group-title="台湾",中視
-http://61.221.81.93:8078/hls/39/80/gtvdrama.m3u8
-#EXTINF:-1 group-title="台湾",東森新聞
-http://61.221.81.93:8078/hls/33/80/ebcnews.m3u8
-#EXTINF:-1 group-title="台湾",東森綜合
-http://61.221.81.93:8078/hls/34/80/ebc.m3u8
-#EXTINF:-1 group-title="台湾",東森戲劇
-http://61.221.81.93:8078/hls/34/80/ebcdrama.m3u8
-#EXTINF:-1 group-title="台湾",中天綜合
-http://61.221.81.93:8078/hls/35/80/cti.m3u8
-#EXTINF:-1 group-title="台湾",八大戲劇
-http://61.221.81.93:8078/hls/38/80/gtvdrama.m3u8
-#EXTINF:-1 group-title="台湾",年代MUCH
-http://61.221.81.93:8078/hls/27/80/much.m3u8
-#EXTINF:-1 group-title="台湾",華視
-http://218.32.47.179:18503/.m3u8
-#EXTINF:-1 group-title="台湾",國家地理頻道
-http://218.32.47.179:18509/.m3u8
-#EXTINF:-1 group-title="台湾",東森財經新聞
-http://60.251.33.252:8536/.m3u8
-#EXTINF:-1 group-title="台湾",中天新聞
-http://60.251.33.252:8535/.m3u8
-#EXTINF:-1 group-title="台湾",好消息
-http://123.51.230.108:18507/.m3u8
-#EXTINF:-1 group-title="台湾",緯來體育
-http://123.51.230.108:18509/.m3u8
-#EXTINF:-1 group-title="台湾",龍華戲劇
-http://123.51.230.108:18513/.m3u8
-#EXTINF:-1 group-title="台湾",東森財經
-http://123.51.230.108:18515/.m3u8
-#EXTINF:-1 group-title="台湾",NHK
-http://123.51.230.108:18525/.m3u8
-#EXTINF:-1 group-title="台湾",東森戲劇
-http://123.51.230.108:18538/.m3u8
-#EXTINF:-1 group-title="台湾",八大第一
-http://123.51.230.108:18539/.m3u8
-#EXTINF:-1 group-title="台湾",緯來綜合
-http://123.51.230.108:18540/.m3u8
-#EXTINF:-1 group-title="台湾",緯來育樂
-http://123.51.230.108:18541/.m3u8
-#EXTINF:-1 group-title="台湾",台視
-http://123.51.230.108:18543/.m3u8
-#EXTINF:-1 group-title="台湾",龍華日韓
-http://123.51.230.108:18551/.m3u8
-#EXTINF:-1 group-title="台湾",東風37
-http://123.51.230.108:18560/.m3u8
-#EXTINF:-1 group-title="台湾",人間衛視
-http://123.51.230.108:18561/.m3u8
-#EXTINF:-1 group-title="台湾",大愛
-http://123.51.230.108:18567/.m3u8
-#EXTINF:-1 group-title="台湾",民視新聞
-http://123.51.230.108:18663/.m3u8
-#EXTINF:-1 group-title="台湾",東森財經新聞
-http://123.51.230.124:8536/.m3u8
-#EXTINF:-1 group-title="台湾",中天新聞
-http://123.51.230.124:8535/.m3u8
-#EXTINF:-1 group-title="台湾",好消息
-http://123.51.230.108:18507/.m3u8
-#EXTINF:-1 group-title="台湾",緯來體育
-http://123.51.230.108:18509/.m3u8
-#EXTINF:-1 group-title="台湾",龍華戲劇
-http://123.51.230.108:18513/.m3u8
-#EXTINF:-1 group-title="台湾",東森財經
-http://123.51.230.108:18515/.m3u8
-#EXTINF:-1 group-title="台湾",NHK
-http://123.51.230.108:18525/.m3u8
-#EXTINF:-1 group-title="台湾",東森戲劇
-http://123.51.230.108:18538/.m3u8
-#EXTINF:-1 group-title="台湾",八大第一
-http://123.51.230.108:18539/.m3u8
-#EXTINF:-1 group-title="台湾",緯來綜合
-http://123.51.230.108:18540/.m3u8
-#EXTINF:-1 group-title="台湾",緯來育樂
-http://123.51.230.108:18541/.m3u8
-#EXTINF:-1 group-title="台湾",台視
-http://123.51.230.108:18543/.m3u8
-#EXTINF:-1 group-title="台湾",龍華日韓
-http://123.51.230.108:18551/.m3u8
-#EXTINF:-1 group-title="台湾",東風37
-http://123.51.230.108:18560/.m3u8
-#EXTINF:-1 group-title="台湾",人間衛視
-http://123.51.230.108:18561/.m3u8
-#EXTINF:-1 group-title="台湾",大愛
-http://123.51.230.108:18567/.m3u8
-#EXTINF:-1 group-title="台湾",民視新聞
-http://123.51.230.108:18663/.m3u8
-#EXTINF:-1 group-title="台湾",三立台灣
-http://198.16.100.90:8278/sanlitaiwan/playlist.m3u8?tid=MBFB2351438523514385&ct=19193&tsum=15393958be0bf6c0905bbb578dad1240
-#EXTINF:-1 group-title="台湾",三立新聞
-http://123.51.230.64:18543/http/192.168.1.9:8081/hls/65/807/ch18.m3u8
-#EXTINF:-1 group-title="台湾",原住民電視
-http://streamipcf.akamaized.net/live/_definst_/live_720/chunklist_b1500
-#EXTINF:-1 group-title="台湾",LOVENATURE
-https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-
+#EXTINF:-1 tvg-id="TVBSAsia.tw" tvg-logo="https://i.imgur.com/4S1rkhm.png" group-title="台湾",TVBS-Asia
+http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
+#EXTINF:-1 tvg-id="TaiwanPlusTV.tw" tvg-logo="https://i.imgur.com/SfcZyqm.png" group-title="台湾",Taiwan Plus TV
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV78.m3u8
+#EXTINF:-1 tvg-id="CTiNews.tw" tvg-logo="https://i.imgur.com/fEUmRST.png" group-title="台湾",CTi News
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
+#EXTINF:-1 tvg-id="FTVNews.tw" tvg-logo="https://i.imgur.com/j9Gebr5.png" group-title="台湾",FTV News
+https://ythls.armelin.one/channel/UC2VmWn8dAqkzlQqvy02E1PA.m3u8
+#EXTINF:-1 tvg-id="GlobalNews.tw" tvg-logo="https://i.imgur.com/Q1Mrvjj.png" group-title="台湾",Global News
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
+#EXTINF:-1 tvg-id="SETiNews.tw" tvg-logo="https://i.imgur.com/NaOUWKf.png" group-title="台湾",SET iNews
+https://ythls.armelin.one/channel/UCoNYj9OFHZn3ACmmeRCPwbA.m3u8
+#EXTINF:-1 tvg-id="TTVNews.tw" tvg-logo="https://i.imgur.com/AfkK0gv.png" group-title="台湾",TTV News
+https://ythls.armelin.one/channel/UC8ROUUjHzEQm-ndb69CX8Ww.m3u8
+#EXTINF:-1 tvg-id="mnews.tw" tvg-logo="https://i.ytimg.com/vi/5n0y6b0Q25o/hqdefault_live.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCXIMr1Cb8PO2vs9ZtapIAlSro4cw" group-title="台湾",mnews
+https://ythls.armelin.one/channel/UC4LjkybVKXCDlneVXlKAbmw.m3u8
+#EXTINF:-1 group-title="台湾" tvg-logo="https://i.imgur.com/k4fhcPl.png" tvg-id="东森财经新闻",东森财经新闻
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
+#EXTINF:-1 group-title="台湾" tvg-logo="https://i.imgur.com/k4fhcPl.png" tvg-id="中视新闻",中视新闻
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
+#EXTINF:-1 group-title="台湾" tvg-logo="https://i.imgur.com/k4fhcPl.png" tvg-id="华视HD",华视HD
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV12.m3u8
+#EXTINF:-1 group-title="台湾" tvg-logo="https://i.imgur.com/k4fhcPl.png" tvg-id="民视新闻HD",民视新闻HD
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
 
 
 #外国
