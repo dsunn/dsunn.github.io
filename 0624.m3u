@@ -364,7 +364,7 @@ http://[2409:8087:2001:20:2800:0:df6e:eb03]/wh7f454c46tw1981574683_-2118700426/o
 #EXTINF:-1, tvg-id="劲爆体育" tvg-name="劲爆体育" tvg-logo="https://epg.112114.xyz/logo/%E5%8A%B2%E7%88%86%E4%BD%93%E8%82%B2.png" group-title="未分类",劲爆体育频道
 http://zteres.sn.chinamobile.com:6060/000000001000/5000000002000029972/index.m3u8?channel-id=bestzb&Contentid=5000000002000029972&livemode=1&stbId=3
 #EXTINF:-1, tvg-id="BesTV 4K 电影" tvg-name="BesTV 体育" tvg-logo=''" group-title="未分类",BesTV 体育
-http://[2409:8087:1e03:21::10]:6610/cms001/ch00000090990000001359/index.m3u8?
+# http://[2409:8087:1e03:21::10]:6610/cms001/ch00000090990000001359/index.m3u8?
 #EXTINF:-1, tvg-id="魅力足球" tvg-name="魅力足球" tvg-logo="https://epg.112114.xyz/logo/%E9%AD%85%E5%8A%9B%E8%B6%B3%E7%90%83.png" group-title="未分类",足球频道
 http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225895/index.m3u8
 #EXTINF:-1 group-title="未分类",8K
