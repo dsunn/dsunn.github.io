@@ -92,6 +92,8 @@ http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001234/index.m3u8?
 # http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001234/index.m3u8?
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dsunn/dsunn.github.io/master/logo/lypd.png" group-title="上海",乐游
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001200/index.m3u8?
+#EXTINF:-1 tvg-id="Bestv导视" tvg-name="Bestv导视"  tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/fenxp/iptv/main/tv/bestv.png" group-title="上海",Bestv导视
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001162/index.m3u8
 #EXTINF:-1 tvg-id="Bestv赛事1" tvg-name="Bestv赛事1" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/fenxp/iptv/main/tv/bestv.png" group-title="上海",Bestv赛事1
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001151/index.m3u8
 #EXTINF:-1 tvg-id="Bestv赛事2" tvg-name="Bestv赛事2" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/fenxp/iptv/main/tv/bestv.png" group-title="上海",Bestv赛事2
@@ -102,6 +104,10 @@ http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001388/index.m3u8
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001149/index.m3u8
 #EXTINF:-1 tvg-id="Bestv赛事5" tvg-name="Bestv赛事5" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/fenxp/iptv/main/tv/bestv.png" group-title="上海",Bestv赛事5
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001153/index.m3u8
+#EXTINF:-1 tvg-id="Bestv赛事6" tvg-name="Bestv赛事6" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/fenxp/iptv/main/tv/bestv.png" group-title="上海",Bestv赛事6
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001152/index.m3u8
+#EXTINF:-1 tvg-id="Bestv赛事7" tvg-name="Bestv赛事7" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/fenxp/iptv/main/tv/bestv.png" group-title="上海",Bestv赛事7
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001154/index.m3u8
 #EXTINF:-1 tvg-id="东方购物" tvg-name="东方购物" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/fenxp/iptv/main/tv/东方购物.png" group-title="上海",东方购物1
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001040/index.m3u8
 #EXTINF:-1 tvg-id="东方购物" tvg-name="东方购物" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/fenxp/iptv/main/tv/东方购物.png" group-title="上海",东方购物2
