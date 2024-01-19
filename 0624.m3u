@@ -425,7 +425,7 @@ https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 tvg-id="664" tvg-name="BBCWorldNews" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BBCWORLDNEWSASIA.png" group-title="外国",BBC News
 http://198.16.100.90:8278/bbcnews_twn/playlist.m3u8?tid=ME2E9411781394117813&ct=19225&tsum=ffaa2caa60183eec89d730ed80b336d1
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/6f66017709d5d2bd93d4dd0e028a7e80.png" group-title="外国",BBC Earth
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/bbcearth.m3u8
+# https://raw.githubusercontent.com/mimipipi22/lalajo/main/bbcearth.m3u8
 #EXTINF:-1 tvg-id="6023" tvg-name="CNN" tvg-logo="https://i.imgur.com/1fhqoEE.png" group-title="外国",CNN
 https://dhzhj55w8hou6.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bmoob4iijm59i/index.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 # https://d30x5vsa85tvmd.cloudfront.net/index_5.m3u8
@@ -478,13 +478,13 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1705572062/ei/f
 #EXTINF:-1 tvg-id="GBBB1600008R3" tvg-name="GB News" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBB1600008R3_20220412T153106SQUARE.png_20220412153107.png" group-title="外国",GB News
 https://i.mjh.nz/SamsungTVPlus/GBBB1600008R3.m3u8
 #EXTINF:-1 tvg-id="5ca1da6c593a5d78f0e7edce" tvg-name="Euronews" tvg-logo="https://images.pluto.tv/channels/5ca1da6c593a5d78f0e7edce/colorLogoPNG.png" group-title="外国",Euronews
-https://i.mjh.nz/PlutoTV/5ca1da6c593a5d78f0e7edce-alt.m3u8
+# https://i.mjh.nz/PlutoTV/5ca1da6c593a5d78f0e7edce-alt.m3u8
 #EXTINF:-1 tvg-id="GBAJ4900020VP" tvg-name="Euronews Live" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBAJ4900020VP_20230222T011312SQUARE.png_20230222011313.png" group-title="外国",Euronews Live
 https://i.mjh.nz/SamsungTVPlus/GBAJ4900020VP.m3u8
 #EXTINF:-1 tvg-id="GBBB16000040C" tvg-name="Euronews Stories" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBB16000040C_20230322T075358SQUARE.png_20230322075359.png" group-title="外国",Euronews Stories
-https://i.mjh.nz/SamsungTVPlus/GBBB16000040C.m3u8
+# https://i.mjh.nz/SamsungTVPlus/GBBB16000040C.m3u8
 #EXTINF:-1 tvg-id="ReutersTV.us" tvg-name="Reuters" tvg-logo="https://i.imgur.com/6eQ2nCJ.png" group-title="外国",Reuters
-https://reuters-reutersnow-1-pt.samsung.wurl.com/manifest/playlist.m3u8
+# https://reuters-reutersnow-1-pt.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/mhhVQE6.png" group-title="外国",Global News (720p)
 https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8
 #EXTINF:-1 tvg-id="USBC4400003OU" tvg-chno="1014" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC4400003OU_20230627T214948SQUARE.png_20230627214949.png" group-title="外国" , CBC News International
@@ -494,7 +494,7 @@ https://d2g8cwacjxduj5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-id="USBA300028QU" tvg-name="Newsmax TV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA300028QU_20221109T013516SQUARE.png_20221109013517.png" group-title="外国",Newsmax TV
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-newsmax/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 #EXTINF:-1 tvg-id="60fb321ee99fac0008c9ab8a" tvg-name="60 Minutes" tvg-logo="https://images.pluto.tv/channels/60fb321ee99fac0008c9ab8a/colorLogoPNG.png" group-title="外国",60 Minutes
-https://i.mjh.nz/PlutoTV/60fb321ee99fac0008c9ab8a-alt.m3u8
+# https://i.mjh.nz/PlutoTV/60fb321ee99fac0008c9ab8a-alt.m3u8
 #EXTINF:-1 tvg-id="GBAJ2400003DD" tvg-name="The Guardian" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBAJ2400003DD_20220323T071326SQUARE.png_20220323071329.png" group-title="外国",The Guardian
 https://0d0239e437124ddcb8090d815caf4013.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-gb_TheGuardianChannel/playlist.m3u8?ads.wurl_channel=1034&ads.wurl_name=TheGuardianChannel&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 #EXTINF:-1 tvg-id="USBB32000251N" tvg-name="TODAY All Day" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB32000251N_20230125T022129SQUARE.png_20230125022129.png" group-title="外国",TODAY All Day
@@ -506,7 +506,7 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/usatoday-usatodaynews-samsungus/playli
 #EXTINF:-1 tvg-id="VoATV.us" tvg-name="VOA TV Africa" tvg-logo="https://i.imgur.com/rtRnlqN.png" group-title="外国",VOA TV Africa
 https://voa-ingest.akamaized.net/hls/live/2033874/tvmc06/playlist.m3u8
 #EXTINF:-1 tvg-id="Africanews.cg" tvg-name="AfricaNews English" tvg-logo="https://i.imgur.com/5UxU4zc.png" group-title="外国",AfricaNews English
-https://rakuten-africanews-1-dk.samsung.wurl.com/manifest/playlist.m3u8
+# https://rakuten-africanews-1-dk.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="外国" tvg-logo="https://images.toffeelive.com/images/program/12083/logo/240x240/mobile_logo_141710001663004743.png", Discovery Asia HD B
 http://198.16.100.90:8278/discoverytwn_twn/playlist.m3u8?tid=MB1B4014431840144318&ct=19254&tsum=a72e8caa6986ef92c4d6cb743e22a78f
 #EXTINF:-1 tvg-id="INBB280000836" tvg-chno="1164" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBB280000836_20220525T002355SQUARE.png_20220525002356.png" group-title="外国" , Discovery HD
@@ -515,7 +515,7 @@ https://raw.githubusercontent.com/mimipipi22/lalajo/main/discoverychannel.m3u8
 #EXTINF:-1 tvg-id="INBC1500002TR" tvg-chno="1166" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC1500002TR_20220427T054732SQUARE.png_20220427054733.png" group-title="外国" , Animal Planet HD
 https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg01448-samsungin-animalplanthdin-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
 #EXTINF:-1 group-title="外国" tvg-logo="https://raw.githubusercontent.com/dsunn/dsunn.github.io/master/logo/eusport.png" tvg-id="", Eurosport
-https://raw.githubusercontent.com/ttoor5/discoveryplus/main/Eurosports_HD.m3u8
+# https://raw.githubusercontent.com/ttoor5/discoveryplus/main/Eurosports_HD.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Redbull" tvg-logo="https://www.pngkit.com/png/full/50-506678_clip-royalty-free-download-black-and-white-logos.png" group-title="外国",Redbull
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ll/love_nature_ca.png" group-title="外国", Love Nature 4K*
