@@ -700,13 +700,11 @@ http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3
 http://r.jdshipin.com/5DWJk
 #EXTINF:-1 tvg-logo="https://iptv-pro.github.io/logo/%E9%BB%91%E8%8E%93%E7%94%B5%E5%BD%B1.png" group-title="影视",黑莓电影 4M1080
 http://[2409:8087:2001:20:2800:0:df6e:eb09]:80/wh7f454c46tw1557681271_-1627945614/ott.mobaibox.com/PLTV/3/224/3221227520/index.m3u8?icpid=3&RTS=1674385968&from=40&popid=40&hms_devid=2037&prioritypopid=40&vqe=3
-#EXTINF:-1 group-title="影视",4K电影
-http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?blog.ntnas.top
 #EXTINF:-1 group-title="影视",4K 修复
 http://[2409:8087:2001:20:2800:0:df6e:eb15]/wh7f454c46tw1958249448_-1314265822/ott.mobaibox.com/PLTV/3/224/3221228141/index.m3u8
 #EXTINF:-1 group-title="影视",华数4K影视
 http://[2409:8087:7001:20:1000::96]:6610/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=3
-#EXTINF:-1 group-title="影视",BesTV-电影
+#EXTINF:-1 group-title="影视",BesTV-电影 4K
 http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
 
 #NEWTV ipv6
