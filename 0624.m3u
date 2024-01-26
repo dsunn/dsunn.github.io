@@ -710,7 +710,7 @@ http://[2409:8087:7001:20:1000::96]:6610/000000001000/6000000003000004748/index.
 http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
 
 #NEWTV ipv6
-#EXTINF:-1 group-title="NewTV系列,#genre#",爱情喜剧
+#EXTINF:-1 group-title="NewTV系列",爱情喜剧
 http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000003000000010/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000010&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="NEWTV超级体育" tvg-name="NEWTV超级体育" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级体育.png" group-title="NewTV系列",超级体育
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
