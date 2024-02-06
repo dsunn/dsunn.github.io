@@ -44,6 +44,8 @@ http://zteres.sn.chinamobile.com:6060/000000001000/9001547084732463424/1.m3u8?ch
 http://zteres.sn.chinamobile.com:6060/000000001000/5000000007000010003/1.m3u8?channel-id=bestzb&Contentid=5000000007000010003&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="C35" tvg-name="欢笑剧场" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/hxjc4k.png" group-title="上海",欢笑剧场 4K
 http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002156/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="leyou" tvg-name="乐游" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/leyou.png" group-title="上海",乐游
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002157/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
 #央视
 #EXTINF:-1 tvg-id="A01" tvg-name="CCTV1" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV1.png" group-title="央视",CCTV-1 综合
@@ -254,8 +256,8 @@ https://ythls.armelin.one/channel/UCoNYj9OFHZn3ACmmeRCPwbA.m3u8
 https://ythls.armelin.one/channel/UC8ROUUjHzEQm-ndb69CX8Ww.m3u8
 #EXTINF:-1 tvg-id="mnews.tw" tvg-logo="https://i.ytimg.com/vi/5n0y6b0Q25o/hqdefault_live.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCXIMr1Cb8PO2vs9ZtapIAlSro4cw" group-title="台湾",mnews
 https://ythls.armelin.one/channel/UC4LjkybVKXCDlneVXlKAbmw.m3u8
-#EXTINF:-1 group-title="台湾" tvg-logo="" tvg-id="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS1.png", TVBS News
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1706779151/ei/rw27ZZuCJLXOlu8PqY2QsAU/ip/172.183.88.177/id/2mCSYvcfhtc.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/us/spc/UWF9f6-xC-FftMZdvXaBDAoTPb3T4C5W4x2utir9MixaaXM/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgeEkdTEaDSQwxmbcClZ-4SUJxsIL1RjnVdWi-1kUb4gsCIF-ImpgyGHNwnPBvFbhBsfIBbNYcrq_3nBjhks4h2ZlT/file/index.m3u8
+#EXTINF:-1 group-title="台湾" tvg-logo=""https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS1.png" tvg-id=", TVBS News
+# https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1706779151/ei/rw27ZZuCJLXOlu8PqY2QsAU/ip/172.183.88.177/id/2mCSYvcfhtc.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/us/spc/UWF9f6-xC-FftMZdvXaBDAoTPb3T4C5W4x2utir9MixaaXM/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgeEkdTEaDSQwxmbcClZ-4SUJxsIL1RjnVdWi-1kUb4gsCIF-ImpgyGHNwnPBvFbhBsfIBbNYcrq_3nBjhks4h2ZlT/file/index.m3u8
 #EXTINF:-1 group-title="台湾" tvg-logo="http://www.stream-link.org/tv_logo/ebc-finance.png" tvg-id="东森财经新闻",东森财经新闻
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
 #EXTINF:-1 group-title="台湾" tvg-logo="http://www.stream-link.org/tv_logo/ctv-news.png" tvg-id="中视新闻",中视新闻
