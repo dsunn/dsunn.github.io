@@ -1,11 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvquanqiu.com/uploads/fazhitiandi.jpg" group-title="未分类",法治天地HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/fztd.png" group-title="未分类",法治天地HD
 http://192.168.10.195:4022/udp/239.45.1.46:5140
 #EXTINF:-1 tvg-id="1977" tvg-name="欢笑剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.png" group-title="上海",欢笑剧场HD
 http://192.168.10.195:4022/udp/239.45.3.196:5140
 #EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="卫视",东方卫视HD
 http://192.168.10.195:4022/udp/239.45.3.146:5140
-#EXTINF:-1 tvg-id="1989" tvg-name="上海都市频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidushi.jpg" group-title="上海", 上海都市HD
+#EXTINF:-1 tvg-id="1989" tvg-name="上海都市频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidushi.jpg" group-title="上海", 都市频道HD
 http://192.168.10.195:4022/udp/239.45.3.236:5140
 #EXTINF:-1 tvg-id="62" tvg-name="哈哈炫动" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xuandong.png" group-title="上海",哈哈炫动HD
 http://192.168.10.195:4022/udp/239.45.1.55:5140
@@ -13,13 +13,13 @@ http://192.168.10.195:4022/udp/239.45.1.55:5140
 http://192.168.10.195:4022/udp/239.45.3.237:5140
 #EXTINF:-1 tvg-id="1988" tvg-name="上海纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="上海",纪实人文HD
 http://192.168.10.195:4022/udp/239.45.3.212:5140
-#EXTINF:-1 tvg-id="1984" tvg-name="上视新闻频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shangshixinwen.png" group-title="上海", 上海新闻综合HD
+#EXTINF:-1 tvg-id="1984" tvg-name="上视新闻频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shangshixinwen.png" group-title="上海", 新闻综合HD
 http://192.168.10.195:4022/udp/239.45.3.209:5140
 #EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="上海",五星体育HD
 http://192.168.10.195:4022/udp/239.45.3.210:5140
 #EXTINF:-1 tvg-id="1985" tvg-name="第一财经" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/diyicaijing.png" group-title="上海",第一财经HD
 http://192.168.10.195:4022/udp/239.45.3.211:5140
-#EXTINF:-1 tvg-id="1991" tvg-name="上视外语频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaiwaiyu.png" group-title="上海", ICS上视外语HD
+#EXTINF:-1 tvg-id="1991" tvg-name="上视外语频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaiwaiyu.png" group-title="上海", 外语频道HD
 http://192.168.10.195:4022/udp/239.45.1.127:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.mlzhongguo.com/uploads/image/09/15686895613950.jpg" group-title="未分类",上海教育HD
 http://192.168.10.195:4022/udp/239.45.0.13:5140
@@ -145,31 +145,31 @@ http://192.168.10.195:4022/udp/239.45.3.134:5140
 http://192.168.10.195:4022/udp/239.45.3.135:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cn.heytv.org/wp-content/uploads/2018/12/1-1P5151UG1537-2.jpg" group-title="未分类",都市剧场HD
 http://192.168.10.195:4022/udp/239.45.3.136:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.bestv.com.cn/r/cms/www/default/images/logo.png" group-title="未分类",百事通超级体育HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/dsunn/dsunn.github.io/master/logo/bestv.png" group-title="未分类",百视通超级体育HD
 http://192.168.10.195:4022/udp/239.45.3.139:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.bestv.com.cn/r/cms/www/default/images/logo.png" group-title="未分类",百事通超级体育HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/dsunn/dsunn.github.io/master/logo/bestv.png" group-title="未分类",百视通超级体育HD
 http://192.168.10.195:4022/udp/239.45.3.140:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.bestv.com.cn/r/cms/www/default/images/logo.png" group-title="未分类",百事通超级体育HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/dsunn/dsunn.github.io/master/logo/bestv.png" group-title="未分类",百视通超级体育HD
 http://192.168.10.195:4022/udp/239.45.0.26:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.bestv.com.cn/r/cms/www/default/images/logo.png" group-title="未分类",百事通4K电影
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/dsunn/dsunn.github.io/master/logo/bestv.png" group-title="未分类",百视通4K电影
 http://192.168.10.195:4022/udp/239.45.1.42:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.bestv.com.cn/r/cms/www/default/images/logo.png" group-title="未分类",百事通4K电影(备)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/dsunn/dsunn.github.io/master/logo/bestv.png" group-title="未分类",百视通4K电影(备)
 http://192.168.10.195:4022/udp/239.45.3.107:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.bestv.com.cn/r/cms/www/default/images/logo.png" group-title="未分类",百事通4K纪实
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/dsunn/dsunn.github.io/master/logo/bestv.png" group-title="未分类",百视通4K纪实
 http://192.168.10.195:4022/udp/239.45.1.10:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.bestv.com.cn/r/cms/www/default/images/logo.png" group-title="未分类",百事通4K儿童
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/dsunn/dsunn.github.io/master/logo/bestv.png" group-title="未分类",百视通4K儿童
 http://192.168.10.195:4022/udp/239.45.1.1:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.bestv.com.cn/r/cms/www/default/images/logo.png" group-title="未分类",百事通4K测试
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/dsunn/dsunn.github.io/master/logo/bestv.png" group-title="未分类",百视通4K测试
 http://192.168.10.195:4022/udp/239.45.1.108:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.bestv.com.cn/r/cms/www/default/images/logo.png" group-title="未分类",百事通4K影院
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/dsunn/dsunn.github.io/master/logo/bestv.png" group-title="未分类",百视通4K影院
 http://192.168.10.195:4022/udp/239.45.1.9:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.bestv.com.cn/r/cms/www/default/images/logo.png" group-title="未分类",百事通纪实
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/dsunn/dsunn.github.io/master/logo/bestv.png" group-title="未分类",百视通纪实
 http://192.168.10.195:4022/udp/239.45.1.103:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.bestv.com.cn/r/cms/www/default/images/logo.png" group-title="未分类",百事通卡通
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/dsunn/dsunn.github.io/master/logo/bestv.png" group-title="未分类",百视通卡通
 http://192.168.10.195:4022/udp/239.45.3.156:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",天冀百事通4K
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",天冀百视通4K
 http://192.168.10.195:4022/udp/239.45.0.33:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",天冀百事通4K
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",天冀百视通4K
 http://192.168.10.195:4022/udp/239.45.0.32:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",浦东
 http://192.168.10.195:4022/udp/239.45.3.248:5140
