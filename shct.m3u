@@ -205,14 +205,14 @@ http://192.168.10.195:4022/udp/239.45.3.111:5140
 http://192.168.10.195:4022/udp/239.45.3.112:5140
 #EXTINF:-1 tvg-id="62" tvg-name="哈哈炫动" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xuandong.png" group-title="上海",哈哈炫动
 http://192.168.10.195:4022/udp/239.45.3.187:5140
-#EXTINF:-1 tvg-id="1991" tvg-name="上视外语频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaiwaiyu.png" group-title="未分类",ICS上视外语
+#EXTINF:-1 tvg-id="1991" tvg-name="上视外语频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaiwaiyu.png" group-title="未分类",外语频道
 http://192.168.10.195:4022/udp/239.45.3.249:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.mlzhongguo.com/uploads/image/09/15686895613950.jpg" group-title="未分类",上海教育
 http://192.168.10.195:4022/udp/239.45.3.252:5140
 #EXTINF:-1 tvg-id="1956" tvg-name="七彩戏剧" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/qicaixiju.png" group-title="上海",七彩戏剧 
 #http://192.168.10.195:4022/udp/239.45.1.112:5140
 http://192.168.10.195:4022/udp/239.45.0.16:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvquanqiu.com/uploads/fazhitiandi.jpg" group-title="未分类",法治天地
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/fztd.png" group-title="未分类",法治天地
 http://192.168.10.195:4022/udp/239.45.1.192:5140
 #EXTINF:-1 tvg-id="1983" tvg-name="游戏风云" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youxifengyun.png" group-title="上海",游戏风云
 http://192.168.10.195:4022/udp/239.45.3.64:5140
