@@ -247,13 +247,13 @@ https://ythls.armelin.one/channel/UCoNYj9OFHZn3ACmmeRCPwbA.m3u8
 https://ythls.armelin.one/channel/UC8ROUUjHzEQm-ndb69CX8Ww.m3u8
 #EXTINF:-1 tvg-id="mnews.tw" tvg-logo="https://i.ytimg.com/vi/5n0y6b0Q25o/hqdefault_live.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCXIMr1Cb8PO2vs9ZtapIAlSro4cw" group-title="台湾",mnews
 https://ythls.armelin.one/channel/UC4LjkybVKXCDlneVXlKAbmw.m3u8
-#EXTINF:-1 group-title="台湾" tvg-logo=""https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS1.png" tvg-id=", TVBS News
+#EXTINF:-1 group-title="台湾" tvg-logo=""https://upload.wikimedia.org/wikipedia/commons/c/c9/TVBS_MEDIA_INC._LOGO.jpg" tvg-id=", TVBS News
 http://38.64.72.148/hls/modn/list/4006/chunklist1.m3u8
 #EXTINF:-1 group-title="台湾" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCFinancialNews.png" tvg-id="东森财经新闻",东森财经新闻
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
 #EXTINF:-1 group-title="台湾" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/中视新闻.png" tvg-id="中视新闻",中视新闻
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
-#EXTINF:-1 group-title="台湾" tvg-logo="http://www.stream-link.org/tv_logo/cts-news.png" tvg-id="华视HD",华视HD
+#EXTINF:-1 group-title="台湾" tvg-logo="https://zh.wikipedia.org/wiki/%E4%B8%AD%E8%8F%AF%E9%9B%BB%E8%A6%96%E5%85%AC%E5%8F%B8#/media/File:CTS_Logo.png" tvg-id="华视HD",华视HD
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV12.m3u8
 #EXTINF:-1 group-title="台湾" tvg-logo="https://i.imgur.com/j9Gebr5.png" tvg-id="民视新闻HD",民视新闻HD
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
@@ -261,6 +261,11 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
 http://50.7.238.114:8278/ettvnews/playlist.m3u8?tid=m1785954e5a67&ct=18336&tsum=ce82c650c85a63fe1ead9e30f2d4bfb4
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/年代ERANewsHD.png" tvg-id="era news 年代新聞.tw" tvg-name="era news 年代新聞.tw" group-title="台湾",era news 年代新聞
 http://50.7.238.114:8278/niandainews_twn/playlist.m3u8?tid=MBCB9184423891844238&ct=19249&tsum=ac0331d98099429b19c53fe6d20972ec
+#EXTINF:-1 group-title="台湾" tvg-logo="https://images.toffeelive.com/images/program/12083/logo/240x240/mobile_logo_141710001663004743.png", Discovery Asia HD B
+http://198.16.100.90:8278/discoverytwn_twn/playlist.m3u8?tid=MB1B4014431840144318&ct=19254&tsum=a72e8caa6986ef92c4d6cb743e22a78f
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/3/33/Discovery_Asia_%282017-.n.v.%29.png/revision/latest/scale-to-width-down/1000?cb=20180408072813" tvg-id="國家地理頻道" tvg-name="國家地理頻道" group-title="台湾",國家地理頻道
+http://198.16.100.90:8278/natgeohd_twn/playlist.m3u8?tid=ma1f0b9808d5014467661&ct=17874&tsum=73dfb91284f5b1358251546e6f03da3d
+
 
 #外国
 #EXTINF:-1 tvg-id="7183" tvg-name="aljazeera" tvg-logo="https://static-s.aa-cdn.net/img/amazon/30600000516579/dbdb81e17aaf22b817a4b2af4fce5214?v=1" group-title="外国",Aljazeera
@@ -302,7 +307,7 @@ https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea09
 #EXTINF:-1 tvg-id="" tvg-name="日テレNEWS24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/News24.svg/300px-News24.svg.png" group-title="外国",日テレNEWS24
 https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 #EXTINF:-1 tvg-id="331" tvg-name="NHKWorld" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NHKWorld.png" group-title="外国",NHK World Japan
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1709035251/ei/k3rdZeOwHMSKsfIPgvut2AI/ip/20.172.17.131/id/f0lYkdA-Gtw.4/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fyue_7Dnx8_df8kMIMyN70_Nc8Fu2Eq4rqZLhr5mWdc/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAKw7dR2bg6Pz7ermS-zjB0pGuX7HUQVGmvBFNuPkYjEBAiEAheHGaC-PsDz8Jyo9dnxOy6YwdkM0xrAv5xfUO4658-g%3D/file/index.m3u8
+https://cdn.nhkworld.jp/www11/nhkworld-tv/bmcc-live/es/playlist.m3u8
 #EXTINF:-1 tvg-id="NHKWorldPremium.jp" tvg-name="NHK World Premium" tvg-logo="https://i.imgur.com/4ESi2La.png" group-title="外国",NHK World Premium
 https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
 #EXTINF:-1 tvg-id="6139" tvg-name="ChannelNewsAsia" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/channelnewsasia.png" group-title="外国",亚洲新闻
@@ -353,8 +358,6 @@ https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjml
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/usatoday-usatodaynews-samsungus/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
 #EXTINF:-1 tvg-id="VoATV.us" tvg-name="VOA TV Africa" tvg-logo="https://i.imgur.com/rtRnlqN.png" group-title="外国",VOA TV Africa
 https://voa-ingest.akamaized.net/hls/live/2033874/tvmc06/playlist.m3u8
-#EXTINF:-1 group-title="外国" tvg-logo="https://images.toffeelive.com/images/program/12083/logo/240x240/mobile_logo_141710001663004743.png", Discovery Asia HD B
-http://198.16.100.90:8278/discoverytwn_twn/playlist.m3u8?tid=MB1B4014431840144318&ct=19254&tsum=a72e8caa6986ef92c4d6cb743e22a78f
 #EXTINF:-1 tvg-id="INBB280000836" tvg-chno="1164" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBB280000836_20220525T002355SQUARE.png_20220525002356.png" group-title="外国" , Discovery HD
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/discoverychannel.m3u8
 # https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg01448-samsungin-discoveryhdin-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
