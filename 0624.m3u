@@ -259,15 +259,15 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV12.m3u8
 #EXTINF:-1 group-title="台湾" tvg-logo="https://i.imgur.com/j9Gebr5.png" tvg-id="民视新闻HD",民视新闻
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
 #EXTINF:-1 group-title="台湾" tvg-logo="https://zh.wikipedia.org/zh-cn/%E8%87%BA%E7%81%A3%E9%9B%BB%E8%A6%96%E5%85%AC%E5%8F%B8#/media/File:Taiwan_TV_logo_since_20080719.svg" tvg-id="台视",台视
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
+# https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png" tvg-id="東森新聞台.tw" tvg-name="東森新聞台.tw" group-title="台湾",東森新聞台
-http://50.7.238.114:8278/ettvnews/playlist.m3u8?tid=m1785954e5a67&ct=18336&tsum=ce82c650c85a63fe1ead9e30f2d4bfb4
+# http://50.7.238.114:8278/ettvnews/playlist.m3u8?tid=m1785954e5a67&ct=18336&tsum=ce82c650c85a63fe1ead9e30f2d4bfb4
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/年代ERANewsHD.png" tvg-id="era news 年代新聞.tw" tvg-name="era news 年代新聞.tw" group-title="台湾",era news 年代新聞
 # http://50.7.238.114:8278/niandainews_twn/playlist.m3u8?tid=MBCB9184423891844238&ct=19249&tsum=ac0331d98099429b19c53fe6d20972ec
 #EXTINF:-1 group-title="台湾" tvg-logo="https://images.toffeelive.com/images/program/12083/logo/240x240/mobile_logo_141710001663004743.png", Discovery Asia HD B
 http://198.16.100.90:8278/discoverytwn_twn/playlist.m3u8?tid=MB1B4014431840144318&ct=19254&tsum=a72e8caa6986ef92c4d6cb743e22a78f
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/3/33/Discovery_Asia_%282017-.n.v.%29.png/revision/latest/scale-to-width-down/1000?cb=20180408072813" tvg-id="國家地理頻道" tvg-name="國家地理頻道" group-title="台湾",國家地理頻道
-http://198.16.100.90:8278/natgeohd_twn/playlist.m3u8?tid=ma1f0b9808d5014467661&ct=17874&tsum=73dfb91284f5b1358251546e6f03da3d
+# http://198.16.100.90:8278/natgeohd_twn/playlist.m3u8?tid=ma1f0b9808d5014467661&ct=17874&tsum=73dfb91284f5b1358251546e6f03da3d
 
 
 #外国
