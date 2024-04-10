@@ -13,27 +13,27 @@
 
 #上海
 #EXTINF:-1 tvg-id="F01" tvg-name="上海新闻" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Shanghai1.png" group-title="上海",新闻综合
-# https://itv.lat/tv/live.php?&line=1&id=shxwzh
+https://itv.lat/tv/live.php?&line=1&id=shxwzh
 http://140.249.247.163/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/xwzhhd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="F02" tvg-name="上海都市" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Shanghai2.png" group-title="上海",都市频道
-# https://itv.lat/tv/live.php?&line=1&id=shds
+https://itv.lat/tv/live.php?&line=1&id=shds
 http://140.249.247.163/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/ylpdhd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="F05" tvg-name="五星体育" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Shanghai5.png" group-title="上海",五星体育
-# https://itv.lat/tv/live.php?&line=1&id=wxty
+https://itv.lat/tv/live.php?&line=1&id=wxty
 http://140.249.247.163/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/ssty/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="1986" tvg-name="东方影视" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidongfangyingshi.png" group-title="上海",东方影视
-# https://itv.lat/tv/live.php?&line=1&id=dfys
+https://itv.lat/tv/live.php?&line=1&id=dfys
 http://140.249.247.163/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/dsjpdhd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="C36" tvg-name="第一财经" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/dycj.png" group-title="上海",第一财经
-# https://itv.lat/tv/live.php?&line=1&id=dycj
+https://itv.lat/tv/live.php?&line=1&id=dycj
 http://140.249.247.163/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/dycjhd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="1991" tvg-name="上视外语频道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Shanghai4.png" group-title="上海", 外语频道
-# https://itv.lat/tv/live.php?&line=1&id=shics
+https://itv.lat/tv/live.php?&line=1&id=shics
 http://140.249.247.163/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/wypdhd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="C29" tvg-name="金色学堂" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/jsxt.png" group-title="上海",金色学堂
 https://itv.lat/tv/live.php?&line=1&id=jspd
 #EXTINF:-1 tvg-id="1964" tvg-name="劲爆体育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinbaotiyu.jpg" group-title="上海",劲爆体育
-# https://itv.lat/tv/live.php?&line=1&id=jbty
+https://itv.lat/tv/live.php?&line=1&id=jbty
 http://140.249.247.163/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/jbtyhd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="1988" tvg-name="上海纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="上海",纪实人文
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225738/index.m3u8
@@ -42,7 +42,7 @@ http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 # https://itv.lat/tv/live.php?&line=1&id=mlzq
 http://140.249.247.163/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/mlyyhd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="C28" tvg-name="生活时尚" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/shss.png" group-title="上海",生活时尚
-# https://itv.lat/tv/live.php?&line=1&id=shss
+https://itv.lat/tv/live.php?&line=1&id=shss
 http://140.249.247.163/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/shsshd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="C34" tvg-name="七彩戏剧" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/qcxj.png" group-title="上海",七彩戏剧
 https://itv.lat/tv/live.php?&line=1&id=qcxj
@@ -53,66 +53,66 @@ https://itv.lat/tv/live.php?&line=1&id=dfcj
 #EXTINF:-1 tvg-id="C35" tvg-name="欢笑剧场" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/hxjc4k.png" group-title="上海",欢笑剧场 4K
 https://itv.lat/tv/live.php?&line=1&id=hxjc4k
 #EXTINF:-1 tvg-id="leyou" tvg-name="乐游" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/leyou.png" group-title="上海",乐游
-# https://itv.lat/tv/live.php?&line=1&id=qjs
+https://itv.lat/tv/live.php?&line=1&id=qjs
 http://140.249.247.163/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/qjshd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="leyou" tvg-name="东方购物" tvg-logo="https://img01.sc115.com/uploads/sc/121121/2012112122332723.jpg" group-title="上海",东方购物
 https://itv.lat/tv/live.php?&line=1&id=dfgw
 #EXTINF:-1 tvg-id="BJ05" tvg-name="纪实科教" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Beijing5.png" group-title="上海",纪实科教
 https://itv.lat/tv/live.php?&line=1&id=bjjskj
-#EXTINF:-1 tvg-id="62" tvg-name="哈哈炫动" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xuandong.png" group-title="上海",哈哈炫动
-http://140.249.247.163/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/hhxdhd/4000000/mnf.m3u8
-#EXTINF:-1 group-title="上海",bestv热门综艺 8M
-http://140.249.247.163/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/rmzy8m/8000000/mnf.m3u8
-#EXTINF:-1 group-title="上海",bestv超级体育 8M
-http://140.249.247.163/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/qcsj8m/8000000/mnf.m3u8
-#EXTINF:-1 group-title="上海",bestv健康养生 8M
-http://140.249.247.163/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/jkys8m/8000000/mnf.m3u8
-#EXTINF:-1 group-title="上海",bestv百变课堂 8M
-http://140.249.247.163/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/bbkt8m/8000000/mnf.m3u8
-#EXTINF:-1 group-title="上海",bestv看天下精选 8M
-http://140.249.247.163/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/ktxjx8m/8000000/mnf.m3u8
-#EXTINF:-1 group-title="上海",bestv华语影院 8M
-http://140.249.247.163/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/hyyy8m/8000000/mnf.m3u8
-#EXTINF:-1 group-title="上海",bestv电竞天堂 8M
-http://140.249.247.163/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/djtt8m/8000000/mnf.m3u8
-#EXTINF:-1 group-title="上海",bestv青春动漫 8M
-http://140.249.247.163/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/qcdm8m/8000000/mnf.m3u8
-#EXTINF:-1 group-title="上海",bestv宝宝动画 8M
-http://140.249.247.163/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/bbdh8m/8000000/mnf.m3u8
-#EXTINF:-1 group-title="上海",bestv星光影院 8M
-http://140.249.247.163/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/xgyy8m/8000000/mnf.m3u8
-#EXTINF:-1 group-title="上海",bestv谍战剧场 8M
-http://140.249.247.163/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/dzjc8m/8000000/mnf.m3u8
-#EXTINF:-1 group-title="上海",bestv全球大片 8M
-http://140.249.247.163/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/qqdp8m/8000000/mnf.m3u8
-#EXTINF:-1 group-title="上海",bestv热门剧场 8M
-http://140.249.247.163/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/rmjc8m/8000000/mnf.m3u8
-#EXTINF:-1 group-title="上海",bestv陶瓷高清 8M
-http://140.249.247.163/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/taocihd/8000000/mnf.m3u8
-#EXTINF:-1 group-title="上海",中国教育-1 8M
-http://140.249.247.163/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/zgjy1t8m/8000000/mnf.m3u8
-#EXTINF:-1 group-title="上海",中国教育-4 8M
-http://140.249.247.163/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/zgjy4hd8m/8000000/mnf.m3u8
-#EXTINF:-1 group-title="上海",卡酷少儿 8M
-http://140.249.247.163/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/kkse8m/8000000/mnf.m3u8
-#EXTINF:-1 group-title="上海",纪实科教 8M
-http://140.249.247.163/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/dajs8m/8000000/mnf.m3u8
-#EXTINF:-1 group-title="上海",茶频道 8M
-http://140.249.247.163/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/cpdhdavs8m/8000000/mnf.m3u8
-#EXTINF:-1 group-title="上海",足球高清 8M
-http://140.249.247.163/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/zqpd8m/8000000/mnf.m3u8
-#EXTINF:-1 group-title="上海",炫动卡通 8M
-http://140.249.247.163/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/hhxd8m/8000000/mnf.m3u8
-#EXTINF:-1 group-title="上海",东方财经 8M
-http://140.249.247.163/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/dfcjhd8m/8000000/mnf.m3u8
-#EXTINF:-1 group-title="上海",都市剧场 8M
-http://140.249.247.163/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/dsjc8m/8000000/mnf.m3u8
-#EXTINF:-1 group-title="上海",动漫秀场 8M
-http://140.249.247.163/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/dmxc8m/8000000/mnf.m3u8
-#EXTINF:-1 group-title="上海",法治天地 8M
-http://140.249.247.163/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/fztd8m/8000000/mnf.m3u8
-#EXTINF:-1 group-title="上海",新视觉
-http://140.249.247.163/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/xsjhd/4000000/mnf.m3u8
+# #EXTINF:-1 tvg-id="62" tvg-name="哈哈炫动" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xuandong.png" group-title="上海",哈哈炫动
+# http://140.249.247.163/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/hhxdhd/4000000/mnf.m3u8
+# #EXTINF:-1 group-title="上海",bestv热门综艺 8M
+# http://140.249.247.163/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/rmzy8m/8000000/mnf.m3u8
+# #EXTINF:-1 group-title="上海",bestv超级体育 8M
+# http://140.249.247.163/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/qcsj8m/8000000/mnf.m3u8
+# #EXTINF:-1 group-title="上海",bestv健康养生 8M
+# http://140.249.247.163/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/jkys8m/8000000/mnf.m3u8
+# #EXTINF:-1 group-title="上海",bestv百变课堂 8M
+# http://140.249.247.163/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/bbkt8m/8000000/mnf.m3u8
+# #EXTINF:-1 group-title="上海",bestv看天下精选 8M
+# http://140.249.247.163/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/ktxjx8m/8000000/mnf.m3u8
+# #EXTINF:-1 group-title="上海",bestv华语影院 8M
+# http://140.249.247.163/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/hyyy8m/8000000/mnf.m3u8
+# #EXTINF:-1 group-title="上海",bestv电竞天堂 8M
+# http://140.249.247.163/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/djtt8m/8000000/mnf.m3u8
+# #EXTINF:-1 group-title="上海",bestv青春动漫 8M
+# http://140.249.247.163/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/qcdm8m/8000000/mnf.m3u8
+# #EXTINF:-1 group-title="上海",bestv宝宝动画 8M
+# http://140.249.247.163/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/bbdh8m/8000000/mnf.m3u8
+# #EXTINF:-1 group-title="上海",bestv星光影院 8M
+# http://140.249.247.163/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/xgyy8m/8000000/mnf.m3u8
+# #EXTINF:-1 group-title="上海",bestv谍战剧场 8M
+# http://140.249.247.163/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/dzjc8m/8000000/mnf.m3u8
+# #EXTINF:-1 group-title="上海",bestv全球大片 8M
+# http://140.249.247.163/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/qqdp8m/8000000/mnf.m3u8
+# #EXTINF:-1 group-title="上海",bestv热门剧场 8M
+# http://140.249.247.163/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/rmjc8m/8000000/mnf.m3u8
+# #EXTINF:-1 group-title="上海",bestv陶瓷高清 8M
+# http://140.249.247.163/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/taocihd/8000000/mnf.m3u8
+# #EXTINF:-1 group-title="上海",中国教育-1 8M
+# http://140.249.247.163/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/zgjy1t8m/8000000/mnf.m3u8
+# #EXTINF:-1 group-title="上海",中国教育-4 8M
+# http://140.249.247.163/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/zgjy4hd8m/8000000/mnf.m3u8
+# #EXTINF:-1 group-title="上海",卡酷少儿 8M
+# http://140.249.247.163/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/kkse8m/8000000/mnf.m3u8
+# #EXTINF:-1 group-title="上海",纪实科教 8M
+# http://140.249.247.163/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/dajs8m/8000000/mnf.m3u8
+# #EXTINF:-1 group-title="上海",茶频道 8M
+# http://140.249.247.163/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/cpdhdavs8m/8000000/mnf.m3u8
+# #EXTINF:-1 group-title="上海",足球高清 8M
+# http://140.249.247.163/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/zqpd8m/8000000/mnf.m3u8
+# #EXTINF:-1 group-title="上海",炫动卡通 8M
+# http://140.249.247.163/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/hhxd8m/8000000/mnf.m3u8
+# #EXTINF:-1 group-title="上海",东方财经 8M
+# http://140.249.247.163/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/dfcjhd8m/8000000/mnf.m3u8
+# #EXTINF:-1 group-title="上海",都市剧场 8M
+# http://140.249.247.163/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/dsjc8m/8000000/mnf.m3u8
+# #EXTINF:-1 group-title="上海",动漫秀场 8M
+# http://140.249.247.163/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/dmxc8m/8000000/mnf.m3u8
+# #EXTINF:-1 group-title="上海",法治天地 8M
+# http://140.249.247.163/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/fztd8m/8000000/mnf.m3u8
+# #EXTINF:-1 group-title="上海",新视觉
+# http://140.249.247.163/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/xsjhd/4000000/mnf.m3u8
 
 
 #央视
