@@ -14,7 +14,7 @@
 #上海
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/fztd.png" group-title="上海",法治天地
-http://222.71.11.180:4022/udp/239.45.1.46:5140
+# http://222.71.11.180:4022/udp/239.45.1.46:5140
 #EXTINF:-1 tvg-id="1977" tvg-name="欢笑剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.png" group-title="上海",欢笑剧场
 http://222.71.11.180:4022/udp/239.45.3.196:5140
 #EXTINF:-1 tvg-id="1989" tvg-name="上海都市频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidushi.jpg" group-title="上海", 都市频道
