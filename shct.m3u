@@ -187,8 +187,6 @@ http://192.168.10.195:4022/udp/239.45.1.80:5140
 http://192.168.10.195:4022/udp/239.45.1.81:5140
 #EXTINF:-1 tvg-id="45" tvg-name="河北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hebei.png" group-title="卫视",河北卫视
 http://192.168.10.195:4022/udp/239.45.1.44:5140
-#EXTINF:-1 tvg-id="45" tvg-name="河北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hebei.png" group-title="卫视",河北卫视
-http://192.168.10.195:4022/udp/239.45.1.237:5140
 #EXTINF:-1 tvg-id="47" tvg-name="河南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title="卫视",河南卫视
 http://192.168.10.195:4022/udp/239.45.0.3:5140
 #EXTINF:-1 tvg-id="58" tvg-name="云南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="卫视",云南卫视
@@ -204,6 +202,10 @@ http://192.168.10.195:4022/udp/239.45.0.56:5140
 # http://192.168.10.195:4022/udp/239.45.1.82:5140
 
 #卫视普清
+# #EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="卫视普清",东方卫视
+# http://192.168.10.195:4022/udp/239.45.3.242:5140
+# #EXTINF:-1 tvg-id="45" tvg-name="河北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hebei.png" group-title="卫视普清",河北卫视
+# http://192.168.10.195:4022/udp/239.45.1.237:5140
 # #EXTINF:-1 tvg-id="53" tvg-name="宁夏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/ningxia.png" group-title="卫视普清",宁夏卫视
 # http://192.168.10.195:4022/udp/239.45.1.213:5140
 # #EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="卫视普清",北京卫视
@@ -395,30 +397,25 @@ http://192.168.10.195:4022/udp/239.45.3.208:5140
 http://192.168.10.195:4022/udp/239.45.3.253:5140
 #EXTINF:-1 tvg-id="1984" tvg-name="上视新闻频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shangshixinwen.png" group-title="未分类",新闻综合
 http://192.168.10.195:4022/udp/239.45.3.241:5140
-#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="卫视",东方卫视
-http://192.168.10.195:4022/udp/239.45.3.242:5140
 #EXTINF:-1 tvg-id="1989" tvg-name="上海都市频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidushi.jpg" group-title="未分类",都市频道
 http://192.168.10.195:4022/udp/239.45.3.243:5140
-#EXTINF:-1 tvg-id="1988" tvg-name="上海纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="上海",纪实人文
+#EXTINF:-1 tvg-id="1988" tvg-name="上海纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="未分类",纪实人文
 http://192.168.10.195:4022/udp/239.45.3.247:5140
-#EXTINF:-1 tvg-id="1986" tvg-name="东方影视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Shanghai3.png" group-title="上海",东方影视
+#EXTINF:-1 tvg-id="1986" tvg-name="东方影视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Shanghai3.png" group-title="未分类",东方影视
 http://192.168.10.195:4022/udp/239.45.3.245:5140
-#EXTINF:-1 tvg-id="1985" tvg-name="第一财经" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/diyicaijing.png" group-title="上海",第一财经
+#EXTINF:-1 tvg-id="1985" tvg-name="第一财经" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/diyicaijing.png" group-title="未分类",第一财经
 http://192.168.10.195:4022/udp/239.45.3.111:5140
 #EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="未分类",五星体育
 http://192.168.10.195:4022/udp/239.45.3.112:5140
-#EXTINF:-1 tvg-id="62" tvg-name="哈哈炫动" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xuandong.png" group-title="上海",哈哈炫动
+#EXTINF:-1 tvg-id="62" tvg-name="哈哈炫动" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xuandong.png" group-title="未分类",哈哈炫动
 http://192.168.10.195:4022/udp/239.45.3.187:5140
 #EXTINF:-1 tvg-id="1991" tvg-name="上视外语频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaiwaiyu.png" group-title="未分类",外语频道
 http://192.168.10.195:4022/udp/239.45.3.249:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Shanghai6.png" group-title="上海",上海教育
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Shanghai6.png" group-title="未分类",上海教育
 http://192.168.10.195:4022/udp/239.45.3.252:5140
-#EXTINF:-1 tvg-id="1956" tvg-name="七彩戏剧" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/qcxj.png" group-title="上海",七彩戏剧 
-#http://192.168.10.195:4022/udp/239.45.1.112:5140
-http://192.168.10.195:4022/udp/239.45.0.16:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/fztd.png" group-title="未分类",法治天地
 http://192.168.10.195:4022/udp/239.45.1.192:5140
-#EXTINF:-1 tvg-id="1983" tvg-name="游戏风云" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youxifengyun.png" group-title="上海",游戏风云
+#EXTINF:-1 tvg-id="1983" tvg-name="游戏风云" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youxifengyun.png" group-title="未分类",游戏风云
 http://192.168.10.195:4022/udp/239.45.3.64:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://inews.gtimg.com/newsapp_bt/0/13779299110/1000" group-title="未分类",金色学堂
 http://192.168.10.195:4022/udp/239.45.1.118:5140
