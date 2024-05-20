@@ -310,7 +310,7 @@ http://192.168.10.195:4022/udp/239.45.1.51:5140
 http://192.168.10.195:4022/udp/239.45.1.52:5140
 #EXTINF:-1 tvg-id="7245" tvg-name="中国教育4台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育4台.png" group-title="地方",中国教育-4
 http://192.168.10.195:4022/udp/239.45.0.21:5140
-#EXTINF:-1 tvg-id="7245" tvg-name="中国教育早期教育" tvg-logo="http://www.tvyan.com/uploads/dianshi/cetvzj.jpg" group-title="地方",中国教育-早期教育
+#EXTINF:-1 tvg-id="7245" tvg-name="中国教育早期教育" tvg-logo="https://epg.deny.vip/szpd/CETV-ZQJY.png" group-title="地方",中国教育-早期教育
 http://192.168.10.195:4022/udp/239.45.0.54:5140
 #EXTINF:-1 tvg-id="6010" tvg-name="嘉佳卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jiajiakt.png" group-title="地方",嘉佳卡通
 http://192.168.10.195:4022/udp/239.45.1.48:5140
@@ -426,7 +426,7 @@ http://192.168.10.195:4022/udp/239.45.1.49:5140
 http://192.168.10.195:4022/udp/239.45.1.47:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",家庭理财
 http://192.168.10.195:4022/udp/239.45.0.14:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",一年级
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",养生频道
 http://192.168.10.195:4022/udp/239.45.1.28:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",二年级
 http://192.168.10.195:4022/udp/239.45.1.29:5140
@@ -463,17 +463,23 @@ http://192.168.10.195:4022/udp/239.45.3.126:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",聚鲨环球精选
 http://192.168.10.195:4022/udp/239.45.3.123:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",央广购物
+http://192.168.10.195:4022/udp/239.45.0.35:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",央广购物
 http://192.168.10.195:4022/udp/239.45.3.213:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",家家购物
 http://192.168.10.195:4022/udp/239.45.3.179:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",快乐购物
 http://192.168.10.195:4022/udp/239.45.1.53:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",大国好物
+http://192.168.10.195:4022/udp/239.45.1.57:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",优购物
-http://192.168.10.195:4022/udp/239.45.1.114:5140
+http://192.168.10.195:4022/udp/239.45.0.36:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",好享购物
 http://192.168.10.195:4022/udp/239.45.1.253:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",中视购物
 http://192.168.10.195:4022/udp/239.45.3.79:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",家有购物
+http://192.168.10.195:4022/udp/239.45.1.59:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",家有购物
 http://192.168.10.195:4022/udp/239.45.1.43:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",风尚购物
