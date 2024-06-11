@@ -30,6 +30,8 @@ http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000013/index.m3u8?
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225738/index.m3u8
 #EXTINF:-1 tvg-id="1985" tvg-name="第一财经" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/dycj.png" group-title="上海",第一财经
 # http://222.71.11.180:4022/udp/239.45.3.211:5140
+http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000090/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000090&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
+#EXTINF:-1 tvg-id="1985" tvg-name="东方财经" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/dycj.png" group-title="上海",东方财经
 http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000004/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000004&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
 #EXTINF:-1 tvg-id="1991" tvg-name="上视外语频道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Shanghai4.png" group-title="上海", 外语频道
 # http://222.71.11.180:4022/udp/239.45.1.127:5140
@@ -68,7 +70,10 @@ http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000015/index.m3u8?
 http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000092/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000092&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
 #EXTINF:-1 tvg-id="1964" tvg-name="劲爆体育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinbaotiyu.jpg" group-title="上海",劲爆体育
 http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000008/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000008&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/dongfanggouwu.jpg" group-title="上海",东方购物1
+http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000019/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000019&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/dongfanggouwu.jpg" group-title="上海",东方购物2
+http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000020/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000020&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
 
 #央视
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV-1
@@ -377,8 +382,11 @@ http://49.7.69.235/downflv.brtvcloud.com/8klive/8kliveok.m3u8
 #EXTINF:-1 tvg-id="CCTV8K测试"  tvg-name="CCTV8K测试" tvg-logo="https://epg.112114.xyz/logo/CCTV8K.png" group-title="未分类",CCTV8K测试
 #EXTINF:-1, tvg-id="劲爆体育" tvg-name="劲爆体育" tvg-logo="https://epg.112114.xyz/logo/%E5%8A%B2%E7%88%86%E4%BD%93%E8%82%B2.png" group-title="未分类",劲爆体育频道
 # http://[2409:8087:7001:20:1000::88]:6610/000000001000/5000000002000029972/index.m3u8?channel-id=bestzb&Contentid=5000000002000029972&livemode=1&stbId=3
-#EXTINF:-1, tvg-id="魅力足球" tvg-name="魅力足球" tvg-logo="https://epg.112114.xyz/logo/%E9%AD%85%E5%8A%9B%E8%B6%B3%E7%90%83.png" group-title="未分类",足球频道
+#EXTINF:-1, tvg-id="足球频道" tvg-name="足球频道" tvg-logo="https://epg.112114.xyz/logo/%E9%AD%85%E5%8A%9B%E8%B6%B3%E7%90%83.png" group-title="未分类",足球频道
 http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225895/index.m3u8
+#EXTINF:-1, tvg-id="魅力足球" tvg-name="魅力足球" tvg-logo="https://epg.112114.xyz/logo/%E9%AD%85%E5%8A%9B%E8%B6%B3%E7%90%83.png" group-title="未分类",魅力足球
+# http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225895/index.m3u8
+http://[2409:8087:5e08:24::15]:6610/000000001000/2000000002000000068/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000068&IASHttpSessionId=OTT19594820240419041339000523
 #EXTINF:-1 tvg-id="149" tvg-name="求索纪录" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/Qiusuo1.png" group-title="未分类",求索纪录
 http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221225713/index.m3u8
 #EXTINF:-1 tvg-id="150" tvg-name="求索科学" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/Qiusuo2.png" group-title="未分类",求索科学
@@ -397,6 +405,159 @@ http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221225555/index.m3u8
 http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221225552/index.m3u8
 #EXTINF:-1 tvg-id="梨园" tvg-name="梨园" tvg-logo="https://live.fanmingming.com/tv/河南梨园.png" group-title="未分类",梨园频道
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380788ba7bed/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQI5%2BK6T7j%2FlRm%2BvbM9VO7bA0q1S1k1f36SqqriM0FZoFSAJRfCt8SS7X6sTRmXb81a8O4H%2FdroDKjLoDeaMQdyJQ
+
+#未分类2
+#EXTINF:-1 group-title="未分类2",001
+http://[2409:8087:5e08:24::15]:6610/000000001000/2000000002000000001/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000001&IASHttpSessionId=OTT19594820240419041339000523
+#EXTINF:-1 group-title="未分类2",004
+http://[2409:8087:5e08:24::15]:6610/000000001000/2000000002000000004/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000004&IASHttpSessionId=OTT19594820240419041339000523
+#EXTINF:-1 group-title="未分类2",005
+http://[2409:8087:5e08:24::15]:6610/000000001000/2000000002000000005/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000005&IASHttpSessionId=OTT19594820240419041339000523
+#EXTINF:-1 group-title="未分类2",006
+http://[2409:8087:5e08:24::15]:6610/000000001000/2000000002000000006/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000006&IASHttpSessionId=OTT19594820240419041339000523
+#EXTINF:-1 group-title="未分类2",007
+http://[2409:8087:5e08:24::15]:6610/000000001000/2000000002000000007/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000007&IASHttpSessionId=OTT19594820240419041339000523
+#EXTINF:-1 group-title="未分类2",008
+http://[2409:8087:5e08:24::15]:6610/000000001000/2000000002000000008/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000008&IASHttpSessionId=OTT19594820240419041339000523
+#EXTINF:-1 group-title="未分类2",009
+http://[2409:8087:5e08:24::15]:6610/000000001000/2000000002000000009/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000009&IASHttpSessionId=OTT19594820240419041339000523
+#EXTINF:-1 group-title="未分类2",010
+http://[2409:8087:5e08:24::15]:6610/000000001000/2000000002000000010/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000010&IASHttpSessionId=OTT19594820240419041339000523
+#EXTINF:-1 group-title="未分类2",011
+http://[2409:8087:5e08:24::15]:6610/000000001000/2000000002000000011/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000011&IASHttpSessionId=OTT19594820240419041339000523
+#EXTINF:-1 group-title="未分类2",012
+http://[2409:8087:5e08:24::15]:6610/000000001000/2000000002000000012/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000012&IASHttpSessionId=OTT19594820240419041339000523
+#EXTINF:-1 group-title="未分类2",013
+http://[2409:8087:5e08:24::15]:6610/000000001000/2000000002000000013/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000013&IASHttpSessionId=OTT19594820240419041339000523
+#EXTINF:-1 group-title="未分类2",014
+http://[2409:8087:5e08:24::15]:6610/000000001000/2000000002000000014/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000014&IASHttpSessionId=OTT19594820240419041339000523
+#EXTINF:-1 group-title="未分类2",015
+http://[2409:8087:5e08:24::15]:6610/000000001000/2000000002000000015/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000015&IASHttpSessionId=OTT19594820240419041339000523
+#EXTINF:-1 group-title="未分类2",016
+http://[2409:8087:5e08:24::15]:6610/000000001000/2000000002000000016/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000016&IASHttpSessionId=OTT19594820240419041339000523
+#EXTINF:-1 group-title="未分类2",019
+http://[2409:8087:5e08:24::15]:6610/000000001000/2000000002000000019/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000019&IASHttpSessionId=OTT19594820240419041339000523
+#EXTINF:-1 group-title="未分类2",020
+http://[2409:8087:5e08:24::15]:6610/000000001000/2000000002000000020/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000020&IASHttpSessionId=OTT19594820240419041339000523
+#EXTINF:-1 group-title="未分类2",024
+http://[2409:8087:5e08:24::15]:6610/000000001000/2000000002000000024/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000024&IASHttpSessionId=OTT19594820240419041339000523
+#EXTINF:-1 group-title="未分类2",025
+http://[2409:8087:5e08:24::15]:6610/000000001000/2000000002000000025/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000025&IASHttpSessionId=OTT19594820240419041339000523
+#EXTINF:-1 group-title="未分类2",026
+http://[2409:8087:5e08:24::15]:6610/000000001000/2000000002000000026/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000026&IASHttpSessionId=OTT19594820240419041339000523
+#EXTINF:-1 group-title="未分类2",027
+http://[2409:8087:5e08:24::15]:6610/000000001000/2000000002000000027/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000027&IASHttpSessionId=OTT19594820240419041339000523
+#EXTINF:-1 group-title="未分类2",028
+http://[2409:8087:5e08:24::15]:6610/000000001000/2000000002000000028/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000028&IASHttpSessionId=OTT19594820240419041339000523
+#EXTINF:-1 group-title="未分类2",029
+http://[2409:8087:5e08:24::15]:6610/000000001000/2000000002000000029/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000029&IASHttpSessionId=OTT19594820240419041339000523
+#EXTINF:-1 group-title="未分类2",030
+http://[2409:8087:5e08:24::15]:6610/000000001000/2000000002000000030/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000030&IASHttpSessionId=OTT19594820240419041339000523
+#EXTINF:-1 group-title="未分类2",049
+http://[2409:8087:5e08:24::15]:6610/000000001000/2000000002000000049/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000049&IASHttpSessionId=OTT19594820240419041339000523
+#EXTINF:-1 group-title="未分类2",050
+http://[2409:8087:5e08:24::15]:6610/000000001000/2000000002000000050/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000050&IASHttpSessionId=OTT19594820240419041339000523
+#EXTINF:-1 group-title="未分类2",051
+http://[2409:8087:5e08:24::15]:6610/000000001000/2000000002000000051/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000051&IASHttpSessionId=OTT19594820240419041339000523
+#EXTINF:-1 group-title="未分类2",052
+http://[2409:8087:5e08:24::15]:6610/000000001000/2000000002000000052/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000052&IASHttpSessionId=OTT19594820240419041339000523
+#EXTINF:-1 group-title="未分类2",056
+http://[2409:8087:5e08:24::15]:6610/000000001000/2000000002000000056/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000056&IASHttpSessionId=OTT19594820240419041339000523
+#EXTINF:-1 group-title="未分类2",057
+http://[2409:8087:5e08:24::15]:6610/000000001000/2000000002000000057/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000057&IASHttpSessionId=OTT19594820240419041339000523
+#EXTINF:-1 group-title="未分类2",059
+http://[2409:8087:5e08:24::15]:6610/000000001000/2000000002000000059/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000059&IASHttpSessionId=OTT19594820240419041339000523
+#EXTINF:-1 group-title="未分类2",061
+http://[2409:8087:5e08:24::15]:6610/000000001000/2000000002000000061/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000061&IASHttpSessionId=OTT19594820240419041339000523
+#EXTINF:-1 group-title="未分类2",063
+http://[2409:8087:5e08:24::15]:6610/000000001000/2000000002000000063/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000063&IASHttpSessionId=OTT19594820240419041339000523
+#EXTINF:-1 group-title="未分类2",064
+http://[2409:8087:5e08:24::15]:6610/000000001000/2000000002000000064/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000064&IASHttpSessionId=OTT19594820240419041339000523
+#EXTINF:-1 group-title="未分类2",065
+http://[2409:8087:5e08:24::15]:6610/000000001000/2000000002000000065/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000065&IASHttpSessionId=OTT19594820240419041339000523
+#EXTINF:-1 group-title="未分类2",068
+http://[2409:8087:5e08:24::15]:6610/000000001000/2000000002000000068/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000068&IASHttpSessionId=OTT19594820240419041339000523
+#EXTINF:-1 group-title="未分类2",069
+http://[2409:8087:5e08:24::15]:6610/000000001000/2000000002000000069/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000069&IASHttpSessionId=OTT19594820240419041339000523
+#EXTINF:-1 group-title="未分类2",070
+http://[2409:8087:5e08:24::15]:6610/000000001000/2000000002000000070/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000070&IASHttpSessionId=OTT19594820240419041339000523
+#EXTINF:-1 group-title="未分类2",090
+http://[2409:8087:5e08:24::15]:6610/000000001000/2000000002000000090/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000090&IASHttpSessionId=OTT19594820240419041339000523
+#EXTINF:-1 group-title="未分类2",092
+http://[2409:8087:5e08:24::15]:6610/000000001000/2000000002000000092/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000092&IASHttpSessionId=OTT19594820240419041339000523
+#EXTINF:-1 group-title="未分类2",01
+http://[2409:8087:5e08:24::15]:6610/000000001000/2000000004000000001/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000001&IASHttpSessionId=OTT19019320240419154124000281
+#EXTINF:-1 group-title="未分类2",02
+http://[2409:8087:5e08:24::15]:6610/000000001000/2000000004000000002/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000002&IASHttpSessionId=OTT19019320240419154124000281
+#EXTINF:-1 group-title="未分类2",03
+http://[2409:8087:5e08:24::15]:6610/000000001000/2000000004000000003/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000003&IASHttpSessionId=OTT19019320240419154124000281
+#EXTINF:-1 group-title="未分类2",04
+http://[2409:8087:5e08:24::15]:6610/000000001000/2000000004000000004/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000004&IASHttpSessionId=OTT19019320240419154124000281
+#EXTINF:-1 group-title="未分类2",05
+http://[2409:8087:5e08:24::15]:6610/000000001000/2000000004000000005/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000005&IASHttpSessionId=OTT19019320240419154124000281
+#EXTINF:-1 group-title="未分类2",06
+http://[2409:8087:5e08:24::15]:6610/000000001000/2000000004000000006/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000006&IASHttpSessionId=OTT19019320240419154124000281
+#EXTINF:-1 group-title="未分类2",07
+http://[2409:8087:5e08:24::15]:6610/000000001000/2000000004000000007/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000007&IASHttpSessionId=OTT19019320240419154124000281
+#EXTINF:-1 group-title="未分类2",08
+http://[2409:8087:5e08:24::15]:6610/000000001000/2000000004000000008/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000008&IASHttpSessionId=OTT19019320240419154124000281
+#EXTINF:-1 group-title="未分类2",09
+http://[2409:8087:5e08:24::15]:6610/000000001000/2000000004000000009/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000009&IASHttpSessionId=OTT19019320240419154124000281
+#EXTINF:-1 group-title="未分类2",10
+http://[2409:8087:5e08:24::15]:6610/000000001000/2000000004000000010/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000010&IASHttpSessionId=OTT19019320240419154124000281
+#EXTINF:-1 group-title="未分类2",11
+http://[2409:8087:5e08:24::15]:6610/000000001000/2000000004000000011/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000011&IASHttpSessionId=OTT19019320240419154124000281
+#EXTINF:-1 group-title="未分类2",12
+http://[2409:8087:5e08:24::15]:6610/000000001000/2000000004000000012/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000012&IASHttpSessionId=OTT19019320240419154124000281
+#EXTINF:-1 group-title="未分类2",13
+http://[2409:8087:5e08:24::15]:6610/000000001000/2000000004000000013/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000013&IASHttpSessionId=OTT19019320240419154124000281
+#EXTINF:-1 group-title="未分类2",14
+http://[2409:8087:5e08:24::15]:6610/000000001000/2000000004000000014/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000014&IASHttpSessionId=OTT19019320240419154124000281
+#EXTINF:-1 group-title="未分类2",15
+http://[2409:8087:5e08:24::15]:6610/000000001000/2000000004000000015/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000015&IASHttpSessionId=OTT19019320240419154124000281
+#EXTINF:-1 group-title="未分类2",17
+http://[2409:8087:5e08:24::15]:6610/000000001000/2000000004000000017/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000017&IASHttpSessionId=OTT19019320240419154124000281
+#EXTINF:-1 group-title="未分类2",25
+http://[2409:8087:5e08:24::15]:6610/000000001000/2000000004000000025/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000025&IASHttpSessionId=OTT19019320240419154124000281
+#EXTINF:-1 group-title="未分类2",32
+http://[2409:8087:5e08:24::15]:6610/000000001000/2000000004000000032/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000032&IASHttpSessionId=OTT19019320240419154124000281
+#EXTINF:-1 group-title="未分类2",33
+http://[2409:8087:5e08:24::15]:6610/000000001000/2000000004000000033/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000033&IASHttpSessionId=OTT19019320240419154124000281
+#EXTINF:-1 group-title="未分类2",34
+http://[2409:8087:5e08:24::15]:6610/000000001000/2000000004000000034/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000034&IASHttpSessionId=OTT19019320240419154124000281
+#EXTINF:-1 group-title="未分类2",35
+http://[2409:8087:5e08:24::15]:6610/000000001000/2000000004000000035/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000035&IASHttpSessionId=OTT19019320240419154124000281
+#EXTINF:-1 group-title="未分类2",36
+http://[2409:8087:5e08:24::15]:6610/000000001000/2000000004000000036/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000036&IASHttpSessionId=OTT19019320240419154124000281
+#EXTINF:-1 group-title="未分类2",37
+http://[2409:8087:5e08:24::15]:6610/000000001000/2000000004000000037/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000037&IASHttpSessionId=OTT19019320240419154124000281
+#EXTINF:-1 group-title="未分类2",38
+http://[2409:8087:5e08:24::15]:6610/000000001000/2000000004000000038/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000038&IASHttpSessionId=OTT19019320240419154124000281
+#EXTINF:-1 group-title="未分类2",41
+http://[2409:8087:5e08:24::15]:6610/000000001000/2000000004000000041/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000041&IASHttpSessionId=OTT19019320240419154124000281
+#EXTINF:-1 group-title="未分类2",46
+http://[2409:8087:5e08:24::15]:6610/000000001000/2000000004000000046/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000046&IASHttpSessionId=OTT19019320240419154124000281
+#EXTINF:-1 group-title="未分类2",47
+http://[2409:8087:5e08:24::15]:6610/000000001000/2000000004000000047/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000047&IASHttpSessionId=OTT19019320240419154124000281
+#EXTINF:-1 group-title="未分类2",49
+http://[2409:8087:5e08:24::15]:6610/000000001000/2000000004000000049/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000049&IASHttpSessionId=OTT19019320240419154124000281
+#EXTINF:-1 group-title="未分类2",53
+http://[2409:8087:5e08:24::15]:6610/000000001000/2000000004000000053/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000053&IASHttpSessionId=OTT19019320240419154124000281
+#EXTINF:-1 group-title="未分类2",54
+http://[2409:8087:5e08:24::15]:6610/000000001000/2000000004000000054/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000054&IASHttpSessionId=OTT19019320240419154124000281
+#EXTINF:-1 group-title="未分类2",55
+http://[2409:8087:5e08:24::15]:6610/000000001000/2000000004000000055/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000055&IASHttpSessionId=OTT19019320240419154124000281
+#EXTINF:-1 group-title="未分类2",56
+http://[2409:8087:5e08:24::15]:6610/000000001000/2000000004000000056/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000056&IASHttpSessionId=OTT19019320240419154124000281
+#EXTINF:-1 group-title="未分类2",58
+http://[2409:8087:5e08:24::15]:6610/000000001000/2000000004000000058/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000058&IASHttpSessionId=OTT19019320240419154124000281
+#EXTINF:-1 group-title="未分类2",59
+http://[2409:8087:5e08:24::15]:6610/000000001000/2000000004000000059/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000059&IASHttpSessionId=OTT19019320240419154124000281
+#EXTINF:-1 group-title="未分类2",60
+http://[2409:8087:5e08:24::15]:6610/000000001000/2000000004000000060/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000060&IASHttpSessionId=OTT19019320240419154124000281
+#EXTINF:-1 group-title="未分类2",63
+http://[2409:8087:5e08:24::15]:6610/000000001000/2000000004000000063/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000063&IASHttpSessionId=OTT19019320240419154124000281
+
 
 #hk
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="香港",凤凰中文
@@ -594,7 +755,8 @@ http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
 #EXTINF:-1 tvg-id="爱上4K" tvg-name="爱上4K" tvg-logo="https://live.fanmingming.com/tv/爱上4K.png" group-title="影视",爱上4K
 http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
-# #EXTINF:-1 group-title="影视",精彩影视
+#EXTINF:-1 group-title="影视",精彩影视
+http://[2409:8087:5e08:24::15]:6610/000000001000/2000000004000000063/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000063&IASHttpSessionId=OTT19019320240419154124000281
 # http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000320630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000320630&livemode=1&stbId=3
 # #EXTINF:-1 group-title="影视",欧美影院
 # http://[2409:8087:7001:20:1000::95]:6610/000000001000/7185203501769528108/index.m3u8?channel-id=wasusyt&Contentid=7185203501769528108&livemode=1&stbId=3
@@ -956,6 +1118,39 @@ http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 # http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001829/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 # #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ipv6",宝鸡2 7M1080
 # http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001737/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+
+#IHOT
+# #EXTINF:-1 group-title="IHOT",爱院线
+# http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000034/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000034&IASHttpSessionId=OTT19019320240419154124000281
+# #EXTINF:-1 group-title="IHOT",爱科幻
+# http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000033/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000033&IASHttpSessionId=OTT19019320240419154124000281
+# #EXTINF:-1 group-title="IHOT",爱浪漫
+# http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000035/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000035&IASHttpSessionId=OTT19019320240419154124000281
+# #EXTINF:-1 group-title="IHOT",爱喜剧
+# http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000032/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000032&IASHttpSessionId=OTT19019320240419154124000281
+# #EXTINF:-1 group-title="IHOT",爱悬疑
+# http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000036/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000036&IASHttpSessionId=OTT19019320240419154124000281
+# #EXTINF:-1 group-title="IHOT",爱赛车
+# http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000055/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000055&IASHttpSessionId=OTT19019320240419154124000281
+# #EXTINF:-1 group-title="IHOT",爱体育
+# http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000060/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000060&IASHttpSessionId=OTT19019320240419154124000281
+# #EXTINF:-1 group-title="IHOT",爱奇谈
+# http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000058/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000058&IASHttpSessionId=OTT19019320240419154124000281
+# #EXTINF:-1 group-title="IHOT",爱玩具
+# http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000053/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000053&IASHttpSessionId=OTT19019320240419154124000281
+# #EXTINF:-1 group-title="IHOT",爱旅行
+# http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000056/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000056&IASHttpSessionId=OTT19019320240419154124000281
+# #EXTINF:-1 group-title="IHOT",爱幼教
+# http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000049/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000049&IASHttpSessionId=OTT19019320240419154124000281
+# #EXTINF:-1 group-title="IHOT",爱谍战
+# http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000038/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000038&IASHttpSessionId=OTT19019320240419154124000281
+# #EXTINF:-1 group-title="IHOT",爱历史
+# http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000046/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000046&IASHttpSessionId=OTT19019320240419154124000281
+# #EXTINF:-1 group-title="IHOT",爱科学
+# http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000047/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000047&IASHttpSessionId=OTT19019320240419154124000281
+# #EXTINF:-1 group-title="IHOT",爱动漫
+# http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000059/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000059&IASHttpSessionId=OTT19019320240419154124000281
+
 
 #咪咕体育/56个频道
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg" group-title="咪咕",咪咕直播4K-1
