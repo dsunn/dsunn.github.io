@@ -147,7 +147,7 @@ http://192.168.10.195:4022/udp/239.45.0.53:5140
 http://192.168.10.195:4022/udp/239.45.1.73:5140
 
 #卫视
-#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="卫视",东方卫视
+#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="卫视",东方卫视
 http://192.168.10.195:4022/udp/239.45.3.146:5140
 #EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="卫视",浙江卫视
 http://192.168.10.195:4022/udp/239.45.3.178:5140
