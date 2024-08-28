@@ -624,19 +624,20 @@ http://198.16.100.90:8278/discoverytwn_twn/playlist.m3u8?tid=MB1B401443184014431
 #EXTINF:-1 tvg-id="7183" tvg-name="aljazeera" tvg-logo="https://static-s.aa-cdn.net/img/amazon/30600000516579/dbdb81e17aaf22b817a4b2af4fce5214?v=1" group-title="外国",Aljazeera
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 tvg-id="664" tvg-name="BBCWorldNews" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BBCWORLDNEWSASIA.png" group-title="外国",BBC News
-https://jmp2.uk/SamsungTVPlus/US4000033L.m3u8
+# https://jmp2.uk/SamsungTVPlus/US4000033L.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1700001RW_20240520T214740SQUARE.png" group-title="外国",BBC Earth
-https://jmp2.uk/SamsungTVPlus/USBD1700001RW.m3u8|user-agent=okhttp/4.10.0
+# https://jmp2.uk/SamsungTVPlus/USBD1700001RW.m3u8|user-agent=okhttp/4.10.0
 #EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-65622eddb7d737841f30a4fd" tvg-id="5e20b730f2f8d5003d739db7-65622eddb7d737841f30a4fd" tvg-logo="https://provider-static.plex.tv/epg/cms/production/18618888-60d4-4277-a8cb-1c054b8fb9dd/BBC_TRAVEL_PLEX_BRAND_CHANNEL_Logo_Light_1500X1000_Caitlin_Schiffer.png" group-title="外国", BBC Travel
 https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-65622eddb7d737841f30a4fd.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/112.0.0.0%20Safari/537.36&X-Plex-Token=rKbvZFHG1CMQQTiiZ8JX&X-Forwarded-For=185.236.200.172
 #EXTINF:-1 tvg-id="6023" tvg-name="CNN" tvg-logo="https://i.imgur.com/1fhqoEE.png" group-title="外国",CNN
-https://jmp2.uk/SamsungTVPlus/ATBD800001VA.m3u8
+# https://jmp2.uk/SamsungTVPlus/ATBD800001VA.m3u8
 # https://dhzhj55w8hou6.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bmoob4iijm59i/index.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 # https://d30x5vsa85tvmd.cloudfront.net/index_5.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CNN GO" tvg-logo="https://image.roku.com/developer_channels/prod/5d8308aa7b7b6b52f20bb361826fe62092bac1e4181d0df0f26c08a8f71b9c5e.png" group-title="外国",CNN GO
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-id="GBBD1900008O3" tvg-name="CNN FAST" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD1900008O3_20230614T010144SQUARE.png_20230614010144.png" group-title="外国",CNN FAST
-https://jmp2.uk/SamsungTVPlus/ATBD190000101.m3u8|user-agent=okhttp/4.10.0
+https://i.mjh.nz/discovery-ptcn.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+# https://jmp2.uk/SamsungTVPlus/ATBD190000101.m3u8|user-agent=okhttp/4.10.0
 # https://d21aflc7nmm9mr.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-09e5p11eztai8/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 #EXTINF:-1 tvg-id="5421f71da6af422839419cb3" tvg-name="CNN RePlay" tvg-logo="https://images.pluto.tv/channels/5421f71da6af422839419cb3/colorLogoPNG.png" group-title="外国",CNN RePlay
 # https://jmp2.uk/PlutoTV/5421f71da6af422839419cb3-alt.m3u8
@@ -645,18 +646,18 @@ https://jmp2.uk/SamsungTVPlus/ATBD190000101.m3u8|user-agent=okhttp/4.10.0
 #EXTINF:-1 tvg-id="USBB52000022Q" tvg-name="Sky News" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB52000022Q_20230509T224438SQUARE.png_20230509224439.png" group-title="外国",Sky News
 https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_us_skynewsamericas_001.m3u8?ads.caid=nbcuskynews&ads.csid=samsungtvplus_us_nbcuskynews_ssai&ads.xumo_platform=samsung&ads._fw_is_lat=%7BTARGETOPT%7D&ads._fw_us_privacy=1YNY&ads._fw_coppa=0&ads._fw_did=%7BPSID%7D&ads._fw_content_category=IAB12&ads._fw_content_genre=News&ads._fw_content_language=en&ads._fw_content_rating=tv-g&ads._fw_deviceMake=samsung&ads._fw_gdpr=0&ads._fw_h_x_country=US&ads.appName=%7BAPP_NAME%7D&ads.xumo_contentId=3455&ads.xumo_contentName=skynews&ads.xumo_providerI
 #EXTINF:-1 tvg-id="GBBD3100006XM" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD3100006XM_20231213T033116SQUARE.png_20231213033116.png" group-title="外国",Sky Mix
-https://jmp2.uk/SamsungTVPlus/GBBD3100006XM.m3u8
+# https://jmp2.uk/SamsungTVPlus/GBBD3100006XM.m3u8
 #EXTINF:-1 channel-id="mjh-sky-news-now" tvg-id="mjh-sky-news-now" tvg-logo="https://jmp2.uk/.images/sky-news-now.png" group-title="外国" , Sky News Now (AU)
 # https://jmp2.uk/sky-news-now.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
 #EXTINF:-1 group-title="外国" tvg-logo="https://i.imgur.com/mOlz491.png" tvg-id="", News 12 New York
-https://jmp2.uk/PlutoTV/5fff49cfb5cd4f0007c2b0dc-alt.m3u8
+# https://jmp2.uk/PlutoTV/5fff49cfb5cd4f0007c2b0dc-alt.m3u8
 #EXTINF:-1 tvg-id="USBB2200014DK" tvg-name="NBC News NOW" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB2200014DK_20220712T041422SQUARE.png_20220712041422.png" group-title="外国",NBC News NOW
 # https://r.mjh.nz/PlutoTV/5df97894467dfa00091c873c-alt.m3u8
-https://jmp2.uk/SamsungTVPlus/USBB2200014DK.m3u8|user-agent=okhttp/4.10.0
+# https://jmp2.uk/SamsungTVPlus/USBB2200014DK.m3u8|user-agent=okhttp/4.10.0
 #EXTINF:-1 tvg-id="USBC3200005A0" tvg-name="NBC Bay Area News" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3200005A0_20230222T041423SQUARE.png_20230222041424.png" group-title="外国",NBC Bay Area News
-https://jmp2.uk/SamsungTVPlus/USBC3200005A0.m3u8
+# https://jmp2.uk/SamsungTVPlus/USBC3200005A0.m3u8
 #EXTINF:-1 channel-id="samsung-USBD2700019N0" tvg-id="USBD2700019N0" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD2700019N0_20240520T223334SQUARE.png" tvg-chno="1125" group-title="外国" , FOX 2 San Francisco
-https://jmp2.uk/SamsungTVPlus/USBD2700019N0.m3u8|user-agent=okhttp/4.10.0
+# https://jmp2.uk/SamsungTVPlus/USBD2700019N0.m3u8|user-agent=okhttp/4.10.0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/1JnyzHv.png" group-title="外国",Fox News Now
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="7100" tvg-name="ABCAustralia" tvg-logo="https://th.bing.com/th?id=OIP.nlZTiSDYA-ZWrYdShExbBQHaHa&pid=PersonalBing&rs=1" group-title="外国",ABC News
