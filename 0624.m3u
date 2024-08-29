@@ -690,6 +690,7 @@ https://f507e97fa86541f2b8af93557ee82930.mediatailor.us-east-1.amazonaws.com/v1/
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:-1 tvg-id=""France24English.fr"" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/B76eSg2.png"" group-title="外国", France24 English
 # https://ythls.armelin.one/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg.m3u8
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV38.m3u8
 #EXTINF:-1 group-title="外国" tvg-logo="https://i.imgur.com/1NHCrPM.png" tvg-id="", FRANCE 24 Fast
 # https://jmp2.uk/SamsungTVPlus/GBBD1100002L5.m3u8
 #EXTINF:-1 group-title="外国" tvg-logo="https://i.imgur.com/1NHCrPM.png" tvg-id="", FRANCE 24 French
