@@ -630,7 +630,7 @@ https://jmp2.uk/sam-US4000033L.m3u8
 # https://jmp2.uk/SamsungTVPlus/USBD1700001RW.m3u8|user-agent=okhttp/4.10.0
 #EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-65622eddb7d737841f30a4fd" tvg-id="5e20b730f2f8d5003d739db7-65622eddb7d737841f30a4fd" tvg-logo="https://provider-static.plex.tv/epg/cms/production/18618888-60d4-4277-a8cb-1c054b8fb9dd/BBC_TRAVEL_PLEX_BRAND_CHANNEL_Logo_Light_1500X1000_Caitlin_Schiffer.png" group-title="外国", BBC Travel
 https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-65622eddb7d737841f30a4fd.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/112.0.0.0%20Safari/537.36&X-Plex-Token=rKbvZFHG1CMQQTiiZ8JX&X-Forwarded-For=185.236.200.172
-#EXTINF:-1 channel-id="plex-cnn-headlines" tvg-id="5e20b730f2f8d5003d739db7-66b4fcc2530e39ea2ee79545" tvg-logo="https://provider-static.plex.tv/epg/cms/production/4231e1c1-803e-4743-a5fe-98778cb2f6c2/CNN_Headlines_FastChannel_Logo_Dark_1500x1000.png",CNN Headlines
+#EXTINF:-1 channel-id="plex-cnn-headlines" tvg-id="5e20b730f2f8d5003d739db7-66b4fcc2530e39ea2ee79545" tvg-logo="https://provider-static.plex.tv/epg/cms/production/4231e1c1-803e-4743-a5fe-98778cb2f6c2/CNN_Headlines_FastChannel_Logo_Dark_1500x1000.png" group-title="外国",CNN Headlines
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-66b4fcc2530e39ea2ee79545.m3u8?X-Plex-Token=_Jfp4czpi97uVq8dm3rr
 #EXTINF:-1 tvg-id="6023" tvg-name="CNN" tvg-logo="https://provider-static.plex.tv/epg/cms/production/00f41feb-c13e-4a3d-b7ca-c9bb253d19be/CNN_Originals_RDX_color_logo.png" group-title="外国",CNN Originals
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-66ad6025cb5d3b7fb5011c2d.m3u8?X-Plex-Token=_Jfp4czpi97uVq8dm3rr
