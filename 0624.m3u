@@ -716,7 +716,7 @@ https://jmp2.uk/sam-USBC4400003OU.m3u8
 https://d2g8cwacjxduj5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-zs6sdccud9qsv/scripps_news.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
 #EXTINF:-1 tvg-id="USBA300028QU" tvg-name="Newsmax TV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA300028QU_20221109T013516SQUARE.png_20221109013517.png" group-title="外国",Newsmax TV
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-newsmax/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-#EXTINF:-1 channel-id="samsung-USBB1900002KF" tvg-id="USBB1900002KF" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB1900002KF_20240520T222747SQUARE.png" group-title="News & Opinion" tvg-chno="1175",Real America's Voice
+#EXTINF:-1 channel-id="samsung-USBB1900002KF" tvg-id="USBB1900002KF" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB1900002KF_20240520T222747SQUARE.png" group-title="外国" tvg-chno="1175",Real America's Voice
 https://jmp2.uk/sam-USBB1900002KF.m3u8
 #EXTINF:-1 tvg-id="60fb321ee99fac0008c9ab8a" tvg-name="60 Minutes" tvg-logo="https://images.pluto.tv/channels/60fb321ee99fac0008c9ab8a/colorLogoPNG.png" group-title="外国",60 Minutes
 # https://jmp2.uk/PlutoTV/60fb321ee99fac0008c9ab8a-alt.m3u8
