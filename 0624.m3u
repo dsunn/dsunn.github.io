@@ -652,6 +652,7 @@ https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae0
 # https://jmp2.uk/sky-news-now.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
 #EXTINF:-1 group-title="外国" tvg-logo="https://i.imgur.com/mOlz491.png" tvg-id="", News 12 New York
 # https://jmp2.uk/PlutoTV/5fff49cfb5cd4f0007c2b0dc-alt.m3u8
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5fc6f3a62b6f7b002e77ffaa.m3u8?X-Plex-Token=gxRh8ySq2LAZPDMpDxne
 #EXTINF:-1 tvg-id="USBB2200014DK" tvg-name="NBC News NOW" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB2200014DK_20220712T041422SQUARE.png_20220712041422.png" group-title="外国",NBC News NOW
 # https://r.mjh.nz/PlutoTV/5df97894467dfa00091c873c-alt.m3u8
 # https://jmp2.uk/SamsungTVPlus/USBB2200014DK.m3u8|user-agent=okhttp/4.10.0
@@ -690,6 +691,7 @@ https://f507e97fa86541f2b8af93557ee82930.mediatailor.us-east-1.amazonaws.com/v1/
 # https://jmp2.uk/SamsungTVPlus/GBBC900012J9.m3u8|user-agent=okhttp/4.10.0
 #EXTINF:-1 tvg-id="USAJ4300005PJ" tvg-name="Yahoo Finance" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ4300005PJ_20230125T022140SQUARE.png_20230125022141.png" group-title="外国",Yahoo Finance
 # https://jmp2.uk/SamsungTVPlus/USAJ4300005PJ.m3u8
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5f170f01b898490041b49dd1.m3u8?X-Plex-Token=gxRh8ySq2LAZPDMpDxne
 #EXTINF:-1 tvg-id="730" tvg-name="DW" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DW.png" group-title="外国",Deutsche Welle
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:-1 tvg-id=""France24English.fr"" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/B76eSg2.png"" group-title="外国", France24 English
@@ -705,6 +707,7 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV38.m3u8
 # https://jmp2.uk/SamsungTVPlus/GBBB1600008R3.m3u8
 #EXTINF:-1 tvg-id="5ca1da6c593a5d78f0e7edce" tvg-name="Euronews" tvg-logo="https://images.pluto.tv/channels/5ca1da6c593a5d78f0e7edce/colorLogoPNG.png" group-title="外国",Euronews
 # https://jmp2.uk/PlutoTV/5ca1da6c593a5d78f0e7edce-alt.m3u8
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-60089d90f682a3002c348299.m3u8?X-Plex-Token=gxRh8ySq2LAZPDMpDxne
 #EXTINF:-1 tvg-id="GBAJ4900020VP" tvg-name="Euronews Live" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBAJ4900020VP_20230222T011312SQUARE.png_20230222011313.png" group-title="外国",Euronews Live
 # https://jmp2.uk/SamsungTVPlus/GBAJ4900020VP.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/mhhVQE6.png" group-title="外国",Global News (720p)
@@ -720,6 +723,7 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-newsmax/playlist.m3u8?ads.di
 https://jmp2.uk/sam-USBB1900002KF.m3u8
 #EXTINF:-1 tvg-id="60fb321ee99fac0008c9ab8a" tvg-name="60 Minutes" tvg-logo="https://images.pluto.tv/channels/60fb321ee99fac0008c9ab8a/colorLogoPNG.png" group-title="外国",60 Minutes
 # https://jmp2.uk/PlutoTV/60fb321ee99fac0008c9ab8a-alt.m3u8
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/66b646f9cd0d3100086af83c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=ff09f8f1-7ace-11ef-b3e9-b3e095db7bea&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=9f49ab1e-71b6-40b3-a881-6552036e0313&userId=&serverSideAds=true
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-64bf5ed5fa25ad1c59ae7472" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f6d3d0f3-810f-48b7-ad46-66916a0570f8/WaPoTV_Logo_White_1500x1000_-_Lauren_Saks.png" group-title="外国",Washington Post Television
 https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-64bf5ed5fa25ad1c59ae7472.m3u8
 #EXTINF:-1 tvg-id="GBAJ2400003DD" tvg-name="The Guardian" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBAJ2400003DD_20220323T071326SQUARE.png_20220323071329.png" group-title="外国",The Guardian
