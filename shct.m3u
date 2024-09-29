@@ -328,7 +328,7 @@ http://192.168.10.195:4022/udp/239.45.3.22:5140
 http://192.168.10.195:4022/udp/239.45.3.50:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvyan.com/uploads/dianshi/sitvdmxc.jpg" group-title="未分类",动漫秀场
 http://192.168.10.195:4022/udp/239.45.3.134:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cn.heytv.org/wp-content/uploads/2018/12/1-1P5151UG1537-2.jpg" group-title="未分类",都市剧场
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://assets.livednow.com/logo/SiTV-都市剧场.png" group-title="未分类",都市剧场
 http://192.168.10.195:4022/udp/239.45.3.136:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/dsunn/dsunn.github.io/master/logo/bestv.png" group-title="未分类",百视通超级体育
 http://192.168.10.195:4022/udp/239.45.3.139:5140
