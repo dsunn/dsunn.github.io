@@ -60,7 +60,7 @@ http://[2409:8087:5e01:24::16]:6610/000000001000/2000000002000000016/index.m3u8?
 #http://222.71.11.180:4022/udp/239.45.1.112:5140
 # http://222.71.11.180:4022/udp/239.45.0.16:5140
 http://[2409:8087:5e01:24::16]:6610/000000001000/2000000002000000010/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000010&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cn.heytv.org/wp-content/uploads/2018/12/1-1P5151UG1537-2.jpg" group-title="上海",都市剧场
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://assets.livednow.com/logo/SiTV-都市剧场.png" group-title="上海",都市剧场
 http://[2409:8087:5e01:24::16]:6610/000000001000/2000000002000000015/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000015&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
 #EXTINF:-1 tvg-id="1976" tvg-name="全纪实" tvg-logo="https://raw.githubusercontent.com/dsunn/dsunn.github.io/master/logo/lypd.png" group-title="上海",乐游
 # http://222.71.11.180:4022/udp/239.45.3.135:5140
@@ -793,7 +793,7 @@ http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 # http://[2409:8087:7001:20:1000::95]:6610/000000001000/7185203501769528108/index.m3u8?channel-id=wasusyt&Contentid=7185203501769528108&livemode=1&stbId=3
 # #EXTINF:-1 group-title="影视",亚洲影院
 # http://[2409:8087:7001:20:1000::95]:6610/000000001000/5841816227539527643/index.m3u8?channel-id=wasusyt&Contentid=5841816227539527643&livemode=1&stbId=3
-#EXTINF:-1 group-title="影视",超级电影
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/NEWTV超级电影.png" group-title="影视",超级电影
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
 # EXTINF:-1 group-title="影视",动作电影
 # http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000003000000017/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000017&livemode=1&stbId=3
