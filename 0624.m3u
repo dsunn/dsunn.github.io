@@ -362,8 +362,6 @@ https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 https://cmc-ono.amagi.tv/hls/amagi_hls_data_cmcAAAAAA-cmc-ono/CDN/playlist.m3u8?device=TDTChannels
 #EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-659f04ef27ae392d2e204695" tvg-id="5e20b730f2f8d5003d739db7-659f04ef27ae392d2e204695" tvg-logo="https://provider-static.plex.tv/epg/cms/production/b6bea985-9665-4dca-8ce4-2a8f79c7863c/FXSportsWhite.png" group-title="外国" , FOX Sports
 https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-659f04ef27ae392d2e204695.m3u8
-#EXTINF:-1 channel-id="stirr-externallinearfeed-07-20-2021-07-20-2021" tvg-id="externallinearfeed-07-20-2021-07-20-2021" tvg-logo="https://jmp2.uk/Stirr/.images/65f68946eb.png" group-title="外国", The Country Network
-https://dai.google.com/linear/hls/event/3EEsfZhASryigfuSpHdfKg/master.m3u8
 #EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-62f42e6cad0081c6ef405723" tvg-id="5e20b730f2f8d5003d739db7-62f42e6cad0081c6ef405723" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a4210812-bed5-4b19-b6ca-0f4ffabf3106/documentaryplus_logo_dark_1_.png" group-title="外国" , Documentary+
 https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-62f42e6cad0081c6ef405723.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/112.0.0.0%20Safari/537.36&X-Plex-Token=juEYgcpUC-q7ajXhXz--&X-Forwarded-For=185.236.200.172
 
