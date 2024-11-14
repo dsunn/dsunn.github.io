@@ -286,6 +286,10 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-66b4fcc2530e
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-66ad6025cb5d3b7fb5011c2d.m3u8?X-Plex-Token=_Jfp4czpi97uVq8dm3rr
 #EXTINF:-1 tvg-id="" tvg-name="CNN GO" tvg-logo="https://image.roku.com/developer_channels/prod/5d8308aa7b7b6b52f20bb361826fe62092bac1e4181d0df0f26c08a8f71b9c5e.png" group-title="外国",CNN GO
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 channel-id="samsung-GBBD8000016N" tvg-id="GBBD8000016N" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD8000016N_20241106T143041SQUARE.png" group-title="News" tvg-chno="4005",CNN
+https://jmp2.uk/sam-GBBD8000016N.m3u8
+#EXTINF:-1 channel-id="samsung-GBBD1900008O3" tvg-id="GBBD1900008O3" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD1900008O3_20240827T040502SQUARE.png" group-title="外国" tvg-chno="4312",CNN FAST
+https://jmp2.uk/sam-GBBD1900008O3.m3u8
 #EXTINF:-1 tvg-id="USBB52000022Q" tvg-name="Sky News" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB52000022Q_20230509T224438SQUARE.png_20230509224439.png" group-title="外国",Sky News
 https://jmp2.uk/sam-USBB52000022Q.m3u8
 # https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_us_skynewsamericas_001.m3u8?ads.caid=nbcuskynews&ads.csid=samsungtvplus_us_nbcuskynews_ssai&ads.xumo_platform=samsung&ads._fw_is_lat=%7BTARGETOPT%7D&ads._fw_us_privacy=1YNY&ads._fw_coppa=0&ads._fw_did=%7BPSID%7D&ads._fw_content_category=IAB12&ads._fw_content_genre=News&ads._fw_content_language=en&ads._fw_content_rating=tv-g&ads._fw_deviceMake=samsung&ads._fw_gdpr=0&ads._fw_h_x_country=US&ads.appName=%7BAPP_NAME%7D&ads.xumo_contentId=3455&ads.xumo_contentName=skynews&ads.xumo_providerI
@@ -295,6 +299,8 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5fc6f3a62b6f
 https://jmp2.uk/sam-USBB2200014DK.m3u8
 #EXTINF:-1 tvg-id="USBC3200005A0" tvg-name="NBC Bay Area News" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3200005A0_20230222T041423SQUARE.png_20230222041424.png" group-title="外国",NBC Bay Area News
 https://jmp2.uk/sam-USBC3200005A0.m3u8
+#EXTINF:-1 channel-id="samsung-GBBD3600001NO" tvg-id="GBBD3600001NO" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD3600001NO_20231115T012330SQUARE.png_20231115012330.png" group-title="News" tvg-chno="4310",CNBC
+https://jmp2.uk/sam-GBBD3600001NO.m3u8
 #EXTINF:-1 channel-id="samsung-USBD2700019N0" tvg-id="USBD2700019N0" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD2700019N0_20240520T223334SQUARE.png" tvg-chno="1125" group-title="外国" , FOX 2 San Francisco
 https://jmp2.uk/sam-USBD2700019N0.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/1JnyzHv.png" group-title="外国",Fox News Now
@@ -325,8 +331,12 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5f170f01b898
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:-1 tvg-id=""France24English.fr"" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/B76eSg2.png"" group-title="外国", France24 English
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV38.m3u8
+#EXTINF:-1 channel-id="samsung-GBBD1100002L5" tvg-id="GBBD1100002L5" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD1100002L5_20230823T033121SQUARE.png_20230823033121.png" group-title="News" tvg-chno="4314",FRANCE 24 FAST
+https://jmp2.uk/sam-GBBD1100002L5.m3u8
 #EXTINF:-1 tvg-id="5ca1da6c593a5d78f0e7edce" tvg-name="Euronews" tvg-logo="https://images.pluto.tv/channels/5ca1da6c593a5d78f0e7edce/colorLogoPNG.png" group-title="外国",Euronews
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-60089d90f682a3002c348299.m3u8?X-Plex-Token=gxRh8ySq2LAZPDMpDxne
+#EXTINF:-1 channel-id="samsung-GBAJ4900020VP" tvg-id="GBAJ4900020VP" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBAJ4900020VP_20230222T011312SQUARE.png_20230222011313.png" group-title="外国" tvg-chno="4003",Euronews Live
+https://jmp2.uk/sam-GBAJ4900020VP.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/mhhVQE6.png" group-title="外国",Global News (720p)
 https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8
 #EXTINF:-1 tvg-id="USBC4400003OU" tvg-chno="1014" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC4400003OU_20230627T214948SQUARE.png_20230627214949.png" group-title="外国" , CBC News International
