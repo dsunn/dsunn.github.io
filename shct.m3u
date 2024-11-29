@@ -313,7 +313,7 @@ http://192.168.10.195:4022/udp/239.45.1.48:5140
 http://192.168.10.195:4022/udp/239.45.3.43:5140
 #EXTINF:-1 tvg-id="6623" tvg-name="财富天下" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/财富天下.png" group-title="地方",财富天下
 http://192.168.10.195:4022/udp/239.45.0.7:5140
-#EXTINF:-1 tvg-id="7245" tvg-name="中国天气" tvg-logo="" group-title="地方",中国天气
+#EXTINF:-1 tvg-id="7245" tvg-name="中国天气" tvg-logo="https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9B%BD%E5%A4%A9%E6%B0%94%E9%A2%91%E9%81%93#/media/File:CHINA_WEATHER_TV_LOGO.png" group-title="地方",中国天气
 http://192.168.10.195:4022/udp/239.45.3.141:5140
 
 #未分类
