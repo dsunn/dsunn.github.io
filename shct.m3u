@@ -313,6 +313,8 @@ http://192.168.10.195:4022/udp/239.45.1.48:5140
 http://192.168.10.195:4022/udp/239.45.3.43:5140
 #EXTINF:-1 tvg-id="6623" tvg-name="财富天下" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/财富天下.png" group-title="地方",财富天下
 http://192.168.10.195:4022/udp/239.45.0.7:5140
+#EXTINF:-1 tvg-id="7245" tvg-name="中国天气" tvg-logo="" group-title="地方",中国天气
+http://192.168.10.195:4022/udp/239.45.3.141:5140
 
 #未分类
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",高清导视频道
