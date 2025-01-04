@@ -8,11 +8,11 @@ http://192.168.10.195:4022/udp/239.45.3.236:5140
 #EXTINF:-1 tvg-id="1986" tvg-name="东方影视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Shanghai3.png" group-title="上海",东方影视
 http://192.168.10.195:4022/udp/239.45.3.237:5140
 #EXTINF:-1 tvg-id="1988" tvg-name="上海纪实" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/jsrw.png" group-title="上海",纪实人文
-http://192.168.10.195:4022/udp/239.45.3.212:5140
+# http://192.168.10.195:4022/udp/239.45.3.212:5140
 #EXTINF:-1 tvg-id="1985" tvg-name="第一财经" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/dycj.png" group-title="上海",第一财经
 http://192.168.10.195:4022/udp/239.45.3.211:5140
 #EXTINF:-1 tvg-id="1991" tvg-name="上视外语频道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Shanghai4.png" group-title="上海", 外语频道
-http://192.168.10.195:4022/udp/239.45.1.127:5140
+# http://192.168.10.195:4022/udp/239.45.1.127:5140
 #EXTINF:-1 tvg-id="1981" tvg-name="生活时尚" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/shss.png" group-title="上海",生活时尚
 http://192.168.10.195:4022/udp/239.45.3.132:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/fztd.png" group-title="上海",法治天地
@@ -34,7 +34,7 @@ http://192.168.10.195:4022/udp/239.45.3.49:5140
 #EXTINF:-1 tvg-id="1983" tvg-name="游戏风云" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youxifengyun.png" group-title="上海",游戏风云
 http://192.168.10.195:4022/udp/239.45.3.131:5140
 #EXTINF:-1 tvg-id="1956" tvg-name="七彩戏剧" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/qcxj.png" group-title="上海",七彩戏剧 
-http://192.168.10.195:4022/udp/239.45.0.16:5140
+# http://192.168.10.195:4022/udp/239.45.0.16:5140
 #EXTINF:-1 tvg-id="1976" tvg-name="全纪实" tvg-logo="https://raw.githubusercontent.com/dsunn/dsunn.github.io/master/logo/lypd.png" group-title="上海",乐游
 http://192.168.10.195:4022/udp/239.45.3.135:5140
 
