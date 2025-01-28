@@ -5,40 +5,50 @@
 
 #上海
 
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视",CCTV1
-http://115.149.139.141:10000/tsfile/live/1004_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="央视",CCTV2
-http://115.149.139.141:10000/tsfile/live/1005_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="央视",CCTV3
-http://115.149.139.141:10000/tsfile/live/1002_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="央视",CCTV4
-http://115.149.139.141:10000/tsfile/live/1003_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="央视",CCTV5
-http://115.149.139.141:10000/tsfile/live/1006_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="央视",CCTV6
-http://115.149.139.141:10000/tsfile/live/1007_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="央视",CCTV7
-http://115.149.139.141:10000/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" group-title="央视",CCTV8
-http://115.149.139.141:10000/tsfile/live/1009_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png" group-title="央视",CCTV9
-http://115.149.139.141:10000/tsfile/live/1010_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://live.fanmingming.com/tv/CCTV10.png" group-title="央视",CCTV10
-http://115.149.139.141:10000/tsfile/live/1011_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://live.fanmingming.com/tv/CCTV11.png" group-title="央视",CCTV11
-http://115.149.139.141:10000/tsfile/live/1012_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png" group-title="央视",CCTV12
-http://115.149.139.141:10000/tsfile/live/1013_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="央视",CCTV13
-http://115.149.139.141:10000/tsfile/live/1014_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png" group-title="央视",CCTV14
-http://115.149.139.141:10000/tsfile/live/1015_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png" group-title="央视",CCTV15
-http://115.149.139.141:10000/tsfile/live/1016_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="央视",CCTV16
-http://148.135.93.213:81/live.php?id=CCTV16
-#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="央视",CCTV17
-http://148.135.93.213:81/live.php?id=CCTV17
+#EXTINF:-1,tvg-id="CCTV1综合" tvg-name="CCTV1综合" tvg-logo="https://epg.v1.mk/logo/CCTV1综合.png" group-title="央视",cctv1综合
+https://wyzy.online:55734/allinone/migu/608807420.m3u8?migutoken=3f3fe888074ad7042b139cb104da3fdf59eb80e32031332c2448f9a923db13d036f731e40bb8ece452a3fdf3314f7b64cb4bae1ab618cd2165667483ef27e37909fbd05b60d751a3ebaa9dd31e
+#EXTINF:-1,tvg-id="CCTV2财经" tvg-name="CCTV2财经" tvg-logo="https://epg.v1.mk/logo/CCTV2财经.png" group-title="央视",cctv2财经
+https://wyzy.online:55734/allinone/migu/631780532.m3u8?migutoken=a3c7843dad3fb84abd7db904fad4299f0cdd6ddc53f3fe4b89e40767bd480e3249ea86b1baefb98c761fe3f6832305a65f2da89165522b9c75f003adb8e379817c967e97f7f6d98a5ad0b5e561
+#EXTINF:-1,tvg-id="CCTV3综艺" tvg-name="CCTV3综艺" tvg-logo="https://epg.v1.mk/logo/CCTV3综艺.png" group-title="央视",cctv3综艺
+https://wyzy.online:55734/allinone/migu/624878271.m3u8?migutoken=c5fff2806e432e42a943c50448b8154d02191d2bfa260011f7c9c42c8604c73eead79f0c4f3288be3a0f07d52800839313373b834a287722a95439f70bcc798ad9704bf62f8ed5c7799136ef1f
+#EXTINF:-1,tvg-id="CCTV4中文国际" tvg-name="CCTV4中文国际" tvg-logo="https://epg.v1.mk/logo/CCTV4中文国际.png" group-title="央视",cctv4中文国际
+https://wyzy.online:55734/allinone/migu/631780421.m3u8?migutoken=f2ca886348495f562bcb43a255341b04caec489faf3fa74930f9cfca50a7107bc993edb66d6d45c3f5f413cf47a28499215a815f3389076ad3f6dba51066c3dd257bea4f3a44032dc056bd6a0d
+#EXTINF:-1,tvg-id="CCTV5体育" tvg-name="CCTV5体育" tvg-logo="https://epg.v1.mk/logo/CCTV5体育.png" group-title="央视",cctv5体育
+https://wyzy.online:55734/allinone/migu/641886683.m3u8?migutoken=3f61669137dd9271298d9f2d1899757c52c319fcd76246bffbe2bcf044f07663509b27207a88b408910a1fc9e5196fb11f9df492696ebc3dc9f3fedfe4bbddc1bc6d6681e722311484f88f7ec3
+#EXTINF:-1,tvg-id="CCTV5+体育赛事" tvg-name="CCTV5+体育赛事" tvg-logo="https://epg.v1.mk/logo/CCTV5+体育赛事.png" group-title="央视",cctv5+体育赛事
+https://wyzy.online:55734/allinone/migu/641886773.m3u8?migutoken=a92c85907ac25cbd4f963557553d36f53e456a5c94f312412d67251c36058d49a206c4ee1b6c2a09f1ba104dbb312a5de1e626316dfa8827a50edcbecf0a1192024a01485dc5735fa6095bb00b
+#EXTINF:-1,tvg-id="CCTV6电影" tvg-name="CCTV6电影" tvg-logo="https://epg.v1.mk/logo/CCTV6电影.png" group-title="央视",cctv6电影
+https://wyzy.online:55734/allinone/migu/624878396.m3u8?migutoken=5e952b234b86af47f4a9740e1746ff193d1f0d246d257e6049424871f6c4e96f321ca7b4bcc62f1c3487f438904564f4b3b82f48ec23187c618f489b70cfd5dcb23d780aed13538eeb1b0bf779
+#EXTINF:-1,tvg-id="CCTV7国防军事" tvg-name="CCTV7国防军事" tvg-logo="https://epg.v1.mk/logo/CCTV7国防军事.png" group-title="央视",cctv7国防军事
+https://wyzy.online:55734/allinone/migu/673168121.m3u8?migutoken=d241c72e0abaf706b883a48753858a74a839f7df4c4e9b7486b1da977c876f8047334f101d9c67816043359e34d4ac94f72e07744e1299507b1187882bea374ac7a574e3c8e847d8d87fe9cc74
+#EXTINF:-1,tvg-id="CCTV8电视剧" tvg-name="CCTV8电视剧" tvg-logo="https://epg.v1.mk/logo/CCTV8电视剧.png" group-title="央视",cctv8电视剧
+https://wyzy.online:55734/allinone/migu/624878356.m3u8?migutoken=3392f18b17b5af7071a415425fec4905e58467df2617bc818c1ef11f9f91104da70da5cd3fd108fe216a6acab3dc3c91475406eedd564c47fddd506796ae7d811e11ee339269cc69422a61e5de
+#EXTINF:-1,tvg-id="CCTV9纪录" tvg-name="CCTV9纪录" tvg-logo="https://epg.v1.mk/logo/CCTV9纪录.png" group-title="央视",cctv9纪录
+https://wyzy.online:55734/allinone/migu/673168140.m3u8?migutoken=a6c69950a16638304078d7d3cc2cf2a094afcb4072ec2c6cee6f220a2c6d8c41f1bd688bae7ef9ed7772b867c9acd7bec5ebfafd02d0dc111a533c7067bc87e684bc00a754050da19d5def43ee
+#EXTINF:-1,tvg-id="CCTV10科教" tvg-name="CCTV10科教" tvg-logo="https://epg.v1.mk/logo/CCTV10科教.png" group-title="央视",cctv10科教
+https://wyzy.online:55734/allinone/migu/624878405.m3u8?migutoken=546beedb25a118c730c6882dde9e627b86019e8fa053786ab2d5fd1d0ad615024abdfb0797f607718467bf5503f78749a5df23439e2a18cd134c2e1e9d19853f271295340112663be12c1b69ef
+#EXTINF:-1,tvg-id="CCTV11戏曲" tvg-name="CCTV11戏曲" tvg-logo="https://epg.v1.mk/logo/CCTV11戏曲.png" group-title="央视",cctv11戏曲
+https://wyzy.online:55734/allinone/migu/667987558.m3u8?migutoken=71031ec6292d520e772360e7b5ae46dbfd49b04a95d3f5777002d61b3b57f718bc306c52d66fd63253005e1d90baacd3932d922ed6d5f730ef78b36a1c7495da5cac88de56367dbf5720daa40a
+#EXTINF:-1,tvg-id="CCTV12社会与法" tvg-name="CCTV12社会与法" tvg-logo="https://epg.v1.mk/logo/CCTV12社会与法.png" group-title="央视",cctv12社会与法
+https://wyzy.online:55734/allinone/migu/673168185.m3u8?migutoken=e3f0dd68a5ae0a89b7307ecbf69711dda2625c6725adc21e97e22736f7f96b8ba231315b7284a70f2fb6e27105bc479b11d6ec0bb038d000b696cd2244a903cb100adc230a957f38f1b1072159
+#EXTINF:-1,tvg-id="CCTV13新闻" tvg-name="CCTV13新闻" tvg-logo="https://epg.v1.mk/logo/CCTV13新闻.png" group-title="央视",cctv13新闻
+https://wyzy.online:55734/allinone/migu/608807423.m3u8?migutoken=878d5fc30a48b30b5ea831c487a6a0c959533424b395ca025c1f29cb6742e627274110403da83c3088519ee14df2e312ae86d12fb7fa58b38975dc7c51a599c39470ade6d30c2acd0cf1d6a73d
+#EXTINF:-1,tvg-id="CCTV14少儿" tvg-name="CCTV14少儿" tvg-logo="https://epg.v1.mk/logo/CCTV14少儿.png" group-title="央视",cctv14少儿
+https://wyzy.online:55734/allinone/migu/624878440.m3u8?migutoken=86c7fe78691ceea36920d2c0ed8e704f9f9f397a29d80669d7cf3500eb75f973571317e47c3ad30d3bd22591827fbc490c929d04816f0b1c8fae71b3b1df8413dd3338ca6754506897e2051b42
+#EXTINF:-1,tvg-id="CCTV15音乐" tvg-name="CCTV15音乐" tvg-logo="https://epg.v1.mk/logo/CCTV15音乐.png" group-title="央视",cctv15音乐
+https://wyzy.online:55734/allinone/migu/673168223.m3u8?migutoken=263c7abb3fd20ead8676f7d31e488ebdea9115b8a7b5bb5c4231ad9fc0b86946a10616d0e2f29c07105cfd38ffa384fdcc01224c75909b18e162383b7af9402ae1f3eee44c1326aa11a228a3f8
+#EXTINF:-1,tvg-id="CCTV17农业农村" tvg-name="CCTV17农业农村" tvg-logo="https://epg.v1.mk/logo/CCTV17农业农村.png" group-title="央视",cctv17农业农村
+https://wyzy.online:55734/allinone/migu/673168256.m3u8?migutoken=5838a9a2d53fdbd5234edefff70435e2dd12b1b4015485cc7d6a67ffb501edfd845953f34c0846b0a8bdf2d360c9669d01bf4fccd63ed1cfaa4427c397013060e931977929e6c1a3242e0b9c7f
+#EXTINF:-1,tvg-id="CCTV4欧洲" tvg-name="CCTV4欧洲" tvg-logo="https://epg.v1.mk/logo/CCTV4欧洲.png" group-title="央视",cctv4欧洲
+https://wyzy.online:55734/allinone/migu/608807419.m3u8?migutoken=0307110e4cf287b250605b1039f2f7020d3b5d36f69b3cfab3a93aaa2b9411277da318e01507ae8c436e5a03bb5d2cec5a0e5c5917358aa882ba8d0c7d72014ae8853980c6b79a32ceca5a508b
+#EXTINF:-1,tvg-id="CCTV4美洲" tvg-name="CCTV4美洲" tvg-logo="https://epg.v1.mk/logo/CCTV4美洲.png" group-title="央视",cctv4美洲
+https://wyzy.online:55734/allinone/migu/608807416.m3u8?migutoken=5379fc4b49e4a79e7f0f45886743ebea55123235e57bd6bff476813784da2883e61c7c0a1d421440f241b58311f8f03dd38752886770281a9326cc5cae85c575af62012d9236eaee7532ef15f4
+#EXTINF:-1,tvg-id="CETV1" tvg-name="CETV1" tvg-logo="https://epg.v1.mk/logo/CETV1.png" group-title="央视",cetv1
+https://wyzy.online:55734/allinone/migu/923287154.m3u8?migutoken=fca80a3ac5e5c65e9c8c93d1d6544a13dfff00765b73506892ff083483493b79c318d50802be61c75c97133cb2312ca472d73cc771355eb358b15f3b50fab935270b26d0c9a10c67004a006691
+#EXTINF:-1,tvg-id="CETV2" tvg-name="CETV2" tvg-logo="https://epg.v1.mk/logo/CETV2.png" group-title="央视",cetv2
+https://wyzy.online:55734/allinone/migu/923287211.m3u8?migutoken=e7f56b78b23a17ea6d4640a11cdda0745087a46d229ddff125a838e7304edb5c7cd58131cb89f71464d98268c81420e809405e508da8cc5e14d96da3e070a414f6f96a0fa876675587ed275113
+#EXTINF:-1,tvg-id="CETV4" tvg-name="CETV4" tvg-logo="https://epg.v1.mk/logo/CETV4.png" group-title="央视",cetv4
+https://wyzy.online:55734/allinone/migu/923287339.m3u8?migutoken=4236cfdfdfb11dc50f5373b93b3b0fee536cab054047230f167b2bfe89927b5d59b87250e828b2d404c0a7714542f77b74bba8ec33c29dcaf2aed0f7ca64e70dd98aab26fb4c9f6d0402cc038d
 
 
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://live.fanmingming.cn/tv/北京卫视.png" group-title="卫视",北京卫视
