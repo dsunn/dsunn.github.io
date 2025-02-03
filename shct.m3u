@@ -37,6 +37,8 @@ http://192.168.10.195:4022/udp/239.45.3.131:5140
 # http://192.168.10.195:4022/udp/239.45.0.16:5140
 #EXTINF:-1 tvg-id="1976" tvg-name="全纪实" tvg-logo="https://raw.githubusercontent.com/dsunn/dsunn.github.io/master/logo/lypd.png" group-title="上海",乐游
 http://192.168.10.195:4022/udp/239.45.3.135:5140
+#EXTINF:-1 tvg-id="-1" tvg-name="健康养生" tvg-logo="https://live.fanmingming.cn/tv/健康养生.png" group-title="上海",健康养生
+http://192.168.10.195:4022/udp/239.45.1.28:5140
 
 
 #央视
@@ -80,6 +82,8 @@ http://192.168.10.195:4022/udp/239.45.0.12:5140
 http://192.168.10.195:4022/udp/239.45.3.52:5140
 #EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV4K.png" group-title="央视",CCTV-4K 超高清
 http://192.168.10.195:4022/udp/239.45.1.21:5140
+#EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV4K.png" group-title="央视",CCTV-4K 超高清
+http://192.168.10.195:4022/udp239.45.0.55:5140
 
 #央视普清
 # #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视普清",CCTV-1
@@ -142,6 +146,8 @@ http://192.168.10.195:4022/udp/239.45.0.52:5140
 http://192.168.10.195:4022/udp/239.45.0.53:5140
 #EXTINF:-1 tvg-id="电视指南" tvg-name="电视指南" tvg-logo="https://live.fanmingming.com/tv/电视指南.png" group-title="央视频",电视指南
 http://192.168.10.195:4022/udp/239.45.1.73:5140
+#EXTINF:-1 tvg-id="147" tvg-name="央视文化精品" tvg-logo="https://live.fanmingming.cn/tv/文化精品.png" group-title="央视",央视文化精品
+http://192.168.10.195:4022/udp/239.45.0.53:5140
 
 #卫视
 #EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="卫视",东方卫视
@@ -317,7 +323,7 @@ http://192.168.10.195:4022/udp/239.45.0.7:5140
 http://192.168.10.195:4022/udp/239.45.3.141:5140
 
 #未分类
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",高清导视频道
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/dsunn/dsunn.github.io/master/logo/bestv.png" group-title="未分类",高清导视频道
 http://192.168.10.195:4022/udp/239.45.3.240:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/1e/92/6e/1e926edb-ed38-9a3c-9733-65c84269a342/source/512x512bb.jpg" group-title="未分类",足球频道
 http://192.168.10.195:4022/udp/239.45.3.22:5140
