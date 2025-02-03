@@ -83,7 +83,7 @@ http://192.168.10.195:4022/udp/239.45.3.52:5140
 #EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV4K.png" group-title="央视",CCTV-4K 超高清
 http://192.168.10.195:4022/udp/239.45.1.21:5140
 #EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV4K.png" group-title="央视",CCTV-4K 超高清
-http://192.168.10.195:4022/udp239.45.0.55:5140
+http://192.168.10.195:4022/udp/239.45.0.55:5140
 
 #央视普清
 # #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视普清",CCTV-1
