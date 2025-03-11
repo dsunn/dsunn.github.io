@@ -288,3 +288,472 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-618198fe4e1b
 #IHOT
 
 #咪咕直播
+
+#EXTINF:-1,tvg-name="咪咕全民热练" group-title="咪咕", 咪咕全民热练
+http://209.17.118.147:50001/TVOD/1000000006000270007/ystenlive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕全民热练" group-title="咪咕", 咪咕全民热练
+http://107.173.148.8:50001/TVOD/1000000006000270007/ystenlive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕全民热练" group-title="咪咕", 咪咕全民热练
+http://152.67.198.214:50001/TVOD/1000000006000270007/ystenlive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕全民热练" group-title="咪咕", 咪咕全民热练
+http://45.8.113.249:50001/TVOD/1000000006000270007/ystenlive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕全民热练" group-title="咪咕", 咪咕全民热练
+http://104.168.123.140:50001/TVOD/1000000006000270007/ystenlive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕全民热练" group-title="咪咕", 咪咕全民热练
+http://146.235.222.181:50001/TVOD/1000000006000270007/ystenlive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://209.17.118.147:50001/TVOD/3000000020000011528/FifastbLive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://209.17.118.147:50001/TVOD/3000000020000011529/FifastbLive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://209.17.118.147:50001/TVOD/3000000020000011530/FifastbLive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://209.17.118.147:50001/TVOD/3000000020000011531/FifastbLive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://209.17.118.147:50001/TVOD/2000000003000000060/hnbblive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://209.17.118.147:50001/TVOD/2000000003000000061/hnbblive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://209.17.118.147:50001/TVOD/2000000003000000062/hnbblive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://209.17.118.147:50001/TVOD/2000000003000000063/hnbblive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://209.17.118.147:50001/TVOD/2000000003000000064/hnbblive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://209.17.118.147:50001/TVOD/2000000003000000065/hnbblive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://209.17.118.147:50001/TVOD/1000000006000270001/ystenlive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://209.17.118.147:50001/TVOD/1000000006000270002/ystenlive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://209.17.118.147:50001/TVOD/1000000006000270003/ystenlive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://209.17.118.147:50001/TVOD/1000000006000270004/ystenlive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://209.17.118.147:50001/TVOD/1000000006000270005/ystenlive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://209.17.118.147:50001/TVOD/1000000006000270006/ystenlive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://209.17.118.147:50001/TVOD/3000000010000000097/FifastbLive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://209.17.118.147:50001/TVOD/3000000010000002019/FifastbLive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://209.17.118.147:50001/TVOD/3000000010000002809/FifastbLive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://209.17.118.147:50001/TVOD/3000000010000003915/FifastbLive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://209.17.118.147:50001/TVOD/3000000010000004193/FifastbLive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://209.17.118.147:50001/TVOD/3000000010000006077/FifastbLive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://209.17.118.147:50001/TVOD/3000000010000006658/FifastbLive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://209.17.118.147:50001/TVOD/3000000010000009788/FifastbLive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://209.17.118.147:50001/TVOD/3000000010000010833/FifastbLive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://209.17.118.147:50001/TVOD/3000000010000011297/FifastbLive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://209.17.118.147:50001/TVOD/3000000010000011518/FifastbLive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://209.17.118.147:50001/TVOD/3000000010000012558/FifastbLive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://209.17.118.147:50001/TVOD/3000000010000012616/FifastbLive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://209.17.118.147:50001/TVOD/3000000010000015470/FifastbLive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://209.17.118.147:50001/TVOD/3000000010000015560/FifastbLive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://209.17.118.147:50001/TVOD/3000000010000017678/FifastbLive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://209.17.118.147:50001/TVOD/3000000010000019839/FifastbLive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://209.17.118.147:50001/TVOD/3000000010000021904/FifastbLive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://209.17.118.147:50001/TVOD/3000000010000023434/FifastbLive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://209.17.118.147:50001/TVOD/3000000010000025380/FifastbLive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://209.17.118.147:50001/TVOD/3000000010000027691/FifastbLive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://209.17.118.147:50001/TVOD/3000000010000031669/FifastbLive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://107.173.148.8:50001/TVOD/3000000020000011528/FifastbLive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://107.173.148.8:50001/TVOD/3000000020000011529/FifastbLive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://107.173.148.8:50001/TVOD/3000000020000011530/FifastbLive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://107.173.148.8:50001/TVOD/3000000020000011531/FifastbLive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://107.173.148.8:50001/TVOD/2000000003000000060/hnbblive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://107.173.148.8:50001/TVOD/2000000003000000061/hnbblive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://107.173.148.8:50001/TVOD/2000000003000000062/hnbblive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://107.173.148.8:50001/TVOD/2000000003000000063/hnbblive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://107.173.148.8:50001/TVOD/2000000003000000064/hnbblive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://107.173.148.8:50001/TVOD/2000000003000000065/hnbblive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://107.173.148.8:50001/TVOD/1000000006000270001/ystenlive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://107.173.148.8:50001/TVOD/1000000006000270002/ystenlive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://107.173.148.8:50001/TVOD/1000000006000270003/ystenlive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://107.173.148.8:50001/TVOD/1000000006000270004/ystenlive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://107.173.148.8:50001/TVOD/1000000006000270005/ystenlive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://107.173.148.8:50001/TVOD/1000000006000270006/ystenlive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://107.173.148.8:50001/TVOD/3000000010000000097/FifastbLive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://107.173.148.8:50001/TVOD/3000000010000002019/FifastbLive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://107.173.148.8:50001/TVOD/3000000010000002809/FifastbLive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://107.173.148.8:50001/TVOD/3000000010000003915/FifastbLive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://107.173.148.8:50001/TVOD/3000000010000004193/FifastbLive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://107.173.148.8:50001/TVOD/3000000010000006077/FifastbLive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://107.173.148.8:50001/TVOD/3000000010000006658/FifastbLive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://107.173.148.8:50001/TVOD/3000000010000009788/FifastbLive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://107.173.148.8:50001/TVOD/3000000010000010833/FifastbLive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://107.173.148.8:50001/TVOD/3000000010000011297/FifastbLive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://107.173.148.8:50001/TVOD/3000000010000011518/FifastbLive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://107.173.148.8:50001/TVOD/3000000010000012558/FifastbLive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://107.173.148.8:50001/TVOD/3000000010000012616/FifastbLive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://107.173.148.8:50001/TVOD/3000000010000015470/FifastbLive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://107.173.148.8:50001/TVOD/3000000010000015560/FifastbLive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://107.173.148.8:50001/TVOD/3000000010000017678/FifastbLive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://107.173.148.8:50001/TVOD/3000000010000019839/FifastbLive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://107.173.148.8:50001/TVOD/3000000010000021904/FifastbLive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://107.173.148.8:50001/TVOD/3000000010000023434/FifastbLive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://107.173.148.8:50001/TVOD/3000000010000025380/FifastbLive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://107.173.148.8:50001/TVOD/3000000010000027691/FifastbLive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://107.173.148.8:50001/TVOD/3000000010000031669/FifastbLive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://152.67.198.214:50001/TVOD/3000000020000011528/FifastbLive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://152.67.198.214:50001/TVOD/3000000020000011529/FifastbLive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://152.67.198.214:50001/TVOD/3000000020000011530/FifastbLive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://152.67.198.214:50001/TVOD/3000000020000011531/FifastbLive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://152.67.198.214:50001/TVOD/2000000003000000060/hnbblive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://152.67.198.214:50001/TVOD/2000000003000000061/hnbblive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://152.67.198.214:50001/TVOD/2000000003000000062/hnbblive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://152.67.198.214:50001/TVOD/2000000003000000063/hnbblive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://152.67.198.214:50001/TVOD/2000000003000000064/hnbblive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://152.67.198.214:50001/TVOD/2000000003000000065/hnbblive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://152.67.198.214:50001/TVOD/1000000006000270001/ystenlive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://152.67.198.214:50001/TVOD/1000000006000270002/ystenlive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://152.67.198.214:50001/TVOD/1000000006000270003/ystenlive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://152.67.198.214:50001/TVOD/1000000006000270004/ystenlive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://152.67.198.214:50001/TVOD/1000000006000270005/ystenlive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://152.67.198.214:50001/TVOD/1000000006000270006/ystenlive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://152.67.198.214:50001/TVOD/3000000010000000097/FifastbLive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://152.67.198.214:50001/TVOD/3000000010000002019/FifastbLive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://152.67.198.214:50001/TVOD/3000000010000002809/FifastbLive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://152.67.198.214:50001/TVOD/3000000010000003915/FifastbLive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://152.67.198.214:50001/TVOD/3000000010000004193/FifastbLive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://152.67.198.214:50001/TVOD/3000000010000006077/FifastbLive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://152.67.198.214:50001/TVOD/3000000010000006658/FifastbLive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://152.67.198.214:50001/TVOD/3000000010000009788/FifastbLive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://152.67.198.214:50001/TVOD/3000000010000010833/FifastbLive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://152.67.198.214:50001/TVOD/3000000010000011297/FifastbLive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://152.67.198.214:50001/TVOD/3000000010000011518/FifastbLive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://152.67.198.214:50001/TVOD/3000000010000012558/FifastbLive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://152.67.198.214:50001/TVOD/3000000010000012616/FifastbLive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://152.67.198.214:50001/TVOD/3000000010000015470/FifastbLive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://152.67.198.214:50001/TVOD/3000000010000015560/FifastbLive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://152.67.198.214:50001/TVOD/3000000010000017678/FifastbLive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://152.67.198.214:50001/TVOD/3000000010000019839/FifastbLive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://152.67.198.214:50001/TVOD/3000000010000021904/FifastbLive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://152.67.198.214:50001/TVOD/3000000010000023434/FifastbLive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://152.67.198.214:50001/TVOD/3000000010000025380/FifastbLive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://152.67.198.214:50001/TVOD/3000000010000027691/FifastbLive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://152.67.198.214:50001/TVOD/3000000010000031669/FifastbLive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://45.8.113.249:50001/TVOD/3000000020000011528/FifastbLive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://45.8.113.249:50001/TVOD/3000000020000011529/FifastbLive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://45.8.113.249:50001/TVOD/3000000020000011530/FifastbLive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://45.8.113.249:50001/TVOD/3000000020000011531/FifastbLive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://45.8.113.249:50001/TVOD/2000000003000000060/hnbblive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://45.8.113.249:50001/TVOD/2000000003000000061/hnbblive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://45.8.113.249:50001/TVOD/2000000003000000062/hnbblive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://45.8.113.249:50001/TVOD/2000000003000000063/hnbblive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://45.8.113.249:50001/TVOD/2000000003000000064/hnbblive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://45.8.113.249:50001/TVOD/2000000003000000065/hnbblive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://45.8.113.249:50001/TVOD/1000000006000270001/ystenlive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://45.8.113.249:50001/TVOD/1000000006000270002/ystenlive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://45.8.113.249:50001/TVOD/1000000006000270003/ystenlive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://45.8.113.249:50001/TVOD/1000000006000270004/ystenlive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://45.8.113.249:50001/TVOD/1000000006000270005/ystenlive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://45.8.113.249:50001/TVOD/1000000006000270006/ystenlive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://45.8.113.249:50001/TVOD/3000000010000000097/FifastbLive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://45.8.113.249:50001/TVOD/3000000010000002019/FifastbLive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://45.8.113.249:50001/TVOD/3000000010000002809/FifastbLive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://45.8.113.249:50001/TVOD/3000000010000003915/FifastbLive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://45.8.113.249:50001/TVOD/3000000010000004193/FifastbLive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://45.8.113.249:50001/TVOD/3000000010000006077/FifastbLive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://45.8.113.249:50001/TVOD/3000000010000006658/FifastbLive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://45.8.113.249:50001/TVOD/3000000010000009788/FifastbLive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://45.8.113.249:50001/TVOD/3000000010000010833/FifastbLive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://45.8.113.249:50001/TVOD/3000000010000011297/FifastbLive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://45.8.113.249:50001/TVOD/3000000010000011518/FifastbLive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://45.8.113.249:50001/TVOD/3000000010000012558/FifastbLive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://45.8.113.249:50001/TVOD/3000000010000012616/FifastbLive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://45.8.113.249:50001/TVOD/3000000010000015470/FifastbLive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://45.8.113.249:50001/TVOD/3000000010000015560/FifastbLive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://45.8.113.249:50001/TVOD/3000000010000017678/FifastbLive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://45.8.113.249:50001/TVOD/3000000010000019839/FifastbLive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://45.8.113.249:50001/TVOD/3000000010000021904/FifastbLive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://45.8.113.249:50001/TVOD/3000000010000023434/FifastbLive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://45.8.113.249:50001/TVOD/3000000010000025380/FifastbLive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://45.8.113.249:50001/TVOD/3000000010000027691/FifastbLive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://45.8.113.249:50001/TVOD/3000000010000031669/FifastbLive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://104.168.123.140:50001/TVOD/3000000020000011528/FifastbLive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://104.168.123.140:50001/TVOD/3000000020000011529/FifastbLive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://104.168.123.140:50001/TVOD/3000000020000011530/FifastbLive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://104.168.123.140:50001/TVOD/3000000020000011531/FifastbLive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://104.168.123.140:50001/TVOD/2000000003000000060/hnbblive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://104.168.123.140:50001/TVOD/2000000003000000061/hnbblive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://104.168.123.140:50001/TVOD/2000000003000000062/hnbblive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://104.168.123.140:50001/TVOD/2000000003000000063/hnbblive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://104.168.123.140:50001/TVOD/2000000003000000064/hnbblive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://104.168.123.140:50001/TVOD/2000000003000000065/hnbblive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://104.168.123.140:50001/TVOD/1000000006000270001/ystenlive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://104.168.123.140:50001/TVOD/1000000006000270002/ystenlive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://104.168.123.140:50001/TVOD/1000000006000270003/ystenlive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://104.168.123.140:50001/TVOD/1000000006000270004/ystenlive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://104.168.123.140:50001/TVOD/1000000006000270005/ystenlive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://104.168.123.140:50001/TVOD/1000000006000270006/ystenlive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://104.168.123.140:50001/TVOD/3000000010000000097/FifastbLive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://104.168.123.140:50001/TVOD/3000000010000002019/FifastbLive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://104.168.123.140:50001/TVOD/3000000010000002809/FifastbLive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://104.168.123.140:50001/TVOD/3000000010000003915/FifastbLive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://104.168.123.140:50001/TVOD/3000000010000004193/FifastbLive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://104.168.123.140:50001/TVOD/3000000010000006077/FifastbLive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://104.168.123.140:50001/TVOD/3000000010000006658/FifastbLive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://104.168.123.140:50001/TVOD/3000000010000009788/FifastbLive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://104.168.123.140:50001/TVOD/3000000010000010833/FifastbLive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://104.168.123.140:50001/TVOD/3000000010000011297/FifastbLive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://104.168.123.140:50001/TVOD/3000000010000011518/FifastbLive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://104.168.123.140:50001/TVOD/3000000010000012558/FifastbLive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://104.168.123.140:50001/TVOD/3000000010000012616/FifastbLive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://104.168.123.140:50001/TVOD/3000000010000015470/FifastbLive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://104.168.123.140:50001/TVOD/3000000010000015560/FifastbLive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://104.168.123.140:50001/TVOD/3000000010000017678/FifastbLive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://104.168.123.140:50001/TVOD/3000000010000019839/FifastbLive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://104.168.123.140:50001/TVOD/3000000010000021904/FifastbLive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://104.168.123.140:50001/TVOD/3000000010000023434/FifastbLive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://104.168.123.140:50001/TVOD/3000000010000025380/FifastbLive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://104.168.123.140:50001/TVOD/3000000010000027691/FifastbLive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://104.168.123.140:50001/TVOD/3000000010000031669/FifastbLive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://146.235.222.181:50001/TVOD/3000000020000011528/FifastbLive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://146.235.222.181:50001/TVOD/3000000020000011529/FifastbLive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://146.235.222.181:50001/TVOD/3000000020000011530/FifastbLive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://146.235.222.181:50001/TVOD/3000000020000011531/FifastbLive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://146.235.222.181:50001/TVOD/2000000003000000060/hnbblive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://146.235.222.181:50001/TVOD/2000000003000000061/hnbblive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://146.235.222.181:50001/TVOD/2000000003000000062/hnbblive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://146.235.222.181:50001/TVOD/2000000003000000063/hnbblive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://146.235.222.181:50001/TVOD/2000000003000000064/hnbblive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://146.235.222.181:50001/TVOD/2000000003000000065/hnbblive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://146.235.222.181:50001/TVOD/1000000006000270001/ystenlive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://146.235.222.181:50001/TVOD/1000000006000270002/ystenlive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://146.235.222.181:50001/TVOD/1000000006000270003/ystenlive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://146.235.222.181:50001/TVOD/1000000006000270004/ystenlive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://146.235.222.181:50001/TVOD/1000000006000270005/ystenlive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://146.235.222.181:50001/TVOD/1000000006000270006/ystenlive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://146.235.222.181:50001/TVOD/3000000010000000097/FifastbLive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://146.235.222.181:50001/TVOD/3000000010000002019/FifastbLive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://146.235.222.181:50001/TVOD/3000000010000002809/FifastbLive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://146.235.222.181:50001/TVOD/3000000010000003915/FifastbLive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://146.235.222.181:50001/TVOD/3000000010000004193/FifastbLive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://146.235.222.181:50001/TVOD/3000000010000006077/FifastbLive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://146.235.222.181:50001/TVOD/3000000010000006658/FifastbLive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://146.235.222.181:50001/TVOD/3000000010000009788/FifastbLive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://146.235.222.181:50001/TVOD/3000000010000010833/FifastbLive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://146.235.222.181:50001/TVOD/3000000010000011297/FifastbLive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://146.235.222.181:50001/TVOD/3000000010000011518/FifastbLive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://146.235.222.181:50001/TVOD/3000000010000012558/FifastbLive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://146.235.222.181:50001/TVOD/3000000010000012616/FifastbLive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://146.235.222.181:50001/TVOD/3000000010000015470/FifastbLive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://146.235.222.181:50001/TVOD/3000000010000015560/FifastbLive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://146.235.222.181:50001/TVOD/3000000010000017678/FifastbLive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://146.235.222.181:50001/TVOD/3000000010000019839/FifastbLive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://146.235.222.181:50001/TVOD/3000000010000021904/FifastbLive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://146.235.222.181:50001/TVOD/3000000010000023434/FifastbLive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://146.235.222.181:50001/TVOD/3000000010000025380/FifastbLive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://146.235.222.181:50001/TVOD/3000000010000027691/FifastbLive/index.m3u8
+#EXTINF:-1,tvg-name="咪咕视频" group-title="咪咕", 咪咕视频
+http://146.235.222.181:50001/TVOD/3000000010000031669/FifastbLive/index.m3u8
