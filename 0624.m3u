@@ -168,7 +168,7 @@ http://[2409:8087:1:20:20::2a]/otttv.bj.chinamobile.com/PLTV/88888888/224/322122
 
 
 #外国
-#EXTINF:-1 tvg-id="7183" tvg-name="aljazeera" tvg-logo="https://static-s.aa-cdn.net/img/amazon/30600000516579/dbdb81e17aaf22b817a4b2af4fce5214?v=1" group-title="外国",Aljazeera
+#EXTINF:-1 tvg-id="7183" tvg-name="aljazeera" tvg-logo="https://www.aljazeera.com/static/media/aj-footer-logo.bac952ad.svg" group-title="外国",Aljazeera
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 tvg-id="664" tvg-name="BBCWorldNews" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BBCWORLDNEWSASIA.png" group-title="外国",BBC News
 https://jmp2.uk/sam-US4000033L.m3u8
