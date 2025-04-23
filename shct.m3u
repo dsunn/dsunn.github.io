@@ -1,4 +1,76 @@
 #EXTM3U x-tvg-url="https://e.erw.cc/e.xml,https://epg.112114.xyz/pp.xml,https://live.fanmingming.cn/e.xml,https://raw.githubusercontent.com/fanmingming/live/main/e.xml"
+#上海
+#EXTINF:-1  tvg-name="五星体育" tvg-logo="https://raw.githubusercontent.com/dsunn/dsunn.github.io/master/logo/Shanghai5.png" group-title="上海",五星体育
+http://192.168.10.195:4022/udp/233.18.204.58:5140
+#EXTINF:-1  tvg-name="五星体育" tvg-logo="https://raw.githubusercontent.com/dsunn/dsunn.github.io/master/logo/Shanghai5.png" group-title="上海",五星体育
+http://192.168.10.195:4022/udp/239.45.3.210:5140
+#EXTINF:-1  tvg-name="上海新闻综合" tvg-logo="https://live.fanmingming.cn/tv/上视新闻.png" group-title="上海",上海新闻综合
+http://192.168.10.195:4022/udp/233.18.204.57:5140
+#EXTINF:-1  tvg-name="上海新闻综合" tvg-logo="https://live.fanmingming.cn/tv/上视新闻.png" group-title="上海",上海新闻综合
+http://192.168.10.195:4022/udp/239.45.3.209:5140
+#EXTINF:-1  tvg-name="东方财经" tvg-logo="https://live.fanmingming.cn/tv/东方财经.png" group-title="上海",东方财经
+http://192.168.10.195:4022/udp/233.18.204.65:5140
+#EXTINF:-1  tvg-name="东方财经" tvg-logo="https://live.fanmingming.cn/tv/东方财经.png" group-title="上海",东方财经
+http://192.168.10.195:4022/udp/239.45.0.17:5140
+#EXTINF:-1  tvg-name="都市剧场" tvg-logo="https://live.fanmingming.cn/tv/都市剧场.png" group-title="上海",都市剧场
+http://192.168.10.195:4022/udp/233.18.204.48:5140
+#EXTINF:-1  tvg-name="乐游" tvg-logo="https://live.fanmingming.cn/tv/乐游.png" group-title="上海",乐游
+http://192.168.10.195:4022/udp/233.18.204.47:5140
+#EXTINF:-1  tvg-name="乐游" tvg-logo="https://live.fanmingming.cn/tv/乐游.png" group-title="上海",乐游
+http://192.168.10.195:4022/udp/239.45.3.135:5140
+#EXTINF:-1  tvg-name="欢笑剧场" tvg-logo="https://live.fanmingming.cn/tv/欢笑剧场.png" group-title="上海",欢笑剧场
+http://192.168.10.195:4022/udp/233.18.204.50:5140
+#EXTINF:-1  tvg-name="欢笑剧场" tvg-logo="https://live.fanmingming.cn/tv/欢笑剧场.png" group-title="上海",欢笑剧场
+http://192.168.10.195:4022/udp/233.18.204.115:5140
+#EXTINF:-1  tvg-name="欢笑剧场" tvg-logo="https://live.fanmingming.cn/tv/欢笑剧场.png" group-title="上海",欢笑剧场
+http://192.168.10.195:4022/udp/239.45.1.4:5140
+#EXTINF:-1  tvg-name="欢笑剧场" tvg-logo="https://live.fanmingming.cn/tv/欢笑剧场.png" group-title="上海",欢笑剧场
+http://192.168.10.195:4022/udp/239.45.3.196:5140
+#EXTINF:-1  tvg-name="欢笑剧场" tvg-logo="https://live.fanmingming.cn/tv/欢笑剧场.png" group-title="上海",欢笑剧场
+http://192.168.10.195:4022/udp/233.18.204.205:5140
+#EXTINF:-1  tvg-name="金色学堂" tvg-logo="https://live.fanmingming.cn/tv/金色学堂.png" group-title="上海",金色学堂
+http://192.168.10.195:4022/udp/233.18.204.66:5140
+#EXTINF:-1  tvg-name="金色学堂" tvg-logo="https://live.fanmingming.cn/tv/金色学堂.png" group-title="上海",金色学堂
+http://192.168.10.195:4022/udp/239.45.0.9:5140
+#EXTINF:-1  tvg-name="法治天地" tvg-logo="https://live.fanmingming.cn/tv/法治天地.png" group-title="上海",法治天地
+http://192.168.10.195:4022/udp/233.18.204.49:5140
+#EXTINF:-1  tvg-name="法治天地" tvg-logo="https://live.fanmingming.cn/tv/法治天地.png" group-title="上海",法治天地
+http://192.168.10.195:4022/udp/239.45.1.46:5140
+#EXTINF:-1  tvg-name="生活时尚" tvg-logo="https://live.fanmingming.cn/tv/生活时尚.png" group-title="上海",生活时尚
+http://192.168.10.195:4022/udp/233.18.204.45:5140
+#EXTINF:-1  tvg-name="生活时尚" tvg-logo="https://live.fanmingming.cn/tv/生活时尚.png" group-title="上海",生活时尚
+http://192.168.10.195:4022/udp/239.45.3.132:5140
+#EXTINF:-1  tvg-name="东方影视" tvg-logo="https://live.fanmingming.cn/tv/东方影视.png" group-title="上海",东方影视
+http://192.168.10.195:4022/udp/233.18.204.55:5140
+#EXTINF:-1  tvg-name="东方影视" tvg-logo="https://live.fanmingming.cn/tv/东方影视.png" group-title="上海",东方影视
+http://192.168.10.195:4022/udp/239.45.3.237:5140
+#EXTINF:-1  tvg-name="第一财经" tvg-logo="https://live.fanmingming.cn/tv/上海第一财经.png" group-title="上海",第一财经
+http://192.168.10.195:4022/udp/233.18.204.59:5140
+#EXTINF:-1  tvg-name="第一财经" tvg-logo="https://live.fanmingming.cn/tv/上海第一财经.png" group-title="上海",第一财经
+http://192.168.10.195:4022/udp/239.45.3.211:5140
+#EXTINF:-1  tvg-name="游戏风云" tvg-logo="https://live.fanmingming.cn/tv/游戏风云.png" group-title="上海",游戏风云
+http://192.168.10.195:4022/udp/233.18.204.44:5140
+#EXTINF:-1  tvg-name="游戏风云" tvg-logo="https://live.fanmingming.cn/tv/游戏风云.png" group-title="上海",游戏风云
+http://192.168.10.195:4022/udp/239.45.3.131:5140
+#EXTINF:-1  tvg-name="上海都市" tvg-logo="https://live.fanmingming.cn/tv/上海都市.png" group-title="上海",上海都市
+http://192.168.10.195:4022/udp/233.18.204.53:5140
+#EXTINF:-1  tvg-name="上海都市" tvg-logo="https://live.fanmingming.cn/tv/上海都市.png" group-title="上海",上海都市
+http://192.168.10.195:4022/udp/239.45.3.236:5140
+#EXTINF:-1  tvg-name="上海都市" tvg-logo="https://live.fanmingming.cn/tv/上海都市.png" group-title="上海",上海都市
+http://192.168.10.195:4022/udp/239.45.3.136:5140
+#EXTINF:-1  tvg-name="上海教育" tvg-logo="https://raw.githubusercontent.com/dsunn/dsunn.github.io/master/logo/Shanghai6.png" group-title="上海",上海教育
+http://192.168.10.195:4022/udp/233.18.204.63:5140
+#EXTINF:-1  tvg-name="上海教育" tvg-logo="https://raw.githubusercontent.com/dsunn/dsunn.github.io/master/logo/Shanghai6.png" group-title="上海",上海教育
+http://192.168.10.195:4022/udp/239.45.0.13:5140
+#EXTINF:-1 tvg-id="" tvg-name="健康养生" tvg-logo="https://live.fanmingming.cn/tv/健康养生.png" group-title="上海",健康养生
+http://192.168.10.195:4022/udp/239.45.1.28:5140
+#EXTINF:-1  tvg-name="东方卫视" tvg-logo="https://live.fanmingming.cn/tv/东方卫视.png" group-title="上海",东方卫视
+http://192.168.10.195:4022/udp/233.18.204.51:5140
+#EXTINF:-1  tvg-name="东方卫视" tvg-logo="https://live.fanmingming.cn/tv/东方卫视.png" group-title="上海",东方卫视
+http://192.168.10.195:4022/udp/239.45.3.146:5140
+#EXTINF:-1  tvg-name="东方卫视" tvg-logo="https://live.fanmingming.cn/tv/东方卫视.png" group-title="上海",东方卫视
+http://192.168.10.195:4022/udp/239.45.3.61:5140
+
 #央视
 #EXTINF:-1  tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="央视",CCTV-1
 http://192.168.10.195:4022/udp/233.18.204.52:5140
@@ -192,77 +264,6 @@ http://192.168.10.195:4022/udp/233.18.204.187:5140
 http://192.168.10.195:4022/udp/239.45.3.141:5140
 #EXTINF:-1  tvg-name="电视指南" tvg-logo="https://live.fanmingming.cn/tv/电视指南.png" group-title="央视",电视指南
 http://192.168.10.195:4022/udp/239.45.1.73:5140
-#上海
-#EXTINF:-1  tvg-name="东方卫视" tvg-logo="https://live.fanmingming.cn/tv/东方卫视.png" group-title="上海",东方卫视
-http://192.168.10.195:4022/udp/233.18.204.51:5140
-#EXTINF:-1  tvg-name="东方卫视" tvg-logo="https://live.fanmingming.cn/tv/东方卫视.png" group-title="上海",东方卫视
-http://192.168.10.195:4022/udp/239.45.3.146:5140
-#EXTINF:-1  tvg-name="东方卫视" tvg-logo="https://live.fanmingming.cn/tv/东方卫视.png" group-title="上海",东方卫视
-http://192.168.10.195:4022/udp/239.45.3.61:5140
-#EXTINF:-1  tvg-name="五星体育" tvg-logo="https://live.fanmingming.cn/tv/五星体育.png" group-title="上海",五星体育
-http://192.168.10.195:4022/udp/233.18.204.58:5140
-#EXTINF:-1  tvg-name="五星体育" tvg-logo="https://live.fanmingming.cn/tv/五星体育.png" group-title="上海",五星体育
-http://192.168.10.195:4022/udp/239.45.3.210:5140
-#EXTINF:-1  tvg-name="东方财经" tvg-logo="https://live.fanmingming.cn/tv/东方财经.png" group-title="上海",东方财经
-http://192.168.10.195:4022/udp/233.18.204.65:5140
-#EXTINF:-1  tvg-name="东方财经" tvg-logo="https://live.fanmingming.cn/tv/东方财经.png" group-title="上海",东方财经
-http://192.168.10.195:4022/udp/239.45.0.17:5140
-#EXTINF:-1  tvg-name="都市剧场" tvg-logo="https://live.fanmingming.cn/tv/都市剧场.png" group-title="上海",都市剧场
-http://192.168.10.195:4022/udp/233.18.204.48:5140
-#EXTINF:-1  tvg-name="乐游" tvg-logo="https://live.fanmingming.cn/tv/乐游.png" group-title="上海",乐游
-http://192.168.10.195:4022/udp/233.18.204.47:5140
-#EXTINF:-1  tvg-name="乐游" tvg-logo="https://live.fanmingming.cn/tv/乐游.png" group-title="上海",乐游
-http://192.168.10.195:4022/udp/239.45.3.135:5140
-#EXTINF:-1  tvg-name="欢笑剧场" tvg-logo="https://live.fanmingming.cn/tv/欢笑剧场.png" group-title="上海",欢笑剧场
-http://192.168.10.195:4022/udp/233.18.204.50:5140
-#EXTINF:-1  tvg-name="欢笑剧场" tvg-logo="https://live.fanmingming.cn/tv/欢笑剧场.png" group-title="上海",欢笑剧场
-http://192.168.10.195:4022/udp/233.18.204.115:5140
-#EXTINF:-1  tvg-name="欢笑剧场" tvg-logo="https://live.fanmingming.cn/tv/欢笑剧场.png" group-title="上海",欢笑剧场
-http://192.168.10.195:4022/udp/239.45.1.4:5140
-#EXTINF:-1  tvg-name="欢笑剧场" tvg-logo="https://live.fanmingming.cn/tv/欢笑剧场.png" group-title="上海",欢笑剧场
-http://192.168.10.195:4022/udp/239.45.3.196:5140
-#EXTINF:-1  tvg-name="欢笑剧场" tvg-logo="https://live.fanmingming.cn/tv/欢笑剧场.png" group-title="上海",欢笑剧场
-http://192.168.10.195:4022/udp/233.18.204.205:5140
-#EXTINF:-1  tvg-name="金色学堂" tvg-logo="https://live.fanmingming.cn/tv/金色学堂.png" group-title="上海",金色学堂
-http://192.168.10.195:4022/udp/233.18.204.66:5140
-#EXTINF:-1  tvg-name="金色学堂" tvg-logo="https://live.fanmingming.cn/tv/金色学堂.png" group-title="上海",金色学堂
-http://192.168.10.195:4022/udp/239.45.0.9:5140
-#EXTINF:-1  tvg-name="法治天地" tvg-logo="https://live.fanmingming.cn/tv/法治天地.png" group-title="上海",法治天地
-http://192.168.10.195:4022/udp/233.18.204.49:5140
-#EXTINF:-1  tvg-name="法治天地" tvg-logo="https://live.fanmingming.cn/tv/法治天地.png" group-title="上海",法治天地
-http://192.168.10.195:4022/udp/239.45.1.46:5140
-#EXTINF:-1  tvg-name="生活时尚" tvg-logo="https://live.fanmingming.cn/tv/生活时尚.png" group-title="上海",生活时尚
-http://192.168.10.195:4022/udp/233.18.204.45:5140
-#EXTINF:-1  tvg-name="生活时尚" tvg-logo="https://live.fanmingming.cn/tv/生活时尚.png" group-title="上海",生活时尚
-http://192.168.10.195:4022/udp/239.45.3.132:5140
-#EXTINF:-1  tvg-name="东方影视" tvg-logo="https://live.fanmingming.cn/tv/东方影视.png" group-title="上海",东方影视
-http://192.168.10.195:4022/udp/233.18.204.55:5140
-#EXTINF:-1  tvg-name="东方影视" tvg-logo="https://live.fanmingming.cn/tv/东方影视.png" group-title="上海",东方影视
-http://192.168.10.195:4022/udp/239.45.3.237:5140
-#EXTINF:-1  tvg-name="第一财经" tvg-logo="https://live.fanmingming.cn/tv/上海第一财经.png" group-title="上海",第一财经
-http://192.168.10.195:4022/udp/233.18.204.59:5140
-#EXTINF:-1  tvg-name="第一财经" tvg-logo="https://live.fanmingming.cn/tv/上海第一财经.png" group-title="上海",第一财经
-http://192.168.10.195:4022/udp/239.45.3.211:5140
-#EXTINF:-1  tvg-name="上视新闻" tvg-logo="https://live.fanmingming.cn/tv/上视新闻.png" group-title="上海",上海新闻综合
-http://192.168.10.195:4022/udp/233.18.204.57:5140
-#EXTINF:-1  tvg-name="上海新闻综合" tvg-logo="https://live.fanmingming.cn/tv/上视新闻.png" group-title="上海",上海新闻综合
-http://192.168.10.195:4022/udp/239.45.3.209:5140
-#EXTINF:-1  tvg-name="游戏风云" tvg-logo="https://live.fanmingming.cn/tv/游戏风云.png" group-title="上海",游戏风云
-http://192.168.10.195:4022/udp/233.18.204.44:5140
-#EXTINF:-1  tvg-name="游戏风云" tvg-logo="https://live.fanmingming.cn/tv/游戏风云.png" group-title="上海",游戏风云
-http://192.168.10.195:4022/udp/239.45.3.131:5140
-#EXTINF:-1  tvg-name="上海都市" tvg-logo="https://live.fanmingming.cn/tv/上海都市.png" group-title="上海",上海都市
-http://192.168.10.195:4022/udp/233.18.204.53:5140
-#EXTINF:-1  tvg-name="上海都市" tvg-logo="https://live.fanmingming.cn/tv/上海都市.png" group-title="上海",上海都市
-http://192.168.10.195:4022/udp/239.45.3.236:5140
-#EXTINF:-1  tvg-name="上海都市" tvg-logo="https://live.fanmingming.cn/tv/上海都市.png" group-title="上海",上海都市
-http://192.168.10.195:4022/udp/239.45.3.136:5140
-#EXTINF:-1  tvg-name="上海教育" tvg-logo="https://live.fanmingming.cn/tv/上海教育.png" group-title="上海",上海教育
-http://192.168.10.195:4022/udp/233.18.204.63:5140
-#EXTINF:-1  tvg-name="上海教育" tvg-logo="https://live.fanmingming.cn/tv/上海教育.png" group-title="上海",上海教育
-http://192.168.10.195:4022/udp/239.45.0.13:5140
-#EXTINF:-1 tvg-id="-1" tvg-name="健康养生" tvg-logo="https://live.fanmingming.cn/tv/健康养生.png" group-title="上海",健康养生
-http://192.168.10.195:4022/udp/239.45.1.28:5140
 #卫视
 #EXTINF:-1  tvg-name="重庆卫视" tvg-logo="https://live.fanmingming.cn/tv/重庆卫视.png" group-title="卫视",重庆卫视
 http://192.168.10.195:4022/udp/233.18.204.100:5140
@@ -495,9 +496,9 @@ http://192.168.10.195:4022/udp/233.18.204.157:5140
 http://192.168.10.195:4022/udp/233.18.204.1:5140
 #EXTINF:-1  tvg-name="东方卫视" tvg-logo="https://live.fanmingming.cn/tv/东方卫视.png" group-title="上海标清",东方卫视
 http://192.168.10.195:4022/udp/239.45.3.242:5140
-#EXTINF:-1  tvg-name="五星体育" tvg-logo="https://live.fanmingming.cn/tv/五星体育.png" group-title="上海标清",五星体育
+#EXTINF:-1  tvg-name="五星体育" tvg-logo="https://raw.githubusercontent.com/dsunn/dsunn.github.io/master/logo/Shanghai5.png" group-title="上海标清",五星体育
 http://192.168.10.195:4022/udp/233.18.204.6:5140
-#EXTINF:-1  tvg-name="五星体育" tvg-logo="https://live.fanmingming.cn/tv/五星体育.png" group-title="上海标清",五星体育
+#EXTINF:-1  tvg-name="五星体育" tvg-logo="https://raw.githubusercontent.com/dsunn/dsunn.github.io/master/logo/Shanghai5.png" group-title="上海标清",五星体育
 http://192.168.10.195:4022/udp/239.45.3.112:5140
 #EXTINF:-1  tvg-name="金色学堂" tvg-logo="https://live.fanmingming.cn/tv/金色学堂.png" group-title="上海标清",金色学堂
 http://192.168.10.195:4022/udp/233.18.204.14:5140
@@ -527,9 +528,9 @@ http://192.168.10.195:4022/udp/239.45.3.64:5140
 http://192.168.10.195:4022/udp/233.18.204.2:5140
 #EXTINF:-1  tvg-name="上海都市" tvg-logo="https://live.fanmingming.cn/tv/上海都市.png" group-title="上海标清",上海都市
 http://192.168.10.195:4022/udp/239.45.3.243:5140
-#EXTINF:-1  tvg-name="上海教育" tvg-logo="https://live.fanmingming.cn/tv/上海教育.png" group-title="上海标清",上海教育
+#EXTINF:-1  tvg-name="上海教育" tvg-logo="https://raw.githubusercontent.com/dsunn/dsunn.github.io/master/logo/Shanghai6.png" group-title="上海标清",上海教育
 http://192.168.10.195:4022/udp/233.18.204.11:5140
-#EXTINF:-1  tvg-name="上海教育" tvg-logo="https://live.fanmingming.cn/tv/上海教育.png" group-title="上海标清",上海教育
+#EXTINF:-1  tvg-name="上海教育" tvg-logo="https://raw.githubusercontent.com/dsunn/dsunn.github.io/master/logo/Shanghai6.png" group-title="上海标清",上海教育
 http://192.168.10.195:4022/udp/239.45.3.252:5140
 #EXTINF:-1 tvg-id="-1" tvg-name="财富天下" tvg-logo="https://live.fanmingming.cn/tv/财富天下.png" group-title="上海标清",财富天下
 http://192.168.10.195:4022/udp/233.18.204.41:5140
