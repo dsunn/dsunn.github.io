@@ -5,9 +5,9 @@ http://192.168.10.195:4022/udp/233.18.204.58:5140
 #EXTINF:-1  tvg-name="五星体育" tvg-logo="https://raw.githubusercontent.com/dsunn/dsunn.github.io/master/logo/Shanghai5.png" group-title="上海",五星体育
 http://192.168.10.195:4022/udp/239.45.3.210:5140
 #EXTINF:-1  tvg-name="上海新闻综合" tvg-logo="https://live.fanmingming.cn/tv/上视新闻.png" group-title="上海",上海新闻综合
-http://192.168.10.195:4022/udp/233.18.204.57:5140
-#EXTINF:-1  tvg-name="上海新闻综合" tvg-logo="https://live.fanmingming.cn/tv/上视新闻.png" group-title="上海",上海新闻综合
 http://192.168.10.195:4022/udp/239.45.3.209:5140
+#EXTINF:-1  tvg-name="上海新闻综合" tvg-logo="https://live.fanmingming.cn/tv/上视新闻.png" group-title="上海",上海新闻综合
+http://192.168.10.195:4022/udp/233.18.204.57:5140
 #EXTINF:-1  tvg-name="东方财经" tvg-logo="https://live.fanmingming.cn/tv/东方财经.png" group-title="上海",东方财经
 http://192.168.10.195:4022/udp/233.18.204.65:5140
 #EXTINF:-1  tvg-name="东方财经" tvg-logo="https://live.fanmingming.cn/tv/东方财经.png" group-title="上海",东方财经
