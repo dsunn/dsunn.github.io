@@ -1,6 +1,4 @@
-#EXTM3U x-tvg-url="https://e.erw.cc/e.xml,https://epg.112114.xyz/pp.xml,https://live.fanmingming.cn/e.xml,https://raw.githubusercontent.com/fanmingming/live/main/e.xml"
-#上海
-#EXTINF:-1  tvg-name="五星体育" tvg-logo="https://raw.githubusercontent.com/dsunn/dsunn.github.io/master/logo/Shanghai5.png" group-title="上海",五星体育
+#EXTM3U 
 http://192.168.10.195:4022/udp/233.18.204.58:5140
 #EXTINF:-1  tvg-name="五星体育" tvg-logo="https://raw.githubusercontent.com/dsunn/dsunn.github.io/master/logo/Shanghai5.png" group-title="上海",五星体育
 http://192.168.10.195:4022/udp/239.45.3.210:5140
