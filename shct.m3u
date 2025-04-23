@@ -450,43 +450,43 @@ http://192.168.10.195:4022/udp/239.45.3.18:5140
 #EXTINF:-1  tvg-name="先锋乒羽" tvg-logo="https://live.fanmingming.cn/tv/先锋乒羽.png" group-title="数字",先锋乒羽
 http://192.168.10.195:4022/udp/239.45.3.43:5140
 #BesTV
-#EXTINF:-1 tvg-id="-1" tvg-name="BesTV电影介绍" tvg-logo="https://live.fanmingming.cn/tv/BesTV.png" group-title="BesTV",BesTV电影介绍
+#EXTINF:-1 tvg-id="-1" tvg-name="BesTV电影介绍" tvg-logo="https://raw.githubusercontent.com/dsunn/dsunn.github.io/master/logo/bestv.png" group-title="BesTV",BesTV电影介绍
 http://192.168.10.195:4022/udp/233.18.204.116:5140
-#EXTINF:-1 tvg-id="-1" tvg-name="BesTV电影介绍" tvg-logo="https://live.fanmingming.cn/tv/BesTV.png" group-title="BesTV",BesTV电影介绍
+#EXTINF:-1 tvg-id="-1" tvg-name="BesTV电影介绍" tvg-logo="https://raw.githubusercontent.com/dsunn/dsunn.github.io/master/logo/bestv.png" group-title="BesTV",BesTV电影介绍
 http://192.168.10.195:4022/udp/239.45.1.15:5140
-#EXTINF:-1 tvg-id="-1" tvg-name="BesTV电影介绍" tvg-logo="https://live.fanmingming.cn/tv/BesTV.png" group-title="BesTV",BesTV电影介绍
+#EXTINF:-1 tvg-id="-1" tvg-name="BesTV电影介绍" tvg-logo="https://raw.githubusercontent.com/dsunn/dsunn.github.io/master/logo/bestv.png" group-title="BesTV",BesTV电影介绍
 http://192.168.10.195:4022/udp/239.45.3.240:5140
-#EXTINF:-1 tvg-id="-1" tvg-name="BesTV 4k测试" tvg-logo="https://live.fanmingming.cn/tv/BesTV.png" group-title="BesTV",BesTV 4k测试
+#EXTINF:-1 tvg-id="-1" tvg-name="BesTV 4k测试" tvg-logo="https://raw.githubusercontent.com/dsunn/dsunn.github.io/master/logo/bestv.png" group-title="BesTV",BesTV 4k测试
 http://192.168.10.195:4022/udp/239.45.1.108:5140
-#EXTINF:-1 tvg-id="-1" tvg-name="BesTV 4k动画" tvg-logo="https://live.fanmingming.cn/tv/BesTV.png" group-title="BesTV",BesTV 4k动画
+#EXTINF:-1 tvg-id="-1" tvg-name="BesTV 4k动画" tvg-logo="https://raw.githubusercontent.com/dsunn/dsunn.github.io/master/logo/bestv.png" group-title="BesTV",BesTV 4k动画
 http://192.168.10.195:4022/udp/239.45.1.11:5140
-#EXTINF:-1 tvg-id="-1" tvg-name="BesTV 4k动画" tvg-logo="https://live.fanmingming.cn/tv/BesTV.png" group-title="BesTV",BesTV 4k动画
+#EXTINF:-1 tvg-id="-1" tvg-name="BesTV 4k动画" tvg-logo="https://raw.githubusercontent.com/dsunn/dsunn.github.io/master/logo/bestv.png" group-title="BesTV",BesTV 4k动画
 http://192.168.10.195:4022/udp/239.45.1.1:5140
-#EXTINF:-1 tvg-id="-1" tvg-name="BesTV 4k电影" tvg-logo="https://live.fanmingming.cn/tv/BesTV.png" group-title="BesTV",BesTV 4k电影
+#EXTINF:-1 tvg-id="-1" tvg-name="BesTV 4k电影" tvg-logo="https://raw.githubusercontent.com/dsunn/dsunn.github.io/master/logo/bestv.png" group-title="BesTV",BesTV 4k电影
 http://192.168.10.195:4022/udp/239.45.3.107:5140
-#EXTINF:-1 tvg-id="-1" tvg-name="BesTV 4k电影" tvg-logo="https://live.fanmingming.cn/tv/BesTV.png" group-title="BesTV",BesTV 4k电影
+#EXTINF:-1 tvg-id="-1" tvg-name="BesTV 4k电影" tvg-logo="https://raw.githubusercontent.com/dsunn/dsunn.github.io/master/logo/bestv.png" group-title="BesTV",BesTV 4k电影
 http://192.168.10.195:4022/udp/239.45.1.42:5140
-#EXTINF:-1 tvg-id="-1" tvg-name="BesTV 4k电影" tvg-logo="https://live.fanmingming.cn/tv/BesTV.png" group-title="BesTV",BesTV 4k电影
+#EXTINF:-1 tvg-id="-1" tvg-name="BesTV 4k电影" tvg-logo="https://raw.githubusercontent.com/dsunn/dsunn.github.io/master/logo/bestv.png" group-title="BesTV",BesTV 4k电影
 http://192.168.10.195:4022/udp/239.45.1.9:5140
-#EXTINF:-1 tvg-id="-1" tvg-name="BesTV 4k记录" tvg-logo="https://live.fanmingming.cn/tv/BesTV.png" group-title="BesTV",BesTV 4k记录
+#EXTINF:-1 tvg-id="-1" tvg-name="BesTV 4k记录" tvg-logo="https://raw.githubusercontent.com/dsunn/dsunn.github.io/master/logo/bestv.png" group-title="BesTV",BesTV 4k记录
 http://192.168.10.195:4022/udp/239.45.1.10:5140
-#EXTINF:-1 tvg-id="-1" tvg-name="BesTV 人文" tvg-logo="https://live.fanmingming.cn/tv/BesTV.png" group-title="BesTV",BesTV 人文
+#EXTINF:-1 tvg-id="-1" tvg-name="BesTV 人文" tvg-logo="https://raw.githubusercontent.com/dsunn/dsunn.github.io/master/logo/bestv.png" group-title="BesTV",BesTV 人文
 http://192.168.10.195:4022/udp/239.45.1.29:5140
-#EXTINF:-1 tvg-id="-1" tvg-name="BesTV 直播" tvg-logo="https://live.fanmingming.cn/tv/BesTV.png" group-title="BesTV",BesTV 直播
+#EXTINF:-1 tvg-id="-1" tvg-name="BesTV 直播" tvg-logo="https://raw.githubusercontent.com/dsunn/dsunn.github.io/master/logo/bestv.png" group-title="BesTV",BesTV 直播
 http://192.168.10.195:4022/udp/239.45.3.137:5140
-#EXTINF:-1 tvg-id="-1" tvg-name="BesTV 直播" tvg-logo="https://live.fanmingming.cn/tv/BesTV.png" group-title="BesTV",BesTV 直播
+#EXTINF:-1 tvg-id="-1" tvg-name="BesTV 直播" tvg-logo="https://raw.githubusercontent.com/dsunn/dsunn.github.io/master/logo/bestv.png" group-title="BesTV",BesTV 直播
 http://192.168.10.195:4022/udp/239.45.3.138:5140
-#EXTINF:-1 tvg-id="-1" tvg-name="BesTV 直播" tvg-logo="https://live.fanmingming.cn/tv/BesTV.png" group-title="BesTV",BesTV 直播
+#EXTINF:-1 tvg-id="-1" tvg-name="BesTV 直播" tvg-logo="https://raw.githubusercontent.com/dsunn/dsunn.github.io/master/logo/bestv.png" group-title="BesTV",BesTV 直播
 http://192.168.10.195:4022/udp/239.45.3.139:5140
-#EXTINF:-1 tvg-id="-1" tvg-name="BesTV 直播" tvg-logo="https://live.fanmingming.cn/tv/BesTV.png" group-title="BesTV",BesTV 直播
+#EXTINF:-1 tvg-id="-1" tvg-name="BesTV 直播" tvg-logo="https://raw.githubusercontent.com/dsunn/dsunn.github.io/master/logo/bestv.png" group-title="BesTV",BesTV 直播
 http://192.168.10.195:4022/udp/233.18.204.159:5140
-#EXTINF:-1 tvg-id="-1" tvg-name="BesTV 直播" tvg-logo="https://live.fanmingming.cn/tv/BesTV.png" group-title="BesTV",BesTV 直播
+#EXTINF:-1 tvg-id="-1" tvg-name="BesTV 直播" tvg-logo="https://raw.githubusercontent.com/dsunn/dsunn.github.io/master/logo/bestv.png" group-title="BesTV",BesTV 直播
 http://192.168.10.195:4022/udp/233.18.204.160:5140
-#EXTINF:-1 tvg-id="-1" tvg-name="BesTV 4k动画" tvg-logo="https://live.fanmingming.cn/tv/BesTV.png" group-title="BesTV",BesTV 4k动画
+#EXTINF:-1 tvg-id="-1" tvg-name="BesTV 4k动画" tvg-logo="https://raw.githubusercontent.com/dsunn/dsunn.github.io/master/logo/bestv.png" group-title="BesTV",BesTV 4k动画
 http://192.168.10.195:4022/udp/233.18.204.171:5140
-#EXTINF:-1 tvg-id="-1" tvg-name="BesTV 4k记录" tvg-logo="https://live.fanmingming.cn/tv/BesTV.png" group-title="BesTV",BesTV 4k记录
+#EXTINF:-1 tvg-id="-1" tvg-name="BesTV 4k记录" tvg-logo="https://raw.githubusercontent.com/dsunn/dsunn.github.io/master/logo/bestv.png" group-title="BesTV",BesTV 4k记录
 http://192.168.10.195:4022/udp/233.18.204.170:5140
-#EXTINF:-1 tvg-id="-1" tvg-name="BesTV 4k电影" tvg-logo="https://live.fanmingming.cn/tv/BesTV.png" group-title="BesTV",BesTV 4k电影
+#EXTINF:-1 tvg-id="-1" tvg-name="BesTV 4k电影" tvg-logo="https://raw.githubusercontent.com/dsunn/dsunn.github.io/master/logo/bestv.png" group-title="BesTV",BesTV 4k电影
 http://192.168.10.195:4022/udp/233.18.204.169:5140
 #上海标清
 #EXTINF:-1 tvg-id="" tvg-name="家庭理财" tvg-logo="https://live.fanmingming.cn/tv/家庭理财.png" group-title="上海标清",家庭理财
