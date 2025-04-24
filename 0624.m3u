@@ -169,15 +169,15 @@ https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 tvg-id="664" tvg-name="BBCWorldNews" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BBCWORLDNEWSASIA.png" group-title="外国",BBC News
 https://jmp2.uk/sam-US4000033L.m3u8
 #EXTINF:-1 channel-id="plex-bbc-earth" tvg-id="5e20b730f2f8d5003d739db7-6414a73254c537d12d8073d7" group-title="外国" tvg-logo="https://provider-static.plex.tv/epg/cms/production/0694fd21-4459-41d9-b49d-cef804553424/PLEX_BBCEarth_Logo_Light_1500X1000.png",BBC Earth
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6414a73254c537d12d8073d7.m3u8?X-Plex-Token=91UGhyzUhGXyTYiVRjfx
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6414a73254c537d12d8073d7.m3u8?X-Plex-Token=rP9y_LbsR2kKXc8N7z82
 #EXTINF:-1 channel-id="plex-bbc-food" tvg-id="5e20b730f2f8d5003d739db7-630905af0417b7074a4ad95e" group-title="外国" tvg-logo="https://provider-static.plex.tv/epg/cms/production/c0251cd3-a9cc-4ebc-a055-115c5682b7c6/PLEX_BBCFOOD_Logo_Light_1500X1000.png",BBC Food
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-630905af0417b7074a4ad95e.m3u8?X-Plex-Token=91UGhyzUhGXyTYiVRjfx
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-630905af0417b7074a4ad95e.m3u8?X-Plex-Token=rP9y_LbsR2kKXc8N7z82
 #EXTINF:-1 channel-id="plex-bbc-travel" tvg-id="5e20b730f2f8d5003d739db7-65622eddb7d737841f30a4fd" group-title="外国" tvg-logo="https://provider-static.plex.tv/epg/cms/production/66897ead-8625-455a-aaa9-2962f7c26315/BBC_TRAVEL_PLEX_BRAND_CHANNEL_Logo_Light_1500X1000_Caitlin_Schiffer.png",BBC Travel
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-65622eddb7d737841f30a4fd.m3u8?X-Plex-Token=91UGhyzUhGXyTYiVRjfx
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-65622eddb7d737841f30a4fd.m3u8?X-Plex-Token=rP9y_LbsR2kKXc8N7z82
 #EXTINF:-1 channel-id="plex-cnn-headlines" tvg-id="5e20b730f2f8d5003d739db7-66b4fcc2530e39ea2ee79545" tvg-logo="https://provider-static.plex.tv/epg/cms/production/4231e1c1-803e-4743-a5fe-98778cb2f6c2/CNN_Headlines_FastChannel_Logo_Dark_1500x1000.png" group-title="外国",CNN Headlines
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-66b4fcc2530e39ea2ee79545.m3u8?X-Plex-Token=91UGhyzUhGXyTYiVRjfx
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-66b4fcc2530e39ea2ee79545.m3u8?X-Plex-Token=rP9y_LbsR2kKXc8N7z82
 #EXTINF:-1 tvg-id="6023" tvg-name="CNN" tvg-logo="https://provider-static.plex.tv/epg/cms/production/00f41feb-c13e-4a3d-b7ca-c9bb253d19be/CNN_Originals_RDX_color_logo.png" group-title="外国",CNN Originals
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-66ad6025cb5d3b7fb5011c2d.m3u8?X-Plex-Token=91UGhyzUhGXyTYiVRjfx
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-66ad6025cb5d3b7fb5011c2d.m3u8?X-Plex-Token=rP9y_LbsR2kKXc8N7z82
 #EXTINF:-1 tvg-id="" tvg-name="CNN GO" tvg-logo="https://image.roku.com/developer_channels/prod/5d8308aa7b7b6b52f20bb361826fe62092bac1e4181d0df0f26c08a8f71b9c5e.png" group-title="外国",CNN GO
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 channel-id="samsung-GBBD8000016N" tvg-id="GBBD8000016N" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD8000016N_20241106T143041SQUARE.png" group-title="外国" tvg-chno="4005",CNN
@@ -259,11 +259,11 @@ https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/CaliforniaMusicChannel/picture?width=200&height=200" group-title="外国" tvg-name="California Music Channel USA",California Music Channel USA
 https://cmc-ono.amagi.tv/hls/amagi_hls_data_cmcAAAAAA-cmc-ono/CDN/playlist.m3u8?device=TDTChannels
 #EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-659f04ef27ae392d2e204695" tvg-id="5e20b730f2f8d5003d739db7-659f04ef27ae392d2e204695" tvg-logo="https://provider-static.plex.tv/epg/cms/production/b6bea985-9665-4dca-8ce4-2a8f79c7863c/FXSportsWhite.png" group-title="外国" , FOX Sports
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-659f04ef27ae392d2e204695.m3u8?X-Plex-Token=91UGhyzUhGXyTYiVRjfx
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-659f04ef27ae392d2e204695.m3u8?X-Plex-Token=rP9y_LbsR2kKXc8N7z82
 #EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-62f42e6cad0081c6ef405723" tvg-id="5e20b730f2f8d5003d739db7-62f42e6cad0081c6ef405723" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a4210812-bed5-4b19-b6ca-0f4ffabf3106/documentaryplus_logo_dark_1_.png" group-title="外国" , Documentary+
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-62f42e6cad0081c6ef405723.m3u8?X-Plex-Token=91UGhyzUhGXyTYiVRjfx
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-62f42e6cad0081c6ef405723.m3u8?X-Plex-Token=rP9y_LbsR2kKXc8N7z82
 #EXTINF:-1 channel-id="plex-discover-film" tvg-id="5e20b730f2f8d5003d739db7-618198fe4e1b6764011b046a" group-title="外国" tvg-logo="https://provider-static.plex.tv/epg/cms/production/96d7d0f2-6aff-4bf8-9ad6-37776e655f5f/thumbnail_discoverfilm_logo_light.png",Discover Film
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-618198fe4e1b6764011b046a.m3u8?X-Plex-Token=91UGhyzUhGXyTYiVRjfx
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-618198fe4e1b6764011b046a.m3u8?X-Plex-Token=rP9y_LbsR2kKXc8N7z82
 
 #movies
 # #EXTINF:-1 tvg-id="6246" tvg-name="CHC家庭电影" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CHC2.png" group-title="影视",CHC家庭影院
