@@ -48,7 +48,7 @@ https://jmp2.uk/sam-GBBD3600001NO.m3u8
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-62a239e8d95f6a0c0146cc7a.m3u8?X-Plex-Token=rP9y_LbsR2kKXc8N7z82
 #EXTINF:0 channel-id="livenow-from-fox" channel-number="2534" tvg-logo="https://images.pluto.tv/channels/63d025db4e83e700086eaa96/colorLogoPNG.png" tvc-guide-art="https://images.pluto.tv/channels/63d025db4e83e700086eaa96/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" tvc-guide-title="LiveNOW from FOX"  group-title="外国", LiveNOW from FOX
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63d025db4e83e700086eaa96/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=fb72577a-20cb-11f0-8220-5720109aea3c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d9da0729-5cd8-48eb-9545-1ec43f3ec56c&userId=&serverSideAds=true
-#EXTINF:-1 tvg-id="7100" tvg-name="ABCAustralia" tvg-logo="https://th.bing.com/th?id=OIP.nlZTiSDYA-ZWrYdShExbBQHaHa&pid=PersonalBing&rs=1" group-title="外国",ABC News
+#EXTINF:-1 channel-id="samsung-USBC39000171G" tvg-id="USBC39000171G" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC39000171G_20241105T024229SQUARE.png" group-title="外国" tvg-chno="1112",ABC News Live
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 #EXTINF:-1 group-title="外国" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/df/ABC_News_Channel.svg/640px-ABC_News_Channel.svg.png",ABC Australia
 # https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
@@ -60,13 +60,13 @@ https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
 #EXTINF:-1 tvg-id="6139" tvg-name="ChannelNewsAsia" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/channelnewsasia.png" group-title="外国",亚洲新闻
 http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/CBS_News_logo_%282020%29.svg/512px-CBS_News_logo_%282020%29.svg.png" group-title="外国",CBS NEWS US
+#EXTINF:-1 channel-id="plex-cbs-news" tvg-id="5e20b730f2f8d5003d739db7-6571f43a1d2aae780d597196" tvg-logo="https://provider-static.plex.tv/epg/cms/production/7c7be41d-477b-447c-baaf-61be24cf44fc/CBS_WHT3017a837a5b62a0e9cdc8ab8fdd8f134RDX.png" group-title="外国",CBS News
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
-#EXTINF:-1 tvg-id="CBSNewsLA.us" tvg-country="US" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/5dc481cda1d430000948a1b4/colorLogoPNG.png" group-title="外国",CBS News Los Angeles
+#EXTINF:0 channel-id="cbs-news-los-angeles-2" channel-number="2560" tvg-logo="https://images.pluto.tv/channels/5dc9b875e280c80009a8a44a/colorLogoPNG.png" tvc-guide-art="https://images.pluto.tv/channels/5dc9b875e280c80009a8a44a/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" tvc-guide-title="CBS News Los Angeles"  group-title="外国", CBS News Los Angeles
 https://cbsn-la.cbsnstream.cbsnews.com/out/v1/57b6c4534a164accb6b1872b501e0028/master.m3u8
 #EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-62a2272df7d323d4cc893218" tvg-id="5e20b730f2f8d5003d739db7-62a2272df7d323d4cc893218" tvg-logo="https://provider-static.plex.tv/epg/cms/production/13263157-852b-4034-975a-5a48b5ad1742/LN_DC_logo_dark.png" group-title="外国", Local Now DC
 # https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-62a2272df7d323d4cc893218.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/112.0.0.0%20Safari/537.36&X-Plex-Token=-t4y9G4RKgATQCEZDthz&X-Forwarded-For=173.166.164.121
-#EXTINF:-1 tvg-id="6140" tvg-name="BloombergTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BloombergTV.png" group-title="外国",bloomberg 4K
+#EXTINF:-1 channel-id="plex-bloomberg-tv-2" tvg-id="5e20b730f2f8d5003d739db7-61d73ab0a7b7c7f703418516" tvg-logo="https://provider-static.plex.tv/6/epg/channels/logos/gracenote/66a30548bffdf5f5e158e3baf755afad.png" tvg-name="BLOOM4K" group-title="外国",Bloomberg TV
 https://f507e97fa86541f2b8af93557ee82930.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-at_Bloomberg/playlist.m3u8?ads.wurl_channel=389&ads.wurl_name=Bloomberg&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
 #EXTINF:-1 tvg-id="USAJ4300005PJ" tvg-name="Yahoo Finance" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ4300005PJ_20230125T022140SQUARE.png_20230125022141.png" group-title="外国",Yahoo Finance
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5f170f01b898490041b49dd1.m3u8?X-Plex-Token=rP9y_LbsR2kKXc8N7z82
@@ -74,7 +74,7 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5f170f01b898
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:-1 tvg-id=""France24English.fr"" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/B76eSg2.png"" group-title="外国", France24 English
 # https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV38.m3u8
-#EXTINF:-1 channel-id="samsung-GBBD1100002L5" tvg-id="GBBD1100002L5" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD1100002L5_20230823T033121SQUARE.png_20230823033121.png" group-title="外国" tvg-chno="4314",FRANCE 24 FAST
+#EXTINF:-1 channel-id="plex-france-24" tvg-id="5e20b730f2f8d5003d739db7-678fe7959407a53556d3e8eb" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d5065d4c-eb84-4fd6-862f-655ff5ca01cd/france24fastenglish_logo_dark_-_David_COURET.png" group-title="外国",FRANCE 24
 https://jmp2.uk/sam-GBBD1100002L5.m3u8
 #EXTINF:-1 tvg-id="5ca1da6c593a5d78f0e7edce" tvg-name="Euronews" tvg-logo="https://images.pluto.tv/channels/5ca1da6c593a5d78f0e7edce/colorLogoPNG.png" group-title="外国",Euronews
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-60089d90f682a3002c348299.m3u8?X-Plex-Token=rP9y_LbsR2kKXc8N7z82
@@ -90,7 +90,7 @@ https://d2g8cwacjxduj5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-newsmax/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 #EXTINF:-1 channel-id="samsung-USBB1900002KF" tvg-id="USBB1900002KF" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB1900002KF_20240520T222747SQUARE.png" group-title="外国" tvg-chno="1175",Real America's Voice
 https://jmp2.uk/sam-USBB1900002KF.m3u8
-#EXTINF:-1 tvg-id="60fb321ee99fac0008c9ab8a" tvg-name="60 Minutes" tvg-logo="https://images.pluto.tv/channels/66b646f9cd0d3100086af83c/colorLogoPNG.png" group-title="外国",60 Minutes
+#EXTINF:0 channel-id="60-minutes" channel-number="3095" tvg-logo="https://images.pluto.tv/channels/66b646f9cd0d3100086af83c/colorLogoPNG.png" tvc-guide-art="https://images.pluto.tv/channels/66b646f9cd0d3100086af83c/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" tvc-guide-title="60 Minutes"  group-title="外国", 60 Minutes
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/66b646f9cd0d3100086af83c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=fb72a5a0-20cb-11f0-8220-5720109aea3c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=bc2d87d2-18a9-43e7-ab3f-7919a9818b7c&userId=&serverSideAds=true
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-64bf5ed5fa25ad1c59ae7472" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f6d3d0f3-810f-48b7-ad46-66916a0570f8/WaPoTV_Logo_White_1500x1000_-_Lauren_Saks.png" group-title="外国",Washington Post Television
 # https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-64bf5ed5fa25ad1c59ae7472.m3u8
