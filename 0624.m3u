@@ -36,7 +36,7 @@ https://jmp2.uk/sam-GBBD8000016N.m3u8
 https://jmp2.uk/sam-GBBD1900008O3.m3u8
 #EXTINF:-1 tvg-id="USBB52000022Q" tvg-name="Sky News" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB52000022Q_20230509T224438SQUARE.png_20230509224439.png" group-title="外国",Sky News
 https://jmp2.uk/sam-USBB52000022Q.m3u8
-#EXTINF:-1 group-title="外国" tvg-logo="https://i.imgur.com/mOlz491.png" tvg-id="", News 12 New York
+#EXTINF:0 channel-id="news-12-new-york" channel-number="5190" tvg-logo="https://images.pluto.tv/channels/5fff49cfb5cd4f0007c2b0dc/colorLogoPNG.png" tvc-guide-art="https://images.pluto.tv/channels/5fff49cfb5cd4f0007c2b0dc/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" tvc-guide-title="News 12 New York"  group-title="外国", News 12 New York
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5fc6f3a62b6f7b002e77ffaa.m3u8?X-Plex-Token=rP9y_LbsR2kKXc8N7z82
 #EXTINF:-1 tvg-id="USBB2200014DK" tvg-name="NBC News NOW" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB2200014DK_20220712T041422SQUARE.png_20220712041422.png" group-title="外国",NBC News NOW
 https://jmp2.uk/sam-USBB2200014DK.m3u8
@@ -46,7 +46,7 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-64511fb89d02
 https://jmp2.uk/sam-GBBD3600001NO.m3u8
 #EXTINF:-1 channel-id="plex-local-now-san-francisco" tvg-id="5e20b730f2f8d5003d739db7-62a239e8d95f6a0c0146cc7a" tvg-logo="https://provider-static.plex.tv/epg/cms/production/bcf8cf1d-c3ae-484a-99c1-30fb4a8f3f7f/LN_SanFrancisco_logo_dark.png" group-title="外国",Local Now San Francisco
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-62a239e8d95f6a0c0146cc7a.m3u8?X-Plex-Token=rP9y_LbsR2kKXc8N7z82
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/1JnyzHv.png" group-title="外国",Fox News Now
+#EXTINF:0 channel-id="livenow-from-fox" channel-number="2534" tvg-logo="https://images.pluto.tv/channels/63d025db4e83e700086eaa96/colorLogoPNG.png" tvc-guide-art="https://images.pluto.tv/channels/63d025db4e83e700086eaa96/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" tvc-guide-title="LiveNOW from FOX"  group-title="外国", LiveNOW from FOX
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63d025db4e83e700086eaa96/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=fb72577a-20cb-11f0-8220-5720109aea3c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d9da0729-5cd8-48eb-9545-1ec43f3ec56c&userId=&serverSideAds=true
 #EXTINF:-1 tvg-id="7100" tvg-name="ABCAustralia" tvg-logo="https://th.bing.com/th?id=OIP.nlZTiSDYA-ZWrYdShExbBQHaHa&pid=PersonalBing&rs=1" group-title="外国",ABC News
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
