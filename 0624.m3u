@@ -6,7 +6,8 @@
 #上海
 #EXTM3U x-tvg-url="https://assets.livednow.com/epg.xml"
 
-
+#EXTINF:-1 tvg-id="1989" tvg-name="上海都市频道" tvg-logo="https://raw.githubusercontent.com/dsunn/dsunn.github.io/master/logo/Shanghai2.png" group-title="上海", 都市频道
+http://222.67.180.173:4022/udp/233.18.204.53:5140
 #未分类
 #hk
 
