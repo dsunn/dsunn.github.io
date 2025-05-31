@@ -755,7 +755,7 @@ http://bitww.mycandy.eu.org:4022/udp/239.45.1.82:5140
 
 
 #外国
-#EXTINF:-1 tvg-id="7183" tvg-name="aljazeera" tvg-logo="https://www.aljazeera.com/static/media/aj-footer-logo.bac952ad.svg" group-title="外国",Aljazeera
+#EXTINF:-1 tvg-id="7183" tvg-name="aljazeera" tvg-logo="https://play-lh.googleusercontent.com/1pvYY4tIk0u0ZPkqp-zMRHXekDNq793b5TNxFO0ZUMe2ML87G6moZrvfiVWFWteEUirC=w480-h960-rw" group-title="外国",Aljazeera
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 tvg-id="664" tvg-name="BBCWorldNews" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BBCWORLDNEWSASIA.png" group-title="外国",BBC News
 https://jmp2.uk/sam-US4000033L.m3u8
