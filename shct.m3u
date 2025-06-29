@@ -154,7 +154,7 @@ http://192.168.10.195:4022/udp/239.45.3.126:5140
 http://192.168.10.195:4022/udp/239.45.0.20:5140
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://live.fanmingming.cn/tv/CCTV16.png" group-title="央视",CCTV-16
 http://192.168.10.195:4022/udp/233.18.204.82:5140
-#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://live.fanmingming.cn/tv/CCTV16.png" group-title="央视",CCTV-16-4K
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://live.fanmingming.cn/tv/CCTV16.png" group-title="央视",CCTV-16 4K
 http://192.168.10.195:4022/udp/233.18.204.114:5140
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://live.fanmingming.cn/tv/CCTV16.png" group-title="央视",CCTV-16
 http://192.168.10.195:4022/udp/239.45.0.10:5140
