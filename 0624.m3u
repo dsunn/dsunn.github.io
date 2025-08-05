@@ -8,13 +8,15 @@
 
 
 #EXTINF:-1 tvg-name="五星体育" tvg-logo="https://raw.githubusercontent.com/dsunn/dsunn.github.io/master/logo/Shanghai5.png" group-title="上海",五星体育
-http://bitww.mycandy.eu.org:7088/udp/233.18.204.58:5140
-#EXTINF:-1 tvg-name="五星体育" tvg-logo="https://raw.githubusercontent.com/dsunn/dsunn.github.io/master/logo/Shanghai5.png" group-title="上海",五星体育
 http://bitww.mycandy.eu.org:7088/udp/239.45.3.210:5140
+#EXTINF:-1 tvg-name="五星体育" tvg-logo="https://raw.githubusercontent.com/dsunn/dsunn.github.io/master/logo/Shanghai5.png" group-title="上海",五星体育
+http://bitww.mycandy.eu.org:7088/udp/233.18.204.58:5140
 #EXTINF:-1 tvg-id="1984" tvg-name="上视新闻频道" tvg-logo="https://raw.githubusercontent.com/dsunn/dsunn.github.io/master/logo/Shanghai1.png" group-title="上海", 新闻综合
 http://bitww.mycandy.eu.org:7088/udp/239.45.3.209:5140
 #EXTINF:-1 tvg-id="1984" tvg-name="上视新闻频道" tvg-logo="https://raw.githubusercontent.com/dsunn/dsunn.github.io/master/logo/Shanghai1.png" group-title="上海", 新闻综合
 http://bitww.mycandy.eu.org:7088/udp/233.18.204.57:5140
+#EXTINF:-1 tvg-name="五星体育" tvg-logo="https://raw.githubusercontent.com/dsunn/dsunn.github.io/master/logo/Shanghai5.png" group-title="数字",五星体育
+http://bitww.mycandy.eu.org:7088/udp/233.18.204.58:5140
 #EXTINF:-1 tvg-name="东方财经" tvg-logo="https://live.fanmingming.cn/tv/东方财经.png" group-title="上海",东方财经
 http://bitww.mycandy.eu.org:7088/udp/233.18.204.65:5140
 #EXTINF:-1 tvg-name="东方财经" tvg-logo="https://live.fanmingming.cn/tv/东方财经.png" group-title="上海",东方财经
@@ -288,10 +290,14 @@ http://bitww.mycandy.eu.org:7088/udp/239.45.1.80:5140
 http://bitww.mycandy.eu.org:7088/udp/233.18.204.86:5140
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.cn/tv/湖南卫视.png" group-title="卫视",湖南卫视
 http://bitww.mycandy.eu.org:7088/udp/239.45.3.228:5140
+#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://live.fanmingming.cn/tv/广东卫视.png" group-title="卫视",广东卫视 4k
+http://bitww.mycandy.eu.org:7088/udp/233.18.204.218:5140
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://live.fanmingming.cn/tv/广东卫视.png" group-title="卫视",广东卫视
 http://bitww.mycandy.eu.org:7088/udp/233.18.204.88:5140
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://live.fanmingming.cn/tv/广东卫视.png" group-title="卫视",广东卫视
 http://bitww.mycandy.eu.org:7088/udp/239.45.3.230:5140
+#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.cn/tv/深圳卫视.png" group-title="卫视",深圳卫视 4k
+http://bitww.mycandy.eu.org:7088/udp/233.18.204.219:5140
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.cn/tv/深圳卫视.png" group-title="卫视",深圳卫视
 http://bitww.mycandy.eu.org:7088/udp/233.18.204.89:5140
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.cn/tv/深圳卫视.png" group-title="卫视",深圳卫视
@@ -326,6 +332,8 @@ http://bitww.mycandy.eu.org:7088/udp/239.45.3.238:5140
 http://bitww.mycandy.eu.org:7088/udp/233.18.204.87:5140
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://live.fanmingming.cn/tv/北京卫视.png" group-title="卫视",北京卫视4K
 http://bitww.mycandy.eu.org:7088/udp/233.18.204.209:5140
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://live.fanmingming.cn/tv/北京卫视.png" group-title="卫视",北京卫视4K
+http://bitww.mycandy.eu.org:7088/udp/239.45.1.109:5140
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://live.fanmingming.cn/tv/北京卫视.png" group-title="卫视",北京卫视
 http://bitww.mycandy.eu.org:7088/udp/239.45.3.229:5140
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.cn/tv/江苏卫视.png" group-title="卫视",江苏卫视
@@ -455,6 +463,8 @@ http://bitww.mycandy.eu.org:7088/udp/233.18.204.43:5140
 http://bitww.mycandy.eu.org:7088/udp/239.45.3.18:5140
 #EXTINF:-1 tvg-name="先锋乒羽" tvg-logo="https://live.fanmingming.cn/tv/先锋乒羽.png" group-title="数字",先锋乒羽
 http://bitww.mycandy.eu.org:7088/udp/239.45.3.43:5140
+#EXTINF:-1 tvg-name="五星体育" tvg-logo="https://raw.githubusercontent.com/dsunn/dsunn.github.io/master/logo/Shanghai5.png" group-title="数字",五星体育
+http://bitww.mycandy.eu.org:7088/udp/233.18.204.58:5140
 #BesTV
 #EXTINF:-1 tvg-id="-1" tvg-name="BesTV电影介绍" tvg-logo="https://raw.githubusercontent.com/dsunn/dsunn.github.io/master/logo/bestv.png" group-title="BesTV",BesTV电影介绍
 http://bitww.mycandy.eu.org:7088/udp/233.18.204.116:5140
