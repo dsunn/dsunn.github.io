@@ -325,12 +325,12 @@ http://192.168.10.106:7088/udp/239.45.3.238:5140
 http://192.168.10.106:7088/udp/233.18.204.87:5140
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://live.fanmingming.cn/tv/北京卫视.png" group-title="卫视",北京卫视4K
 http://192.168.10.106:7088/udp/233.18.204.209:5140
-#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://live.fanmingming.cn/tv/北京卫视.png" group-title="卫视",北京卫视4K
-http://192.168.10.106:7088/udp/239.45.1.109:5140
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://live.fanmingming.cn/tv/北京卫视.png" group-title="卫视",北京卫视
 http://192.168.10.106:7088/udp/239.45.3.229:5140
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.cn/tv/江苏卫视.png" group-title="卫视",江苏卫视
 http://192.168.10.106:7088/udp/233.18.204.85:5140
+#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.cn/tv/江苏卫视.png" group-title="卫视",江苏卫视4K
+http://192.168.10.106:7088/udp/239.45.1.109:5140
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.cn/tv/江苏卫视.png" group-title="卫视",江苏卫视
 http://192.168.10.106:7088/udp/239.45.3.177:5140
 #EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://live.fanmingming.cn/tv/黑龙江卫视.png" group-title="卫视",黑龙江卫视
