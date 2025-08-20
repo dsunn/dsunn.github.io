@@ -1053,35 +1053,37 @@ http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226125/1.m3u8
 #EXTINF:-1 tvg-id="7183" tvg-name="aljazeera" tvg-logo="https://play-lh.googleusercontent.com/1pvYY4tIk0u0ZPkqp-zMRHXekDNq793b5TNxFO0ZUMe2ML87G6moZrvfiVWFWteEUirC=w480-h960-rw" group-title="外国",Aljazeera
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 tvg-id="664" tvg-name="BBCWorldNews" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BBCWORLDNEWSASIA.png" group-title="外国",BBC News
-https://jmp2.uk/sam-US4000033L.m3u8
+# https://jmp2.uk/sam-US4000033L.m3u8
+# https://jmp2.uk/stvp-US4000033L
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-646fab0e43d6d6838db81a6a.m3u8?X-Plex-Token=AngG8S5GX2KjemLfJnHp
 #EXTINF:-1 channel-id="plex-bbc-earth" tvg-id="5e20b730f2f8d5003d739db7-6414a73254c537d12d8073d7" group-title="外国" tvg-logo="https://provider-static.plex.tv/epg/cms/production/0694fd21-4459-41d9-b49d-cef804553424/PLEX_BBCEarth_Logo_Light_1500X1000.png",BBC Earth
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6414a73254c537d12d8073d7.m3u8?X-Plex-Token=AuZ5WDZ6yhyVU9M9Tzy1
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6414a73254c537d12d8073d7.m3u8?X-Plex-Token=AngG8S5GX2KjemLfJnHp
 #EXTINF:-1 channel-id="plex-bbc-food" tvg-id="5e20b730f2f8d5003d739db7-630905af0417b7074a4ad95e" group-title="外国" tvg-logo="https://provider-static.plex.tv/epg/cms/production/c0251cd3-a9cc-4ebc-a055-115c5682b7c6/PLEX_BBCFOOD_Logo_Light_1500X1000.png",BBC Food
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-630905af0417b7074a4ad95e.m3u8?X-Plex-Token=AuZ5WDZ6yhyVU9M9Tzy1
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-630905af0417b7074a4ad95e.m3u8?X-Plex-Token=AngG8S5GX2KjemLfJnHp
 #EXTINF:-1 channel-id="plex-bbc-travel" tvg-id="5e20b730f2f8d5003d739db7-65622eddb7d737841f30a4fd" group-title="外国" tvg-logo="https://provider-static.plex.tv/epg/cms/production/66897ead-8625-455a-aaa9-2962f7c26315/BBC_TRAVEL_PLEX_BRAND_CHANNEL_Logo_Light_1500X1000_Caitlin_Schiffer.png",BBC Travel
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-65622eddb7d737841f30a4fd.m3u8?X-Plex-Token=AuZ5WDZ6yhyVU9M9Tzy1
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-65622eddb7d737841f30a4fd.m3u8?X-Plex-Token=AngG8S5GX2KjemLfJnHp
 #EXTINF:-1 channel-id="plex-cnn-headlines" tvg-id="5e20b730f2f8d5003d739db7-66b4fcc2530e39ea2ee79545" tvg-logo="https://provider-static.plex.tv/epg/cms/production/4231e1c1-803e-4743-a5fe-98778cb2f6c2/CNN_Headlines_FastChannel_Logo_Dark_1500x1000.png" group-title="外国",CNN Headlines
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-66b4fcc2530e39ea2ee79545.m3u8?X-Plex-Token=AuZ5WDZ6yhyVU9M9Tzy1
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-66b4fcc2530e39ea2ee79545.m3u8?X-Plex-Token=AngG8S5GX2KjemLfJnHp
 #EXTINF:-1 tvg-id="6023" tvg-name="CNN" tvg-logo="https://provider-static.plex.tv/epg/cms/production/00f41feb-c13e-4a3d-b7ca-c9bb253d19be/CNN_Originals_RDX_color_logo.png" group-title="外国",CNN Originals
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-66ad6025cb5d3b7fb5011c2d.m3u8?X-Plex-Token=AuZ5WDZ6yhyVU9M9Tzy1
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-66ad6025cb5d3b7fb5011c2d.m3u8?X-Plex-Token=AngG8S5GX2KjemLfJnHp
 #EXTINF:-1 tvg-id="" tvg-name="CNN GO" tvg-logo="https://image.roku.com/developer_channels/prod/5d8308aa7b7b6b52f20bb361826fe62092bac1e4181d0df0f26c08a8f71b9c5e.png" group-title="外国",CNN GO
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 channel-id="samsung-GBBD8000016N" tvg-id="GBBD8000016N" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD8000016N_20241106T143041SQUARE.png" group-title="外国" tvg-chno="4005",CNN
-https://jmp2.uk/sam-GBBD8000016N.m3u8
+https://jmp2.uk/stvp-GBBD8000016N
 #EXTINF:-1 channel-id="samsung-GBBD1900008O3" tvg-id="GBBD1900008O3" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD1900008O3_20240827T040502SQUARE.png" group-title="外国" tvg-chno="4312",CNN FAST
-https://jmp2.uk/sam-GBBD1900008O3.m3u8
+https://jmp2.uk/stvp-GBBD1900008O3
 #EXTINF:-1 tvg-id="USBB52000022Q" tvg-name="Sky News" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB52000022Q_20230509T224438SQUARE.png_20230509224439.png" group-title="外国",Sky News
-https://jmp2.uk/sam-USBB52000022Q.m3u8
+https://jmp2.uk/stvp-USBB52000022Q
 #EXTINF:0 channel-id="news-12-new-york" channel-number="5190" tvg-logo="https://images.pluto.tv/channels/5fff49cfb5cd4f0007c2b0dc/colorLogoPNG.png" tvc-guide-art="https://images.pluto.tv/channels/5fff49cfb5cd4f0007c2b0dc/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" tvc-guide-title="News 12 New York"  group-title="外国", News 12 New York
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5fc6f3a62b6f7b002e77ffaa.m3u8?X-Plex-Token=AuZ5WDZ6yhyVU9M9Tzy1
-#EXTINF:-1 tvg-id="USBB2200014DK" tvg-name="NBC News NOW" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB2200014DK_20220712T041422SQUARE.png_20220712041422.png" group-title="外国",NBC News NOW
-https://jmp2.uk/sam-USBB2200014DK.m3u8
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5fc6f3a62b6f7b002e77ffaa.m3u8?X-Plex-Token=AngG8S5GX2KjemLfJnHp
+#EXTINF:-1 tvg-id="USBB2200014DK" tvg-name="NBC News NOW" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogopeu/vc/00/02/34/USBB2200014DK_20220712T041422SQUARE.png_20220712041422.png" group-title="外国",NBC News NOW
+https://jmp2.uk/stvp-USBB2200014DK
 #EXTINF:-1 channel-id="plex-nbc-bay-area-news" tvg-id="5e20b730f2f8d5003d739db7-64511fb89d0296ecc10e6026" tvg-logo="https://provider-static.plex.tv/5/epg/channels/logos/gracenote/516903d06c28e0aa9ca017b9cd630d39.png" tvg-name="KNTVSTR" group-title="外国",NBC Bay Area News
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-64511fb89d0296ecc10e6026.m3u8?X-Plex-Token=AuZ5WDZ6yhyVU9M9Tzy1
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-64511fb89d0296ecc10e6026.m3u8?X-Plex-Token=AngG8S5GX2KjemLfJnHp
 #EXTINF:-1 channel-id="samsung-GBBD3600001NO" tvg-id="GBBD3600001NO" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD3600001NO_20231115T012330SQUARE.png_20231115012330.png" group-title="外国" tvg-chno="4310",CNBC
-https://jmp2.uk/sam-GBBD3600001NO.m3u8
+https://jmp2.uk/stvp-GBBD3600001NO
 #EXTINF:-1 channel-id="plex-local-now-san-francisco" tvg-id="5e20b730f2f8d5003d739db7-62a239e8d95f6a0c0146cc7a" tvg-logo="https://provider-static.plex.tv/epg/cms/production/bcf8cf1d-c3ae-484a-99c1-30fb4a8f3f7f/LN_SanFrancisco_logo_dark.png" group-title="外国",Local Now San Francisco
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-62a239e8d95f6a0c0146cc7a.m3u8?X-Plex-Token=AuZ5WDZ6yhyVU9M9Tzy1
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-62a239e8d95f6a0c0146cc7a.m3u8?X-Plex-Token=AngG8S5GX2KjemLfJnHp
 #EXTINF:0 channel-id="livenow-from-fox" channel-number="2534" tvg-logo="https://images.pluto.tv/channels/63d025db4e83e700086eaa96/colorLogoPNG.png" tvc-guide-art="https://images.pluto.tv/channels/63d025db4e83e700086eaa96/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" tvc-guide-title="LiveNOW from FOX"  group-title="外国", LiveNOW from FOX
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63d025db4e83e700086eaa96/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=fb72577a-20cb-11f0-8220-5720109aea3c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d9da0729-5cd8-48eb-9545-1ec43f3ec56c&userId=&serverSideAds=true
 #EXTINF:-1 channel-id="samsung-USBC39000171G" tvg-id="USBC39000171G" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC39000171G_20241105T024229SQUARE.png" group-title="外国" tvg-chno="1112",ABC News Live
@@ -1105,27 +1107,27 @@ https://cbsn-la.cbsnstream.cbsnews.com/out/v1/57b6c4534a164accb6b1872b501e0028/m
 #EXTINF:-1 channel-id="plex-bloomberg-tv-2" tvg-id="5e20b730f2f8d5003d739db7-61d73ab0a7b7c7f703418516" tvg-logo="https://provider-static.plex.tv/6/epg/channels/logos/gracenote/66a30548bffdf5f5e158e3baf755afad.png" tvg-name="BLOOM4K" group-title="外国",Bloomberg TV
 https://f507e97fa86541f2b8af93557ee82930.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-at_Bloomberg/playlist.m3u8?ads.wurl_channel=389&ads.wurl_name=Bloomberg&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
 #EXTINF:-1 tvg-id="USAJ4300005PJ" tvg-name="Yahoo Finance" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ4300005PJ_20230125T022140SQUARE.png_20230125022141.png" group-title="外国",Yahoo Finance
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5f170f01b898490041b49dd1.m3u8?X-Plex-Token=AuZ5WDZ6yhyVU9M9Tzy1
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5f170f01b898490041b49dd1.m3u8?X-Plex-Token=AngG8S5GX2KjemLfJnHp
 #EXTINF:-1 tvg-id="730" tvg-name="DW" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DW.png" group-title="外国",Deutsche Welle
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:-1 tvg-id=""France24English.fr"" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/B76eSg2.png"" group-title="外国", France24 English
 # https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV38.m3u8
 #EXTINF:-1 channel-id="plex-france-24" tvg-id="5e20b730f2f8d5003d739db7-678fe7959407a53556d3e8eb" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d5065d4c-eb84-4fd6-862f-655ff5ca01cd/france24fastenglish_logo_dark_-_David_COURET.png" group-title="外国",FRANCE 24
-https://jmp2.uk/sam-GBBD1100002L5.m3u8
+https://jmp2.uk/stvp-GBBD1100002L5
 #EXTINF:-1 tvg-id="5ca1da6c593a5d78f0e7edce" tvg-name="Euronews" tvg-logo="https://images.pluto.tv/channels/5ca1da6c593a5d78f0e7edce/colorLogoPNG.png" group-title="外国",Euronews
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-60089d90f682a3002c348299.m3u8?X-Plex-Token=AuZ5WDZ6yhyVU9M9Tzy1
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-60089d90f682a3002c348299.m3u8?X-Plex-Token=AngG8S5GX2KjemLfJnHp
 #EXTINF:-1 channel-id="samsung-GBAJ4900020VP" tvg-id="GBAJ4900020VP" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBAJ4900020VP_20230222T011312SQUARE.png_20230222011313.png" group-title="外国" tvg-chno="4003",Euronews Live
-# https://jmp2.uk/sam-GBAJ4900020VP.m3u8
+https://jmp2.uk/stvp-GBAJ4900020VP
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/mhhVQE6.png" group-title="外国",Global News (720p)
 https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8
 #EXTINF:-1 tvg-id="USBC4400003OU" tvg-chno="1014" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC4400003OU_20230627T214948SQUARE.png_20230627214949.png" group-title="外国" , CBC News International
-https://jmp2.uk/sam-USBC4400003OU.m3u8
+https://jmp2.uk/stvp-USBC4400003OU
 #EXTINF:-1 tvg-id="USBD3000073N" tvg-name="Scripps News" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3000073N_20230627T215011SQUARE.png_20230627215012.png" group-title="外国",Scripps News
 https://d2g8cwacjxduj5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-zs6sdccud9qsv/scripps_news.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
 #EXTINF:-1 tvg-id="USBA300028QU" tvg-name="Newsmax TV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA300028QU_20221109T013516SQUARE.png_20221109013517.png" group-title="外国",Newsmax TV
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-newsmax/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-#EXTINF:-1 channel-id="samsung-USBB1900002KF" tvg-id="USBB1900002KF" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB1900002KF_20240520T222747SQUARE.png" group-title="外国" tvg-chno="1175",Real America's Voice
-https://jmp2.uk/sam-USBB1900002KF.m3u8
+#EXTINF:-1 channel-id="samsung-USBB1900002KF" tvg-id="USBB1900002KF" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogopeu/vc/00/02/34/USBB1900002KF_20240520T222747SQUARE.png" group-title="外国" tvg-chno="1175",Real America's Voice
+https://jmp2.uk/stvp-USBB1900002KF
 #EXTINF:0 channel-id="60-minutes" channel-number="3095" tvg-logo="https://images.pluto.tv/channels/66b646f9cd0d3100086af83c/colorLogoPNG.png" tvc-guide-art="https://images.pluto.tv/channels/66b646f9cd0d3100086af83c/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" tvc-guide-title="60 Minutes"  group-title="外国", 60 Minutes
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/66b646f9cd0d3100086af83c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=fb72a5a0-20cb-11f0-8220-5720109aea3c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=bc2d87d2-18a9-43e7-ab3f-7919a9818b7c&userId=&serverSideAds=true
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-64bf5ed5fa25ad1c59ae7472" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f6d3d0f3-810f-48b7-ad46-66916a0570f8/WaPoTV_Logo_White_1500x1000_-_Lauren_Saks.png" group-title="外国",Washington Post Television
@@ -1145,11 +1147,11 @@ https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/CaliforniaMusicChannel/picture?width=200&height=200" group-title="外国" tvg-name="California Music Channel USA",California Music Channel USA
 https://cmc-ono.amagi.tv/hls/amagi_hls_data_cmcAAAAAA-cmc-ono/CDN/playlist.m3u8?device=TDTChannels
 #EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-659f04ef27ae392d2e204695" tvg-id="5e20b730f2f8d5003d739db7-659f04ef27ae392d2e204695" tvg-logo="https://provider-static.plex.tv/epg/cms/production/b6bea985-9665-4dca-8ce4-2a8f79c7863c/FXSportsWhite.png" group-title="外国" , FOX Sports
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-659f04ef27ae392d2e204695.m3u8?X-Plex-Token=AuZ5WDZ6yhyVU9M9Tzy1
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-659f04ef27ae392d2e204695.m3u8?X-Plex-Token=AngG8S5GX2KjemLfJnHp
 #EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-62f42e6cad0081c6ef405723" tvg-id="5e20b730f2f8d5003d739db7-62f42e6cad0081c6ef405723" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a4210812-bed5-4b19-b6ca-0f4ffabf3106/documentaryplus_logo_dark_1_.png" group-title="外国" , Documentary+
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-62f42e6cad0081c6ef405723.m3u8?X-Plex-Token=AuZ5WDZ6yhyVU9M9Tzy1
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-62f42e6cad0081c6ef405723.m3u8?X-Plex-Token=AngG8S5GX2KjemLfJnHp
 #EXTINF:-1 channel-id="plex-discover-film" tvg-id="5e20b730f2f8d5003d739db7-618198fe4e1b6764011b046a" group-title="外国" tvg-logo="https://provider-static.plex.tv/epg/cms/production/96d7d0f2-6aff-4bf8-9ad6-37776e655f5f/thumbnail_discoverfilm_logo_light.png",Discover Film
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-618198fe4e1b6764011b046a.m3u8?X-Plex-Token=AuZ5WDZ6yhyVU9M9Tzy1
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-618198fe4e1b6764011b046a.m3u8?X-Plex-Token=AngG8S5GX2KjemLfJnHp
 
 #movies
 # #EXTINF:-1 tvg-id="6246" tvg-name="CHC家庭电影" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CHC2.png" group-title="影视",CHC家庭影院
