@@ -67,7 +67,7 @@ http://bitww.mycandy.eu.org:7088/udp/239.45.3.131:5140
 http://bitww.mycandy.eu.org:7088/udp/233.18.204.53:5140
 #EXTINF:-1 tvg-id="1989" tvg-name="上海都市频道" tvg-logo="https://raw.githubusercontent.com/dsunn/dsunn.github.io/master/logo/Shanghai2.png" group-title="上海", 都市频道
 http://bitww.mycandy.eu.org:7088/udp/239.45.3.236:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://assets.livednow.com/logo/SiTV-都市剧场.png" group-title="上海",都市剧场
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.cn/tv/都市剧场.png" group-title="上海",都市剧场
 http://bitww.mycandy.eu.org:7088/udp/239.45.3.136:5140
 #EXTINF:-1 tvg-name="上海教育" tvg-logo="https://raw.githubusercontent.com/dsunn/dsunn.github.io/master/logo/Shanghai6.png" group-title="上海",上海教育
 http://bitww.mycandy.eu.org:7088/udp/233.18.204.63:5140
