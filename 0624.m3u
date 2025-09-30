@@ -90,8 +90,6 @@ http://bitww.mycandy.eu.org:7088/udp/233.18.204.168:5140
 http://bitww.mycandy.eu.org:7088/udp/239.45.3.145:5140
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="央视",CCTV-1
 http://bitww.mycandy.eu.org:7088/udp/239.45.3.88:5140
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="央视",CCTV-1
-http://bitww.mycandy.eu.org:7088/udp/239.45.3.51:5140
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.cn/tv/CCTV2.png" group-title="央视",CCTV-2
 http://bitww.mycandy.eu.org:7088/udp/233.18.204.68:5140
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.cn/tv/CCTV2.png" group-title="央视",CCTV-2
@@ -756,6 +754,7 @@ http://bitww.mycandy.eu.org:7088/udp/233.18.204.155:5140
 http://bitww.mycandy.eu.org:7088/udp/233.18.204.149:5140
 #EXTINF:-1 tvg-name="三沙卫视" tvg-logo="https://live.fanmingming.cn/tv/三沙卫视.png" group-title="卫视标清",三沙卫视
 http://bitww.mycandy.eu.org:7088/udp/239.45.1.82:5140
+
 
 
 #未分类
