@@ -555,6 +555,8 @@ http://bitww.mycandy.eu.org:7088/udp/239.45.1.109:5140
 http://bitww.mycandy.eu.org:7088/udp/239.45.3.140:5140
 #EXTINF:-1 tvg-name="BesTV百视通" tvg-logo="https://raw.githubusercontent.com/dsunn/dsunn.github.io/master/logo/bestv.png" group-title="BesTV",BesTV 百视通
 http://bitww.mycandy.eu.org:7088/udp/239.45.3.157:5140
+#EXTINF:-1 tvg-name="天翼宣传" tvg-logo="https://raw.githubusercontent.com/dsunn/dsunn.github.io/master/logo/bestv.png" group-title="BesTV",天翼宣传 4K
+http://bitww.mycandy.eu.org:7088/udp/233.18.204.201:5140
 #上海标清
 #EXTINF:-1 tvg-id="" tvg-name="家庭理财" tvg-logo="https://live.fanmingming.cn/tv/家庭理财.png" group-title="上海标清",家庭理财
 http://bitww.mycandy.eu.org:7088/udp/233.18.204.157:5140
