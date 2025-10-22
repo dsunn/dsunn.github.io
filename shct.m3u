@@ -26,7 +26,7 @@ http://192.168.10.118:7088/udp/233.18.204.115:5140
 http://192.168.10.118:7088/udp/239.45.1.4:5140
 #EXTINF:-1 tvg-name="欢笑剧场" tvg-logo="https://live.fanmingming.cn/tv/欢笑剧场.png" group-title="上海",欢笑剧场
 http://192.168.10.118:7088/udp/239.45.3.196:5140
-#EXTINF:-1 tvg-name="欢笑剧场" tvg-logo="https://live.fanmingming.cn/tv/欢笑剧场.png" group-title="上海",欢笑剧场 4K
+#EXTINF:-1 tvg-name="欢笑剧场" tvg-logo="https://live.fanmingming.cn/tv/欢笑剧场.png" group-title="上海",欢笑剧场 4K50
 http://192.168.10.118:7088/udp/233.18.204.205:5140
 #EXTINF:-1 tvg-name="金色学堂" tvg-logo="https://live.fanmingming.cn/tv/金色学堂.png" group-title="上海",金色学堂
 http://192.168.10.118:7088/udp/233.18.204.66:5140
@@ -66,7 +66,7 @@ http://192.168.10.118:7088/udp/239.45.0.13:5140
 http://192.168.10.118:7088/udp/239.45.1.28:5140
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://live.fanmingming.cn/tv/东方卫视.png" group-title="上海",东方卫视
 http://192.168.10.118:7088/udp/233.18.204.51:5140
-#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://live.fanmingming.cn/tv/东方卫视.png" group-title="上海",东方卫视 4K
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://live.fanmingming.cn/tv/东方卫视.png" group-title="上海",东方卫视 4K50
 http://192.168.10.118:7088/udp/233.18.204.224:5140
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://live.fanmingming.cn/tv/东方卫视.png" group-title="上海",东方卫视
 http://192.168.10.118:7088/udp/239.45.3.146:5140
@@ -171,7 +171,7 @@ http://192.168.10.118:7088/udp/233.18.204.114:5140
 http://192.168.10.118:7088/udp/239.45.0.10:5140
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://live.fanmingming.cn/tv/CCTV16.png" group-title="央视",CCTV-16 4K
 http://192.168.10.118:7088/udp/239.45.0.12:5140
-#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://live.fanmingming.cn/tv/CCTV16.png" group-title="央视",CCTV-16 4K
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://live.fanmingming.cn/tv/CCTV16.png" group-title="央视",CCTV-16 4K50
 http://192.168.10.118:7088/udp/233.18.204.215:5140
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://live.fanmingming.cn/tv/CCTV17.png" group-title="央视",CCTV-17
 http://192.168.10.118:7088/udp/233.18.204.83:5140
@@ -187,7 +187,7 @@ http://192.168.10.118:7088/udp/239.45.1.194:5140
 http://192.168.10.118:7088/udp/239.45.0.55:5140
 #EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.cn/tv/CCTV4K.png" group-title="央视",CCTV-4K
 http://192.168.10.118:7088/udp/233.18.204.188:5140
-#EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.cn/tv/CCTV4K.png" group-title="央视",CCTV-4K
+#EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.cn/tv/CCTV4K.png" group-title="央视",CCTV-4K50
 http://192.168.10.118:7088/udp/233.18.204.204:5140
 #EXTINF:-1 tvg-name="第一剧场" tvg-logo="https://live.fanmingming.cn/tv/第一剧场.png" group-title="央视",第一剧场
 http://192.168.10.118:7088/udp/239.45.0.51:5140
@@ -288,9 +288,9 @@ http://192.168.10.118:7088/udp/233.18.204.100:5140
 http://192.168.10.118:7088/udp/239.45.1.84:5140
 #EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://live.fanmingming.cn/tv/四川卫视.png" group-title="卫视",四川卫视
 http://192.168.10.118:7088/udp/233.18.204.99:5140
-#EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://live.fanmingming.cn/tv/四川卫视.png" group-title="卫视",四川卫视 4K
+#EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://live.fanmingming.cn/tv/四川卫视.png" group-title="卫视",四川卫视 4K50
 http://192.168.10.118:7088/udp/233.18.204.225:5140
-#EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://live.fanmingming.cn/tv/四川卫视.png" group-title="卫视",四川卫视 4K
+#EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://live.fanmingming.cn/tv/四川卫视.png" group-title="卫视",四川卫视 4K50
 http://192.168.10.118:7088/udp/239.45.3.48:5140
 #EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://live.fanmingming.cn/tv/四川卫视.png" group-title="卫视",四川卫视
 http://192.168.10.118:7088/udp/239.45.1.83:5140
@@ -302,17 +302,17 @@ http://192.168.10.118:7088/udp/233.18.204.101:5140
 http://192.168.10.118:7088/udp/239.45.1.80:5140
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.cn/tv/湖南卫视.png" group-title="卫视",湖南卫视
 http://192.168.10.118:7088/udp/233.18.204.86:5140
-#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.cn/tv/湖南卫视.png" group-title="卫视",湖南卫视 4K
+#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.cn/tv/湖南卫视.png" group-title="卫视",湖南卫视 4K50
 http://192.168.10.118:7088/udp/233.18.204.227:5140
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.cn/tv/湖南卫视.png" group-title="卫视",湖南卫视
 http://192.168.10.118:7088/udp/239.45.3.228:5140
-#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://live.fanmingming.cn/tv/广东卫视.png" group-title="卫视",广东卫视 4k
+#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://live.fanmingming.cn/tv/广东卫视.png" group-title="卫视",广东卫视 4k50
 http://192.168.10.118:7088/udp/233.18.204.218:5140
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://live.fanmingming.cn/tv/广东卫视.png" group-title="卫视",广东卫视
 http://192.168.10.118:7088/udp/233.18.204.88:5140
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://live.fanmingming.cn/tv/广东卫视.png" group-title="卫视",广东卫视
 http://192.168.10.118:7088/udp/239.45.3.230:5140
-#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.cn/tv/深圳卫视.png" group-title="卫视",深圳卫视 4k
+#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.cn/tv/深圳卫视.png" group-title="卫视",深圳卫视 4k50
 http://192.168.10.118:7088/udp/233.18.204.219:5140
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.cn/tv/深圳卫视.png" group-title="卫视",深圳卫视
 http://192.168.10.118:7088/udp/233.18.204.89:5140
@@ -338,29 +338,29 @@ http://192.168.10.118:7088/udp/239.45.3.143:5140
 http://192.168.10.118:7088/udp/239.45.1.120:5140
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.cn/tv/浙江卫视.png" group-title="卫视",浙江卫视
 http://192.168.10.118:7088/udp/233.18.204.84:5140
-#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.cn/tv/浙江卫视.png" group-title="卫视",浙江卫视 4K
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.cn/tv/浙江卫视.png" group-title="卫视",浙江卫视 4K50
 http://192.168.10.118:7088/udp/233.18.204.229:5140
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.cn/tv/浙江卫视.png" group-title="卫视",浙江卫视
 http://192.168.10.118:7088/udp/239.45.3.178:5140
 #EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://live.fanmingming.cn/tv/山东卫视.png" group-title="卫视",山东卫视
 http://192.168.10.118:7088/udp/233.18.204.91:5140
-#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://live.fanmingming.cn/tv/山东卫视.png" group-title="卫视",山东卫视 4K
+#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://live.fanmingming.cn/tv/山东卫视.png" group-title="卫视",山东卫视 4K50
 http://192.168.10.118:7088/udp/233.18.204.228:5140
-#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://live.fanmingming.cn/tv/山东卫视.png" group-title="卫视",山东卫视 4K
+#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://live.fanmingming.cn/tv/山东卫视.png" group-title="卫视",山东卫视 4K50
 http://192.168.10.118:7088/udp/239.45.3.180:5140
 #EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://live.fanmingming.cn/tv/山东卫视.png" group-title="卫视",山东卫视
 http://192.168.10.118:7088/udp/239.45.3.238:5140
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://live.fanmingming.cn/tv/北京卫视.png" group-title="卫视",北京卫视
 http://192.168.10.118:7088/udp/233.18.204.87:5140
-#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://live.fanmingming.cn/tv/北京卫视.png" group-title="卫视",北京卫视 4K
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://live.fanmingming.cn/tv/北京卫视.png" group-title="卫视",北京卫视 4K50
 http://192.168.10.118:7088/udp/233.18.204.209:5140
-#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://live.fanmingming.cn/tv/北京卫视.png" group-title="卫视",北京卫视 4K
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://live.fanmingming.cn/tv/北京卫视.png" group-title="卫视",北京卫视 4K50
 http://192.168.10.118:7088/udp/239.45.3.123:5140
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://live.fanmingming.cn/tv/北京卫视.png" group-title="卫视",北京卫视
 http://192.168.10.118:7088/udp/239.45.3.229:5140
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.cn/tv/江苏卫视.png" group-title="卫视",江苏卫视
 http://192.168.10.118:7088/udp/233.18.204.85:5140
-#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.cn/tv/江苏卫视.png" group-title="卫视",江苏卫视 4K
+#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.cn/tv/江苏卫视.png" group-title="卫视",江苏卫视 4K50
 http://192.168.10.118:7088/udp/233.18.204.226:5140
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.cn/tv/江苏卫视.png" group-title="卫视",江苏卫视
 http://192.168.10.118:7088/udp/239.45.3.177:5140
@@ -546,7 +546,7 @@ http://192.168.10.118:7088/udp/233.18.204.170:5140
 http://192.168.10.118:7088/udp/233.18.204.169:5140
 #EXTINF:-1 tvg-name="4K高清" tvg-logo="https://raw.githubusercontent.com/dsunn/dsunn.github.io/master/logo/bestv.png" group-title="BesTV",BesTV 4K
 http://192.168.10.118:7088/udp/239.45.0.33:5140
-#EXTINF:-1 tvg-name="4K测试" tvg-logo="https://raw.githubusercontent.com/dsunn/dsunn.github.io/master/logo/bestv.png" group-title="BesTV",BesTV 4K测试
+#EXTINF:-1 tvg-name="4K测试" tvg-logo="https://raw.githubusercontent.com/dsunn/dsunn.github.io/master/logo/bestv.png" group-title="BesTV",BesTV 4K测试50
 http://192.168.10.118:7088/udp/239.45.1.109:5140
 #EXTINF:-1 tvg-name="BesTV体育" tvg-logo="https://raw.githubusercontent.com/dsunn/dsunn.github.io/master/logo/bestv.png" group-title="BesTV",BesTV 体育
 http://192.168.10.118:7088/udp/239.45.3.140:5140
