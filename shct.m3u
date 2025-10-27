@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U x-tvg-url="https://epg.deny.vip/sh/tel-epg.xml"
 
 #EXTINF:-1 tvg-name="五星体育" tvg-logo="https://raw.githubusercontent.com/dsunn/dsunn.github.io/master/logo/Shanghai5.png" group-title="上海",五星体育
 http://192.168.10.118:7088/udp/239.45.3.210:5140
