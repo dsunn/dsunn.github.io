@@ -72,17 +72,17 @@ http://192.168.10.118:7088/udp/233.18.204.224:5140
 http://192.168.10.118:7088/udp/239.45.3.146:5140
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://raw.githubusercontent.com/dsunn/live/main/tv/东方卫视.png" group-title="上海",东方卫视
 http://192.168.10.118:7088/udp/239.45.3.61:5140
-#EXTINF:-1 tvg-name="东方购物" tvg-logo="https://logo.catvod.com/东方购物.png" group-title="上海",东方购物
+#EXTINF:-1 tvg-name="东方购物" tvg-logo="https://raw.githubusercontent.com/dsunn/dsunn.github.io/master/logo/东方购物.png" group-title="上海",东方购物
 http://192.168.10.118:7088/udp/239.45.3.75:5140
-#EXTINF:-1 tvg-name="东方购物" tvg-logo="https://logo.catvod.com/东方购物.png" group-title="上海",东方购物
+#EXTINF:-1 tvg-name="东方购物" tvg-logo="https://raw.githubusercontent.com/dsunn/dsunn.github.io/master/logo/东方购物.png" group-title="上海",东方购物
 http://192.168.10.118:7088/udp/239.45.3.207:5140
-#EXTINF:-1 tvg-name="东方购物" tvg-logo="https://logo.catvod.com/东方购物.png" group-title="上海",东方购物
+#EXTINF:-1 tvg-name="东方购物" tvg-logo="https://raw.githubusercontent.com/dsunn/dsunn.github.io/master/logo/东方购物.png" group-title="上海",东方购物
 http://192.168.10.118:7088/udp/239.45.3.74:5140
-#EXTINF:-1 tvg-name="东方购物" tvg-logo="https://logo.catvod.com/东方购物.png" group-title="上海",东方购物
+#EXTINF:-1 tvg-name="东方购物" tvg-logo="https://raw.githubusercontent.com/dsunn/dsunn.github.io/master/logo/东方购物.png" group-title="上海",东方购物
 http://192.168.10.118:7088/udp/233.18.204.61:5140
-#EXTINF:-1 tvg-name="东方购物" tvg-logo="https://logo.catvod.com/东方购物.png" group-title="上海",东方购物
+#EXTINF:-1 tvg-name="东方购物" tvg-logo="https://raw.githubusercontent.com/dsunn/dsunn.github.io/master/logo/东方购物.png" group-title="上海",东方购物
 http://192.168.10.118:7088/udp/233.18.204.62:5140
-#EXTINF:-1 tvg-name="防疫宣传" tvg-logo="https://logo.catvod.com/防疫宣传.png" group-title="上海",防疫宣传
+#EXTINF:-1 tvg-name="防疫宣传" tvg-logo="https://raw.githubusercontent.com/dsunn/dsunn.github.io/master/logo/防疫宣传.png" group-title="上海",防疫宣传
 http://192.168.10.118:7088/udp/239.45.3.235:5140
 #央视
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/dsunn/live/main/tv/CCTV1.png" group-title="央视",CCTV-1
@@ -277,9 +277,9 @@ http://192.168.10.118:7088/udp/233.18.204.187:5140
 http://192.168.10.118:7088/udp/239.45.3.141:5140
 #EXTINF:-1 tvg-name="电视指南" tvg-logo="https://raw.githubusercontent.com/dsunn/live/main/tv/电视指南.png" group-title="央视",电视指南
 http://192.168.10.118:7088/udp/239.45.1.73:5140
-#EXTINF:-1 tvg-name="央广购物" tvg-logo="https://logo.catvod.com/央广购物.png" group-title="央视",央广购物
+#EXTINF:-1 tvg-name="央广购物" tvg-logo="https://raw.githubusercontent.com/dsunn/dsunn.github.io/master/logo/央广购物.png" group-title="央视",央广购物
 http://192.168.10.118:7088/udp/239.45.0.35:5140
-#EXTINF:-1 tvg-name="央广购物" tvg-logo="https://logo.catvod.com/央广购物.png" group-title="央视",央广购物
+#EXTINF:-1 tvg-name="央广购物" tvg-logo="https://raw.githubusercontent.com/dsunn/dsunn.github.io/master/logo/央广购物.png" group-title="央视",央广购物
 http://192.168.10.118:7088/udp/233.18.204.39:5140
 #卫视
 #EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://raw.githubusercontent.com/dsunn/live/main/tv/重庆卫视.png" group-title="卫视",重庆卫视
@@ -491,7 +491,7 @@ http://192.168.10.118:7088/udp/233.18.204.43:5140
 http://192.168.10.118:7088/udp/239.45.3.18:5140
 #EXTINF:-1 tvg-name="先锋乒羽" tvg-logo="https://raw.githubusercontent.com/dsunn/live/main/tv/先锋乒羽.png" group-title="数字",先锋乒羽
 http://192.168.10.118:7088/udp/239.45.3.43:5140
-#EXTINF:-1 tvg-name="IPTV" tvg-logo="https://logo.catvod.com/IPTV.png" group-title="数字",IPTV
+#EXTINF:-1 tvg-name="IPTV" tvg-logo="https://raw.githubusercontent.com/dsunn/dsunn.github.io/master/logo/IPTV.png" group-title="数字",IPTV
 http://192.168.10.118:7088/udp/239.45.3.103:5140
 #BesTV
 #EXTINF:-1 tvg-id="-1" tvg-name="BesTV电影介绍" tvg-logo="https://raw.githubusercontent.com/dsunn/dsunn.github.io/master/logo/bestv.png" group-title="BesTV",BesTV电影介绍
