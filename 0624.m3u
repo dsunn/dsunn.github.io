@@ -2,14 +2,8 @@
 #EPG:http://epg.51zmt.top:8000/e.xml https://epg.deny.vip/sh/tel-epg.xml x-tvg-url="https://live.fanmingming.cn/e.xml"
 ##edited on 01-15-2025
 
-
 #上海
 #EXTM3U x-tvg-url="https://epg.deny.vip/sh/tel-epg.xml"
-
-
-
-
-
 
 #EXTINF:-1 tvg-name="五星体育" tvg-logo="https://raw.githubusercontent.com/dsunn/dsunn.github.io/master/logo/Shanghai5.png" group-title="上海",五星体育
 http://bitww.mycandy.eu.org:7088/udp/239.45.3.210:5140
@@ -82,7 +76,7 @@ http://bitww.mycandy.eu.org:7088/udp/233.18.204.224:5140
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://raw.githubusercontent.com/dsunn/live/main/tv/东方卫视.png" group-title="上海",东方卫视
 http://bitww.mycandy.eu.org:7088/udp/239.45.3.146:5140
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://raw.githubusercontent.com/dsunn/live/main/tv/东方卫视.png" group-title="上海",东方卫视
-http://bitww.mycandy.eu.org:7088/udp/239.45.3.61:5140
+# http://bitww.mycandy.eu.org:7088/udp/239.45.3.61:5140
 #EXTINF:-1 tvg-name="东方购物" tvg-logo="https://raw.githubusercontent.com/dsunn/dsunn.github.io/master/logo/东方购物.png" group-title="上海",东方购物
 http://bitww.mycandy.eu.org:7088/udp/239.45.3.75:5140
 #EXTINF:-1 tvg-name="东方购物" tvg-logo="https://raw.githubusercontent.com/dsunn/dsunn.github.io/master/logo/东方购物.png" group-title="上海",东方购物
