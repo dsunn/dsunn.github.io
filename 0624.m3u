@@ -1142,7 +1142,7 @@ https://jmp2.uk/stvp-GBBD1900008O3
 https://jmp2.uk/stvp-USBB52000022Q
 #EXTINF:0 channel-id="news-12-new-york" channel-number="5190" tvg-logo="https://images.pluto.tv/channels/5fff49cfb5cd4f0007c2b0dc/colorLogoPNG.png" tvc-guide-art="https://images.pluto.tv/channels/5fff49cfb5cd4f0007c2b0dc/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" tvc-guide-title="News 12 New York"  group-title="外国", News 12 New York
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5fc6f3a62b6f7b002e77ffaa.m3u8?X-Plex-Token=XdJaWmt9LeoR6rrxSn53
-#EXTINF:-1 tvg-id="USBB2200014DK" tvg-name="NBC News NOW" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogopeu/vc/00/02/34/USBB2200014DK_20220712T041422SQUARE.png_20220712041422.png" group-title="外国",NBC News NOW
+#EXTINF:-1 tvg-id="USBB2200014DK" tvg-name="NBC News NOW" tvg-logo="https://provider-static.plex.tv/7/epg/channels/logos/gracenote/713ea11a46bcb609bc91c386c29076e6.png" group-title="外国",NBC News NOW
 https://jmp2.uk/stvp-USBB2200014DK
 #EXTINF:-1 channel-id="plex-nbc-bay-area-news" tvg-id="5e20b730f2f8d5003d739db7-64511fb89d0296ecc10e6026" tvg-logo="https://provider-static.plex.tv/5/epg/channels/logos/gracenote/516903d06c28e0aa9ca017b9cd630d39.png" tvg-name="KNTVSTR" group-title="外国",NBC Bay Area News
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-64511fb89d0296ecc10e6026.m3u8?X-Plex-Token=XdJaWmt9LeoR6rrxSn53
