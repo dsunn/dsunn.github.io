@@ -1173,8 +1173,8 @@ https://cbsn-la.cbsnstream.cbsnews.com/out/v1/57b6c4534a164accb6b1872b501e0028/m
 #EXTINF:-1 channel-id="plex-bloomberg-tv-2" tvg-id="5e20b730f2f8d5003d739db7-61d73ab0a7b7c7f703418516" tvg-logo="https://provider-static.plex.tv/6/epg/channels/logos/gracenote/66a30548bffdf5f5e158e3baf755afad.png" tvg-name="BLOOM4K" group-title="外国",Bloomberg TV
 https://jmp2.uk/stvp-USAJ3400011A8
 # https://epg.provider.plex.tv/library/parts/68fa84637ac952737656ae5f-61d73ab0a7b7c7f703418516.m3u8?X-Plex-Token=XdJaWmt9LeoR6rrxSn53
-# group-title="News & Opinion" tvg-chno="1155",Bloomberg TV+
-#EXTINF:-1 channel-id="samsung-USAJ30000041W" tvg-id="USAJ30000041W" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ30000041W_20240924T225008SQUARE.png" group-title="News & Opinion" tvg-chno="1160",Bloomberg Originals
+# group-title="外国" tvg-chno="1155",Bloomberg TV+
+#EXTINF:-1 channel-id="samsung-USAJ30000041W" tvg-id="USAJ30000041W" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ30000041W_20240924T225008SQUARE.png" group-title="外国" tvg-chno="1160",Bloomberg Originals
 https://jmp2.uk/stvp-USAJ30000041W
 #EXTINF:-1 tvg-id="USAJ4300005PJ" tvg-name="Yahoo Finance" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ4300005PJ_20230125T022140SQUARE.png_20230125022141.png" group-title="外国",Yahoo Finance
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5f170f01b898490041b49dd1.m3u8?X-Plex-Token=XdJaWmt9LeoR6rrxSn53
