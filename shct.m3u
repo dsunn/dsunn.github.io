@@ -73,7 +73,7 @@ http://192.168.10.118:7088/udp/233.18.204.224:5140
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://raw.githubusercontent.com/dsunn/live/main/tv/东方卫视.png" group-title="上海",东方卫视
 http://192.168.10.118:7088/udp/239.45.3.146:5140
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://raw.githubusercontent.com/dsunn/live/main/tv/东方卫视.png" group-title="上海",东方卫视
-# http://192.168.10.118:7088/udp/239.45.3.61:5140
+http://192.168.10.118:7088/udp/233.18.204.231:5140
 #EXTINF:-1 tvg-name="东方购物" tvg-logo="https://raw.githubusercontent.com/dsunn/dsunn.github.io/master/logo/东方购物.png" group-title="上海",东方购物
 http://192.168.10.118:7088/udp/239.45.3.75:5140
 #EXTINF:-1 tvg-name="东方购物" tvg-logo="https://raw.githubusercontent.com/dsunn/dsunn.github.io/master/logo/东方购物.png" group-title="上海",东方购物
