@@ -1250,3 +1250,6 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-62f42e6cad00
 #IHOT
 #咪咕直播
 
+#vod test
+#EXTINF:-1 group-title="vod" ,vod test 1
+https://play.modujx11.com/20251208/EPX6sQVl/index.m3u8 
