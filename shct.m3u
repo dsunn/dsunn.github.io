@@ -817,3 +817,6 @@ http://192.168.10.118:7088/udp/233.18.204.155:5140
 http://192.168.10.118:7088/udp/233.18.204.149:5140
 #EXTINF:-1 tvg-name="三沙卫视" tvg-logo="https://raw.githubusercontent.com/dsunn/live/main/tv/三沙卫视.png" group-title="卫视标清",三沙卫视
 http://192.168.10.118:7088/udp/239.45.1.82:5140
+
+#EXTINF:-1 group-title="vod" ,vod test 1
+https://play.modujx11.com/20251208/EPX6sQVl/index.m3u8 
