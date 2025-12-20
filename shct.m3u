@@ -819,4 +819,4 @@ http://192.168.10.118:7088/udp/233.18.204.149:5140
 http://192.168.10.118:7088/udp/239.45.1.82:5140
 
 #EXTINF:-1 group-title="vod" ,vod test 1
-https://play.modujx11.com/20251214/oTO5F1PD/index.m3u8
+#https://play.modujx11.com/20251214/oTO5F1PD/index.m3u8
