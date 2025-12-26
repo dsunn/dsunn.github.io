@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url="https://epg.deny.vip/sh/tel-epg.xml"
 
 #EXTINF:-1 tvg-name="五星体育" tvg-logo="https://raw.githubusercontent.com/dsunn/dsunn.github.io/master/logo/Shanghai5.png" group-title="上海",五星体育
-http://192.168.10.118:7088/udp/239.45.3.210:5140
+# http://192.168.10.118:7088/udp/239.45.3.210:5140
 #EXTINF:-1 tvg-name="五星体育" tvg-logo="https://raw.githubusercontent.com/dsunn/dsunn.github.io/master/logo/Shanghai5.png" group-title="上海",五星体育
 http://192.168.10.118:7088/udp/233.18.204.58:5140
 #EXTINF:-1 tvg-id="1984" tvg-name="上视新闻频道" tvg-logo="https://raw.githubusercontent.com/dsunn/dsunn.github.io/master/logo/Shanghai1.png" group-title="上海", 新闻综合
@@ -442,7 +442,7 @@ http://192.168.10.118:7088/udp/239.45.0.56:5140
 http://192.168.10.118:7088/udp/233.18.204.172:5140
 #纪实
 #EXTINF:-1 tvg-name="北京纪实科教" tvg-logo="https://raw.githubusercontent.com/dsunn/live/main/tv/北京纪实科教.png" group-title="纪实",北京纪实科教
-http://192.168.10.118:7088/udp/239.45.1.14:5140
+# http://192.168.10.118:7088/udp/239.45.1.14:5140
 #EXTINF:-1 tvg-name="金鹰纪实" tvg-logo="https://raw.githubusercontent.com/dsunn/live/main/tv/金鹰纪实.png" group-title="纪实",金鹰纪实
 http://192.168.10.118:7088/udp/233.18.204.104:5140
 #EXTINF:-1 tvg-name="金鹰纪实" tvg-logo="https://raw.githubusercontent.com/dsunn/live/main/tv/金鹰纪实.png" group-title="纪实",金鹰纪实
