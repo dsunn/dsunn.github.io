@@ -38,8 +38,6 @@ http://192.168.10.118:7088/udp/233.18.204.231:5140
 http://192.168.10.118:7088/udp/233.18.204.51:5140
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://raw.githubusercontent.com/dsunn/live/main/tv/东方卫视.png" group-title="上海",东方卫视 4K50
 http://192.168.10.118:7088/udp/233.18.204.224:5140
-#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://raw.githubusercontent.com/dsunn/live/main/tv/东方卫视.png" group-title="上海",东方卫视
-http://192.168.10.118:7088/udp/233.18.204.231:5140
 #EXTINF:-1 tvg-name="东方购物" tvg-logo="https://raw.githubusercontent.com/dsunn/dsunn.github.io/master/logo/东方购物.png" group-title="上海",东方购物
 http://192.168.10.118:7088/udp/233.18.204.61:5140
 #EXTINF:-1 tvg-name="东方购物" tvg-logo="https://raw.githubusercontent.com/dsunn/dsunn.github.io/master/logo/东方购物.png" group-title="上海",东方购物
@@ -83,7 +81,7 @@ http://192.168.10.118:7088/udp/233.18.204.81:5140
 http://192.168.10.118:7088/udp/233.18.204.82:5140
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/dsunn/live/main/tv/CCTV16.png" group-title="央视",CCTV-16 4K
 http://192.168.10.118:7088/udp/233.18.204.114:5140
-#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/dsunn/live/main/tv/CCTV16.png" group-title="央视",CCTV-16 4K50
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/dsunn/live/main/tv/CCTV16.png" group-title="央视",CCTV-16 4K 50
 http://192.168.10.118:7088/udp/233.18.204.215:5140
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://raw.githubusercontent.com/dsunn/live/main/tv/CCTV17.png" group-title="央视",CCTV-17
 http://192.168.10.118:7088/udp/233.18.204.83:5140
@@ -91,7 +89,7 @@ http://192.168.10.118:7088/udp/233.18.204.83:5140
 http://192.168.10.118:7088/udp/233.18.204.28:5140
 #EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://raw.githubusercontent.com/dsunn/live/main/tv/CCTV4K.png" group-title="央视",CCTV-4K
 http://192.168.10.118:7088/udp/233.18.204.188:5140
-#EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://raw.githubusercontent.com/dsunn/live/main/tv/CCTV4K.png" group-title="央视",CCTV-4K50
+#EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://raw.githubusercontent.com/dsunn/live/main/tv/CCTV4K.png" group-title="央视",CCTV-4K 50
 http://192.168.10.118:7088/udp/233.18.204.204:5140
 #EXTINF:-1 tvg-name="第一剧场" tvg-logo="https://raw.githubusercontent.com/dsunn/live/main/tv/第一剧场.png" group-title="央视",第一剧场
 http://192.168.10.118:7088/udp/233.18.204.184:5140
@@ -115,13 +113,13 @@ http://192.168.10.118:7088/udp/233.18.204.180:5140
 http://192.168.10.118:7088/udp/233.18.204.186:5140
 #EXTINF:-1 tvg-name="央视台球" tvg-logo="https://raw.githubusercontent.com/dsunn/live/main/tv/央视台球.png" group-title="央视",央视台球
 http://192.168.10.118:7088/udp/233.18.204.177:5140
-#EXTINF:-1 tvg-name="CETV1" tvg-logo="https://raw.githubusercontent.com/dsunn/live/main/tv/CETV1.png" group-title="央视",CETV1
+#EXTINF:-1 tvg-name="CETV1" tvg-logo="https://raw.githubusercontent.com/dsunn/live/main/tv/CETV1.png" group-title="央视",中国教育1
 http://192.168.10.118:7088/udp/233.18.204.98:5140
-#EXTINF:-1 tvg-name="CETV1" tvg-logo="https://raw.githubusercontent.com/dsunn/live/main/tv/CETV1.png" group-title="央视",CETV1
+#EXTINF:-1 tvg-name="CETV1" tvg-logo="https://raw.githubusercontent.com/dsunn/live/main/tv/CETV1.png" group-title="央视",中国教育1
 http://192.168.10.118:7088/udp/233.18.204.153:5140
-#EXTINF:-1 tvg-name="CETV2" tvg-logo="https://raw.githubusercontent.com/dsunn/live/main/tv/CETV2.png" group-title="央视",CETV2
+#EXTINF:-1 tvg-name="CETV2" tvg-logo="https://raw.githubusercontent.com/dsunn/live/main/tv/CETV2.png" group-title="央视",中国教育2
 http://192.168.10.118:7088/udp/233.18.204.154:5140
-#EXTINF:-1 tvg-name="CETV4" tvg-logo="https://raw.githubusercontent.com/dsunn/live/main/tv/CETV4.png" group-title="央视",CETV4
+#EXTINF:-1 tvg-name="CETV4" tvg-logo="https://raw.githubusercontent.com/dsunn/live/main/tv/CETV4.png" group-title="央视",中国教育4
 http://192.168.10.118:7088/udp/233.18.204.111:5140
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://raw.githubusercontent.com/dsunn/live/main/tv/CHC动作电影.png" group-title="央视",CHC动作电影
 http://192.168.10.118:7088/udp/233.18.204.174:5140
