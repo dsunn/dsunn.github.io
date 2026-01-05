@@ -84,9 +84,9 @@ http://ts.whatsever.eu.org:12223/udp/233.18.204.80:5140
 http://ts.whatsever.eu.org:12223/udp/233.18.204.81:5140
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/dsunn/live/main/tv/CCTV16.png" group-title="央视",CCTV-16
 http://ts.whatsever.eu.org:12223/udp/233.18.204.82:5140
-#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/dsunn/live/main/tv/CCTV16.png" group-title="央视",CCTV-16-4K
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/dsunn/live/main/tv/CCTV16.png" group-title="央视",CCTV-16 4K
 http://ts.whatsever.eu.org:12223/udp/233.18.204.114:5140
-#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/dsunn/live/main/tv/CCTV16.png" group-title="央视",CCTV-16-4K50
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/dsunn/live/main/tv/CCTV16.png" group-title="央视",CCTV-16 4K 50
 http://ts.whatsever.eu.org:12223/udp/233.18.204.215:5140
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://raw.githubusercontent.com/dsunn/live/main/tv/CCTV17.png" group-title="央视",CCTV-17
 http://ts.whatsever.eu.org:12223/udp/233.18.204.83:5140
@@ -94,7 +94,7 @@ http://ts.whatsever.eu.org:12223/udp/233.18.204.83:5140
 http://ts.whatsever.eu.org:12223/udp/233.18.204.28:5140
 #EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://raw.githubusercontent.com/dsunn/live/main/tv/CCTV4K.png" group-title="央视",CCTV-4K
 http://ts.whatsever.eu.org:12223/udp/233.18.204.188:5140
-#EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://raw.githubusercontent.com/dsunn/live/main/tv/CCTV4K.png" group-title="央视",CCTV-4K50
+#EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://raw.githubusercontent.com/dsunn/live/main/tv/CCTV4K.png" group-title="央视",CCTV-4K 50
 http://ts.whatsever.eu.org:12223/udp/233.18.204.204:5140
 #EXTINF:-1 tvg-name="第一剧场" tvg-logo="https://raw.githubusercontent.com/dsunn/live/main/tv/第一剧场.png" group-title="央视",第一剧场
 http://ts.whatsever.eu.org:12223/udp/233.18.204.184:5140
