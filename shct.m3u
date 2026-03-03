@@ -45,8 +45,6 @@ http://192.168.10.118:7088/udp/233.18.204.62:5140
 #央视
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/dsunn/live/main/tv/CCTV1.png" group-title="央视",CCTV-1
 http://192.168.10.118:7088/udp/233.18.204.52:5140
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/dsunn/live/main/tv/CCTV1.png" group-title="央视",CCTV-1
-http://192.168.10.118:7088/udp/233.18.204.168:5140
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://raw.githubusercontent.com/dsunn/live/main/tv/CCTV2.png" group-title="央视",CCTV-2
 http://192.168.10.118:7088/udp/233.18.204.68:5140
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://raw.githubusercontent.com/dsunn/live/main/tv/CCTV3.png" group-title="央视",CCTV-3
@@ -262,6 +260,8 @@ http://192.168.10.118:7088/udp/233.18.204.167:5140
 http://192.168.10.118:7088/udp/233.18.204.159:5140
 #EXTINF:-1 tvg-id="-1" tvg-name="BesTV 直播" tvg-logo="https://raw.githubusercontent.com/dsunn/dsunn.github.io/master/logo/bestv.png" group-title="BesTV",BesTV 直播
 http://192.168.10.118:7088/udp/233.18.204.160:5140
+#EXTINF:-1 tvg-id="-1" tvg-name="BesTV 直播" tvg-logo="https://raw.githubusercontent.com/dsunn/dsunn.github.io/master/logo/bestv.png" group-title="BesTV",BesTV 直播
+http://192.168.10.118:7088/udp/233.18.204.168:5140
 #EXTINF:-1 tvg-id="-1" tvg-name="BesTV 4k动画" tvg-logo="https://raw.githubusercontent.com/dsunn/dsunn.github.io/master/logo/bestv.png" group-title="BesTV",BesTV 4k动画
 http://192.168.10.118:7088/udp/233.18.204.171:5140
 #EXTINF:-1 tvg-id="-1" tvg-name="BesTV 4k记录" tvg-logo="https://raw.githubusercontent.com/dsunn/dsunn.github.io/master/logo/bestv.png" group-title="BesTV",BesTV 4k记录
