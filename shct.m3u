@@ -400,7 +400,7 @@ http://192.168.10.118:7088/udp/233.18.204.149:5140
 
 #vod test
 #EXTINF:-1 group-title="vod" ,vod test 1
-https://six.svipplay.com/bfm3u8/254e18b07ca5b0180a7b36a6fa01f9a5.m3u8
+https://six.svipplay.com/rym3u8/8d/d4/8dd4f4c6f81c4eb11f8a28e587aa7d7e.m3u8
 #EXTINF:-1 group-title="vod" ,vod test 2
 https://svip.ryplay14.com/20260325/15772_8bebd51c/index.m3u8
 #EXTINF:-1 group-title="vod" ,vod test 3
