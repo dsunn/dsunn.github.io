@@ -401,8 +401,8 @@ http://192.168.10.118:7088/udp/233.18.204.149:5140
 #vod test
 #EXTINF:-1 group-title="vod" ,vod test 013
 https://hn.bfvvs.com/play/hls/dyPoQEWb/index.m3u8
-#EXTINF:-1 group-title="vod" ,vod test 2
-https://six.svipplay.com/rym3u8/93/93/939327ea144d3e2794dfd91ed232627c.m3u8
+#EXTINF:-1 group-title="vod" ,vod test 012
+https://hn.bfvvs.com/play/hls/aKr1w0ne/index.m3u8
 #EXTINF:-1 group-title="vod" ,vod test 3
 https://six.svipplay.com/rym3u8/9f/1a/9f1a2e99ecc385f2a6630f308030e754.m3u8
 #EXTINF:-1 group-title="vod" ,vod test 4
