@@ -10,7 +10,7 @@ http://192.168.10.118:7088/udp/233.18.204.65:5140
 http://192.168.10.118:7088/udp/233.18.204.48:5140
 #EXTINF:-1 tvg-name="乐游" tvg-logo="https://raw.githubusercontent.com/dsunn/live/main/tv/乐游.png" group-title="上海",乐游
 http://192.168.10.118:7088/udp/233.18.204.47:5140
-#EXTINF:-1 tvg-name="多彩文体" tvg-logo="https://raw.githubusercontent.com/dsunn/live/main/tv/SiTV-多彩文体.png" group-title="上海",多彩文体
+#EXTINF:-1 tvg-name="多彩文体" tvg-logo="https://raw.githubusercontent.com/dsunn/live/main/tv/SiTV-多彩文体4K.png" group-title="上海",多彩文体
 http://192.168.10.118:7088/udp/233.18.204.50:5140
 #EXTINF:-1 tvg-name="多彩文体" tvg-logo="https://raw.githubusercontent.com/dsunn/live/main/tv/SiTV-多彩文体4K.png" group-title="上海",多彩文体 4K
 http://192.168.10.118:7088/udp/233.18.204.115:5140
