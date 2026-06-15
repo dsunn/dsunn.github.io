@@ -15,11 +15,11 @@ http://ts.whatsever.eu.org:12223/udp/233.18.204.65:5140
 http://ts.whatsever.eu.org:12223/udp/233.18.204.48:5140
 #EXTINF:-1 tvg-name="乐游" tvg-logo="https://raw.githubusercontent.com/dsunn/live/main/tv/乐游.png" group-title="上海",乐游
 http://ts.whatsever.eu.org:12223/udp/233.18.204.47:5140
-#EXTINF:-1 tvg-name="欢笑剧场" tvg-logo="https://raw.githubusercontent.com/dsunn/live/main/tv/欢笑剧场.png" group-title="上海",欢笑剧场
+#EXTINF:-1 tvg-name="多彩文体" tvg-logo="https://raw.githubusercontent.com/dsunn/live/main/tv/SiTV-多彩文体4K.png" group-title="上海",多彩文体
 http://ts.whatsever.eu.org:12223/udp/233.18.204.50:5140
-#EXTINF:-1 tvg-name="欢笑剧场" tvg-logo="https://raw.githubusercontent.com/dsunn/live/main/tv/欢笑剧场.png" group-title="上海",欢笑剧场 4K
+#EXTINF:-1 tvg-name="多彩文体" tvg-logo="https://raw.githubusercontent.com/dsunn/live/main/tv/SiTV-多彩文体4K.png" group-title="上海",多彩文体 4K
 http://ts.whatsever.eu.org:12223/udp/233.18.204.115:5140
-#EXTINF:-1 tvg-name="欢笑剧场" tvg-logo="https://raw.githubusercontent.com/dsunn/live/main/tv/欢笑剧场.png" group-title="上海",欢笑剧场 4K50
+#EXTINF:-1 tvg-name="多彩文体" tvg-logo="https://raw.githubusercontent.com/dsunn/live/main/tv/SiTV-多彩文体4K.png" group-title="上海",多彩文体 4K50
 http://ts.whatsever.eu.org:12223/udp/233.18.204.205:5140
 #EXTINF:-1 tvg-name="金色学堂" tvg-logo="https://raw.githubusercontent.com/dsunn/live/main/tv/金色学堂.png" group-title="上海",金色学堂
 http://ts.whatsever.eu.org:12223/udp/233.18.204.66:5140
